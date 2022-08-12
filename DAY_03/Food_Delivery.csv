@@ -1,0 +1,2220 @@
+Restaurant,Location,Cuisines,Average_Cost,Minimum_Order,Rating,Votes,Reviews
+ID_3190,"Dockyard Road, Mumbai CST Area",Fast Food,₹100,₹50,-,-,-
+ID_4249,"Mico Layout, Stage 2, BTM Layout,Bangalore","Beverages, Street Food",₹100,₹50,3.3,4,3
+ID_6657,"Tejas Nagar Colony, Wadala West, Mumbai",South Indian,₹200,₹50,3.2,12,4
+ID_2879,"Dockyard Road, Mumbai CST Area","South Indian, North Indian, Fast Food",₹200,₹50,3.7,182,107
+ID_3638,Majestic,"Raw Meats, Naga",₹100,₹50,3.6,19,7
+ID_4752,Mumbai Central,"Desserts, Ice Cream",₹100,₹50,-,-,-
+ID_298,"Sector 1, Noida","Mughlai, Arabian, North Indian",₹350,₹50,NEW,-,-
+ID_4415,Mumbai Central,Chinese,₹200,₹50,3.2,14,9
+ID_5965,"Sector 3, Marathalli","Biryani, Chinese",₹200,₹50,3.2,4,-
+ID_2772,"D-Block, Sector 63, Noida","Chinese, Continental, Italian, Healthy Food, Asian, North Indian, Pizza, Desserts",₹200,₹50,3.7,27,16
+ID_365,"Noorkhan Bazaar, Malakpet, Hyderabad","South Indian, Fast Food",₹100,₹99,3.8,418,30
+ID_7780,"Tejas Nagar Colony, Wadala West, Mumbai","Maharashtrian, Beverages",₹50,₹50,4.0,264,168
+ID_1464,Delhi Cantt.,Street Food,₹100,₹50,-,-,-
+ID_4893,"Chandni Chowk, Kolkata","North Indian, Fast Food",₹150,₹50,3.4,38,20
+ID_8452,"Mico Layout, Stage 2, BTM Layout,Bangalore","Cafe, Italian, Fast Food",₹350,₹50,4.0,168,49
+ID_5130,"Raja Bazar, Kolkata","Mishti, South Indian, Street Food",₹100,₹50,3.4,19,-
+ID_5212,"FTI College, Law College Road, Pune","North Indian, Chinese",₹200,₹50,3.1,26,7
+ID_2141,"Sector 1, Noida",Italian,₹100,₹50,-,-,-
+ID_1635,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Pizza, Italian",₹200,₹50,3.9,-,-
+ID_5837,"Delhi Administration Flats, Timarpur",Chinese,₹150,₹50,3.8,95,34
+ID_2676,Mumbai Central,"Rolls, Fast Food, Biryani",₹150,₹50,3.3,34,4
+ID_3904,Mumbai Central,"Ice Cream, Desserts",₹100,₹50,3.4,7,4
+ID_7260,"Rmz Centennial, I Gate, Whitefield","North Indian, Mughlai",₹150,₹50,NEW,-,-
+ID_3225,"Delhi High Court, India Gate","North Indian, Biryani, Chinese",₹150,₹50,3.1,7,7
+ID_2306,"Sector 14, Noida",Bakery,₹150,₹500,3.9,607,323
+ID_7629,"Sector 14, Noida","Chinese, South Indian",₹200,₹50,3.9,178,67
+ID_1752,"Raja Bazar, Kolkata","Street Food, Desserts",₹100,₹50,-,-,-
+ID_7877,"Sector 1, Noida","North Indian, Chinese, Mughlai",₹200,₹99,2.8,15,7
+ID_352,Delhi University-GTB Nagar,"North Indian, Beverages",₹200,₹50,3.7,57,23
+ID_5067,Delhi Cantt.,"North Indian, Chinese",₹350,₹50,3.4,22,9
+ID_4381,"Yerawada, Pune, Maharashtra","European, Chinese, North Indian, Italian",₹650,₹50,3.9,920,436
+ID_2457,"Delhi Administration Flats, Timarpur","North Indian, Chinese, Continental, Italian",₹600,₹50,4.2,910,572
+ID_4962,Delhi University-GTB Nagar,"North Indian, Burger, Chinese, Fast Food, Beverages, Pizza, Sandwich, Momos",₹150,₹50,3.8,1448,971
+ID_4120,"Yerawada, Pune, Maharashtra","Konkan, Maharashtrian",₹150,₹50,3.0,6,3
+ID_5872,"Musi Nagar, Malakpet, Hyderabad","North Indian, Chinese",₹300,₹50,3.6,51,17
+ID_3783,"Mico Layout, Stage 2, BTM Layout,Bangalore","Beverages, Juices, Fast Food",₹100,₹50,3.9,51,24
+ID_1594,Majestic,Pizza,₹200,₹50,-,-,-
+ID_6774,"Sandhurst Road, Mumbai CST Area","Chinese, North Indian, Fast Food, Biryani",₹150,₹50,2.8,4,3
+ID_4625,Majestic,"Fast Food, North Eastern, Momos",₹100,₹50,-,-,-
+ID_7326,"D-Block, Sector 63, Noida","North Indian, Chinese",₹200,₹50,NEW,-,-
+ID_3030,"Tejas Nagar Colony, Wadala West, Mumbai",Chinese,₹350,₹50,3.6,211,129
+ID_470,"Sector 14, Noida","Wraps, Burger, North Indian, Biryani",₹100,₹50,3.2,5,3
+ID_8293,"Nathan Road, Mangaldas Road, Pune","Chinese, North Indian, Seafood",₹500,₹50,3.6,54,18
+ID_8657,"Delhi Administration Flats, Timarpur","Continental, Italian, North Indian, Chinese",₹200,₹50,3.8,286,77
+ID_164,"Gora Bazar, Rajbari, North Dumdum, Kolkata","North Indian, Mughlai",₹150,₹0,2.9,8,3
+ID_1665,Mumbai Central,"American, Mexican, Burger, Tex-Mex","₹1,000",₹50,4.1,2866,1961
+ID_1531,"Dockyard Road, Mumbai CST Area","Hyderabadi, Arabian, Chinese, Mughlai",₹200,₹50,3.8,149,74
+ID_1754,Delhi University-GTB Nagar,Bakery,₹200,₹99,3.4,18,7
+ID_2924,Mumbai Central,"Bakery, Desserts",₹200,₹50,3.0,4,1
+ID_7773,"Yerawada, Pune, Maharashtra","North Indian, South Indian, Chinese, Fast Food",₹400,₹50,3.5,22,15
+ID_372,"Babarpur, New Delhi, Delhi",North Indian,₹100,₹50,3.3,12,1
+ID_1233,"MG Road, Pune","North Indian, Fast Food",₹200,₹50,4.0,109,53
+ID_7725,"Babarpur, New Delhi, Delhi","Fast Food, Chinese, South Indian",₹150,₹50,-,-,-
+ID_2301,"Delhi High Court, India Gate","Pizza, Fast Food",₹200,₹0,4.0,971,461
+ID_5321,Majestic,"Biryani, Hyderabadi, North Indian, Mughlai",₹100,₹50,2.5,23,16
+ID_2946,"Moulali, Kolkata","Street Food, Chinese, North Indian, Fast Food",₹200,₹50,3.8,262,143
+ID_4259,Delhi Cantt.,North Indian,₹100,₹50,NEW,-,-
+ID_7794,"Delhi Administration Flats, Timarpur","Chinese, North Indian, Fast Food, Mughlai",₹250,₹50,3.8,106,60
+ID_2570,Delhi University-GTB Nagar,"North Indian, Chinese, Continental, Italian",₹300,₹50,3.9,725,494
+ID_5577,"Delhi Administration Flats, Timarpur","Fast Food, Italian, Beverages",₹200,₹50,3.4,13,8
+ID_547,"Mico Layout, Stage 2, BTM Layout,Bangalore",Assamese,₹200,₹99,4.0,661,332
+ID_720,"FTI College, Law College Road, Pune","Biryani, North Indian, Mughlai",₹300,₹50,4.2,538,150
+ID_3056,"Mico Layout, Stage 2, BTM Layout,Bangalore",Gujarati,₹100,₹50,3.8,35,11
+ID_3092,"FTI College, Law College Road, Pune","North Indian, South Indian",₹100,₹50,3.2,8,1
+ID_8345,"FTI College, Law College Road, Pune",North Indian,₹350,₹50,3.1,8,1
+ID_305,"Raja Bazar, Kolkata","North Indian, South Indian",₹200,₹50,3.8,275,38
+ID_4244,"Delhi Administration Flats, Timarpur",Tibetan,₹100,₹50,4.0,126,53
+ID_990,Mumbai Central,Cafe,₹450,₹50,4.0,244,119
+ID_5803,Majestic,South Indian,₹100,₹50,3.8,33,11
+ID_544,"MG Road, Pune","Chinese, Maharashtrian, North Indian, Hyderabadi",₹650,₹50,3.2,13,4
+ID_847,"Musi Nagar, Malakpet, Hyderabad","North Indian, Street Food, South Indian, Mithai",₹300,₹50,3.9,374,128
+ID_538,"Chandni Chowk, Kolkata","Fast Food, Chinese",₹100,₹50,-,-,-
+ID_4596,"Mico Layout, Stage 2, BTM Layout,Bangalore","Arabian, Mediterranean, North Indian",₹200,₹50,2.9,34,25
+ID_5396,"Yerawada, Pune, Maharashtra","Cafe, Italian, Continental",₹400,₹50,4.2,738,400
+ID_266,"Chatta Bazaar, Malakpet, Hyderabad","Mughlai, North Indian",₹150,₹99,3.7,111,9
+ID_3277,"Sector 3, Marathalli","South Indian, North Indian, Andhra",₹100,₹50,NEW,-,-
+ID_1296,"FTI College, Law College Road, Pune","Chinese, North Indian, Fast Food, Beverages",₹200,₹50,3.4,14,3
+ID_4780,"Sector 1, Noida","Burger, Fast Food, Beverages",₹200,₹50,4.0,286,78
+ID_5664,"Sandhurst Road, Mumbai CST Area","Chinese, North Indian",₹150,₹50,3.9,255,47
+ID_3969,"Rmz Centennial, I Gate, Whitefield","Beverages, Desserts, Ice Cream",₹200,₹99,3.7,74,44
+ID_2187,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese",₹200,₹50,-,-,-
+ID_5535,Mumbai Central,"North Indian, Chinese, Mughlai",₹350,₹50,3.3,18,10
+ID_6156,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Mughlai",₹200,₹99,4.0,73,62
+ID_6058,"FTI College, Law College Road, Pune",Bakery,₹100,₹50,3.2,45,11
+ID_7433,"MG Road, Pune","North Indian, Mughlai, Biryani",₹550,₹50,4.6,473,294
+ID_5413,"Sector 14, Noida",South Indian,₹100,₹0,3.7,108,40
+ID_134,Mumbai Central,Desserts,₹100,₹50,3.4,22,9
+ID_4578,"Yerawada, Pune, Maharashtra",South Indian,₹100,₹50,2.9,39,21
+ID_8090,"Sector 14, Noida","North Indian, Continental, Chinese, Italian, Finger Food, Momos",₹800,₹50,4.5,2257,1708
+ID_6240,"Rmz Centennial, I Gate, Whitefield",Rolls,₹100,₹50,3.2,7,2
+ID_6243,"Delhi High Court, India Gate","Pizza, Fast Food",₹150,₹50,4.2,156,94
+ID_8046,"Tiretti, Kolkata","Beverages, Salad, Desserts",₹150,₹99,3.9,210,144
+ID_980,"Mico Layout, Stage 2, BTM Layout,Bangalore","Asian, Thai, North Indian, Chinese",₹450,₹50,4.3,429,279
+ID_3429,"FTI College, Law College Road, Pune","Biryani, Chinese",₹150,₹50,3.2,4,4
+ID_6452,"Sector 63A,Gurgaon","Mithai, North Indian, South Indian, Chinese, Street Food",₹150,₹50,NEW,-,-
+ID_7353,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese, Biryani",₹200,₹50,3.6,9,2
+ID_5935,"FTI College, Law College Road, Pune",Maharashtrian,₹100,₹50,-,-,-
+ID_2860,"FTI College, Law College Road, Pune","Cafe, Street Food, Fast Food",₹150,₹50,3.5,65,23
+ID_1828,"Rmz Centennial, I Gate, Whitefield","Kerala, Seafood, Chinese",₹300,₹50,3.9,394,141
+ID_1558,"Mico Layout, Stage 2, BTM Layout,Bangalore","Continental, North Indian, Pizza, Italian",₹500,₹50,4.4,2437,1370
+ID_7321,"Yerawada, Pune, Maharashtra","North Indian, Chinese, Hyderabadi",₹200,₹50,3.8,87,47
+ID_1553,Delhi Cantt.,"North Indian, Mughlai, Chinese",₹200,₹50,-,-,-
+ID_5821,"Tejas Nagar Colony, Wadala West, Mumbai","North Indian, South Indian, Fast Food",₹150,₹50,NEW,-,-
+ID_2376,"Chatta Bazaar, Malakpet, Hyderabad",South Indian,₹50,₹50,3.5,12,2
+ID_3659,Delhi Cantt.,Fast Food,₹150,₹50,3.4,14,14
+ID_7314,Delhi University-GTB Nagar,"Mexican, Fast Food",₹250,₹50,4.1,215,111
+ID_1375,"Delhi High Court, India Gate","Bakery, Desserts",₹100,₹50,2.7,56,34
+ID_8266,"Musi Nagar, Malakpet, Hyderabad",South Indian,₹50,₹50,3.9,97,17
+ID_8353,"Yerawada, Pune, Maharashtra","Cafe, Salad, Biryani, Chinese, Continental, Italian, Desserts, Pizza",₹250,₹99,4.0,498,272
+ID_297,"D-Block, Sector 63, Noida","North Indian, Mughlai, Chinese",₹300,₹50,3.6,51,28
+ID_5237,Delhi University-GTB Nagar,"Fast Food, Rolls, Beverages",₹150,₹50,3.6,37,16
+ID_2940,"D-Block, Sector 63, Noida","North Indian, Healthy Food, Wraps, Sandwich, Salad, Mexican",₹200,₹99,4.0,219,114
+ID_3723,"Raja Bazar, Kolkata","Mishti, Fast Food",₹100,₹50,3.8,119,38
+ID_7181,"Dockyard Road, Mumbai CST Area","Mithai, Fast Food",₹100,₹50,3.2,6,1
+ID_4717,Delhi Cantt.,"Fast Food, North Indian",₹200,₹50,3.8,43,23
+ID_3110,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Chinese, North Indian",₹200,₹50,2.9,6,3
+ID_5506,"MG Road, Pune",Street Food,₹100,₹50,3.9,143,33
+ID_8361,"Sector 1, Noida","Chinese, Fast Food",₹200,₹50,3.4,66,4
+ID_3962,Pune University,"South Indian, Kerala, Seafood",₹200,₹50,3.9,298,169
+ID_4907,"Sandhurst Road, Mumbai CST Area",Paan,₹100,₹50,3.3,14,3
+ID_8606,"Rmz Centennial, I Gate, Whitefield",South Indian,₹200,₹50,3.3,56,25
+ID_6474,"Sector 63A,Gurgaon","Sandwich, Fast Food",₹200,₹50,3.5,25,23
+ID_4705,Majestic,"North Indian, Chinese, South Indian, Biryani",₹200,₹50,3.6,22,15
+ID_3986,Delhi Cantt.,"Rolls, Kebab, Mughlai, North Indian",₹300,₹50,3.5,31,14
+ID_1236,Delhi Cantt.,"Fast Food, Beverages",₹200,₹50,3.3,14,8
+ID_2402,"Dockyard Road, Mumbai CST Area","Healthy Food, North Indian, Biryani, Continental, Beverages",₹200,₹50,3.8,-,-
+ID_7696,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese",₹150,₹99,3.9,216,115
+ID_7911,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Pizza, Fast Food, Beverages",₹200,₹50,3.7,44,30
+ID_4031,"FTI College, Law College Road, Pune",Ice Cream,₹100,₹50,4.0,61,40
+ID_2041,"Nathan Road, Mangaldas Road, Pune","Italian, Pizza, Salad, Healthy Food, Mexican, Cafe, Desserts, Continental",₹650,₹50,4.4,3248,1603
+ID_3639,Delhi Cantt.,Pizza,₹100,₹50,3.3,9,5
+ID_4998,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹200,₹50,3.4,37,15
+ID_8101,Mumbai Central,"Fast Food, Italian",₹200,₹50,3.4,16,4
+ID_5063,Delhi University-GTB Nagar,"Bakery, Desserts, Fast Food",₹200,₹50,3.5,32,10
+ID_5794,"D-Block, Sector 63, Noida",Bengali,₹200,₹50,3.3,16,6
+ID_7143,Delhi University-GTB Nagar,"Chinese, Fast Food",₹100,₹50,2.9,30,6
+ID_112,"Delhi Administration Flats, Timarpur","Italian, Fast Food, Steak",₹250,₹50,3.4,12,6
+ID_1036,"Delhi Administration Flats, Timarpur","North Indian, Thai, Goan, Mughlai, Seafood",₹200,₹99,4.1,-,-
+ID_6018,Mumbai Central,"North Indian, Chinese, South Indian",₹200,₹99,3.8,219,97
+ID_5417,"Sandhurst Road, Mumbai CST Area",Fast Food,₹150,₹50,3.0,61,8
+ID_4855,Delhi University-GTB Nagar,North Indian,₹150,₹50,3.4,43,11
+ID_1846,"Moulali, Kolkata","Fast Food, South Indian, North Indian, Beverages",₹150,₹50,3.5,150,26
+ID_2593,"D-Block, Sector 63, Noida",Bakery,₹200,₹50,3.0,49,23
+ID_1378,"Mico Layout, Stage 2, BTM Layout,Bangalore","Bakery, Desserts",₹200,₹50,3.5,12,3
+ID_4066,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, South Indian, Chinese",₹150,₹50,3.1,6,5
+ID_1414,"Rmz Centennial, I Gate, Whitefield","North Indian, Biryani, Chinese, Healthy Food",₹150,₹50,3.7,36,17
+ID_1940,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Bakery,₹100,₹50,3.5,30,6
+ID_8247,"FTI College, Law College Road, Pune","Chinese, Mughlai, North Indian",₹200,₹50,3.2,10,3
+ID_912,"Yerawada, Pune, Maharashtra",Biryani,₹150,₹50,3.4,18,14
+ID_3472,"Sector 14, Noida","Biryani, Mughlai, North Indian",₹100,₹50,3.5,39,17
+ID_2388,Delhi Cantt.,Fast Food,₹150,₹50,NEW,-,-
+ID_1997,"Nathan Road, Mangaldas Road, Pune",North Indian,₹200,₹99,3.0,35,8
+ID_2254,"Chandni Chowk, Kolkata",South Indian,₹150,₹50,3.4,20,10
+ID_8497,"Nathan Road, Mangaldas Road, Pune","Ice Cream, Desserts, Bakery, Tea",₹200,₹50,4.0,36,22
+ID_4648,"Rmz Centennial, I Gate, Whitefield","Modern Indian, North Indian, Awadhi",₹600,₹50,4.5,541,350
+ID_8233,"Delhi Administration Flats, Timarpur",Fast Food,₹100,₹50,3.6,90,31
+ID_2560,"Sector 1, Noida","Healthy Food, American, Salad",₹150,₹50,-,-,-
+ID_6734,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Mithai, Street Food",₹150,₹50,3.0,12,2
+ID_6515,"Sector 1, Noida","Fast Food, North Indian, Rolls",₹150,₹50,3.1,8,2
+ID_764,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Fast Food, Bakery",₹150,₹50,3.5,9,6
+ID_4725,Pune University,Fast Food,₹200,₹50,3.7,105,58
+ID_7655,"FTI College, Law College Road, Pune",Fast Food,₹100,₹50,3.4,15,2
+ID_7155,"Tejas Nagar Colony, Wadala West, Mumbai",Ice Cream,₹100,₹50,NEW,-,-
+ID_1731,Delhi University-GTB Nagar,"Chinese, Fast Food, Italian, Momos",₹200,₹50,4.3,-,-
+ID_2573,"Mico Layout, Stage 2, BTM Layout,Bangalore","Bakery, Desserts",₹150,₹50,4.0,44,32
+ID_6701,Pune University,Chinese,₹200,₹50,3.2,9,1
+ID_8383,"D-Block, Sector 63, Noida","North Indian, Fast Food, Chinese",₹200,₹50,3.7,95,62
+ID_7461,"D-Block, Sector 63, Noida","Bakery, Desserts",₹100,₹50,3.5,22,8
+ID_150,"Gora Bazar, Rajbari, North Dumdum, Kolkata","North Indian, Chinese",₹100,₹99,3.8,320,82
+ID_178,"Mico Layout, Stage 2, BTM Layout,Bangalore","Kerala, Biryani",₹100,₹50,3.6,13,5
+ID_686,"Raja Bazar, Kolkata","Coffee, Cafe, Fast Food, Desserts, Beverages",₹250,₹50,3.5,15,11
+ID_5440,"MG Road, Pune","Italian, Beverages",₹300,₹50,3.5,12,5
+ID_5446,"Sandhurst Road, Mumbai CST Area",Desserts,₹100,₹50,3.3,19,4
+ID_8082,"Sector 1, Noida","North Indian, Mughlai",₹250,₹50,3.5,12,9
+ID_4138,"Delhi Administration Flats, Timarpur",Fast Food,₹100,₹50,3.8,48,29
+ID_694,"FTI College, Law College Road, Pune","Ice Cream, Desserts, Beverages",₹150,₹50,3.3,8,3
+ID_3086,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Chinese, North Indian",₹200,₹50,3.2,8,-
+ID_2100,Delhi Cantt.,"Biryani, North Indian, Chinese, Rolls",₹200,₹50,3.7,105,47
+ID_467,Delhi Cantt.,"Biryani, Beverages",₹150,₹50,NEW,-,-
+ID_1447,"Sector 14, Noida",North Indian,₹100,₹50,-,-,-
+ID_3970,"MG Road, Pune","Burger, Fast Food",₹200,₹50,3.0,425,106
+ID_1519,"Tiretti, Kolkata","Bengali, Chinese, North Indian, Biryani",₹50,₹50,3.3,10,3
+ID_7624,Majestic,"Bakery, Fast Food",₹150,₹50,3.7,24,11
+ID_1865,"Dockyard Road, Mumbai CST Area","Bakery, Desserts",₹150,₹99,4.0,60,47
+ID_8238,"Dockyard Road, Mumbai CST Area",Mughlai,₹250,₹50,3.5,18,4
+ID_2486,"Sandhurst Road, Mumbai CST Area","Cafe, North Indian, Healthy Food, Desserts",₹600,₹50,3.8,222,99
+ID_1203,"FTI College, Law College Road, Pune",Fast Food,₹150,₹50,3.0,4,-
+ID_3715,"FTI College, Law College Road, Pune","Biryani, Fast Food, Chinese",₹150,₹50,3.6,62,7
+ID_6417,Delhi University-GTB Nagar,"North Indian, Mughlai",₹250,₹50,3.2,160,69
+ID_6620,Majestic,"Continental, North Indian, Chinese",₹600,₹50,3.8,101,40
+ID_1732,"Delhi Administration Flats, Timarpur","Chinese, North Indian",₹200,₹50,3.2,19,4
+ID_2365,"FTI College, Law College Road, Pune","Fast Food, Bar Food, European",₹800,₹50,3.7,110,67
+ID_3655,"Dockyard Road, Mumbai CST Area",Mithai,₹100,₹99,3.9,60,15
+ID_1852,"Dockyard Road, Mumbai CST Area","Chinese, North Indian, Biryani",₹250,₹50,2.7,85,31
+ID_6027,"MG Road, Pune","Italian, Street Food",₹250,₹50,3.3,107,43
+ID_6330,Delhi University-GTB Nagar,Pizza,₹150,₹50,3.3,32,1
+ID_6368,"Babarpur, New Delhi, Delhi","Bakery, Fast Food",₹100,₹50,3.2,10,3
+ID_6229,"FTI College, Law College Road, Pune","Rolls, Fast Food",₹150,₹99,3.9,161,37
+ID_8020,Mumbai Central,Fast Food,₹150,₹50,3.8,35,12
+ID_3571,"Delhi High Court, India Gate",North Indian,₹200,₹50,-,-,-
+ID_888,"D-Block, Sector 63, Noida","Biryani, Mughlai, North Indian",₹100,₹50,3.5,69,37
+ID_914,"Rmz Centennial, I Gate, Whitefield",Biryani,₹200,₹50,4.3,697,218
+ID_760,"Dockyard Road, Mumbai CST Area","Fast Food, Burger, Beverages",₹200,₹50,2.7,41,16
+ID_1467,"Yerawada, Pune, Maharashtra","Cafe, Healthy Food, Desserts",₹200,₹50,3.9,509,296
+ID_8332,"Yerawada, Pune, Maharashtra",Bakery,₹100,₹50,-,-,-
+ID_842,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Mithai, North Indian, South Indian, Chinese",₹200,₹50,3.6,85,17
+ID_8511,"Moulali, Kolkata","Tibetan, Momos",₹200,₹50,4.1,410,234
+ID_3730,"Yerawada, Pune, Maharashtra","North Indian, Street Food, Beverages, Chinese",₹200,₹50,3.7,51,29
+ID_2369,"Sector 1, Noida","North Indian, Chinese",₹250,₹50,2.8,172,31
+ID_4647,Mumbai Central,"Chinese, Mughlai",₹150,₹50,3.6,29,12
+ID_5137,"Delhi Administration Flats, Timarpur","Mithai, Street Food",₹100,₹50,3.5,10,2
+ID_1059,"Sector 3, Marathalli","Chinese, North Indian",₹100,₹50,-,-,-
+ID_8274,"Sector 14, Noida","North Indian, Chinese, Rolls",₹150,₹50,3.8,269,46
+ID_4561,Mumbai Central,"Healthy Food, Thai, Asian, Sandwich",₹300,₹99,3.8,147,64
+ID_5066,"Babarpur, New Delhi, Delhi",Street Food,₹100,₹50,3.1,4,1
+ID_243,Mumbai Central,Fast Food,₹200,₹50,3.6,29,11
+ID_3372,"Chatta Bazaar, Malakpet, Hyderabad",North Indian,₹100,₹50,NEW,-,-
+ID_4016,"FTI College, Law College Road, Pune","Ice Cream, Desserts",₹100,₹50,3.6,60,30
+ID_2061,"Sector 3, Marathalli","North Indian, Chinese",₹200,₹50,3.0,16,2
+ID_2505,"MG Road, Pune","Fast Food, Street Food, Beverages",₹100,₹50,3.9,81,43
+ID_5487,"FTI College, Law College Road, Pune","Maharashtrian, Biryani",₹200,₹50,3.4,100,23
+ID_1997,"MG Road, Pune",North Indian,₹200,₹50,3.0,35,8
+ID_2301,Delhi Cantt.,"Pizza, Fast Food",₹200,₹0,3.7,112,18
+ID_3307,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, Juices",₹100,₹50,3.4,52,12
+ID_1015,"Sector 14, Noida","Continental, Desserts, Beverages, Sandwich, Fast Food",₹200,₹50,3.4,7,6
+ID_8338,Delhi Cantt.,"Chinese, South Indian",₹100,₹50,3.4,14,4
+ID_5076,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, North Indian",₹100,₹50,3.7,27,5
+ID_2967,Mumbai Central,"Healthy Food, Sandwich, Desserts, European, Italian, American, Bakery, Beverages",₹200,₹50,3.6,23,3
+ID_4213,"D-Block, Sector 63, Noida","Fast Food, Beverages",₹200,₹50,3.7,119,73
+ID_7357,"Sector 63A,Gurgaon","North Indian, Mughlai, Chinese, Fast Food, Momos",₹250,₹50,4.1,440,294
+ID_4501,"Noorkhan Bazaar, Malakpet, Hyderabad","South Indian, Street Food",₹100,₹50,3.3,37,5
+ID_4774,"Babarpur, New Delhi, Delhi","Fast Food, Pizza",₹200,₹50,3.5,19,10
+ID_6046,"D-Block, Sector 63, Noida",North Indian,₹100,₹50,-,-,-
+ID_559,"MG Road, Pune","Chinese, Indian, North Indian, Mughlai",₹200,₹50,2.9,6,2
+ID_1820,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Bakery, Desserts, Cafe, Fast Food, Beverages",₹150,₹50,3.6,47,17
+ID_1801,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese, Biryani",₹200,₹99,3.7,87,27
+ID_7077,"Rmz Centennial, I Gate, Whitefield",South Indian,₹50,₹50,-,-,-
+ID_3992,"Mico Layout, Stage 2, BTM Layout,Bangalore","Biryani, North Indian",₹100,₹99,3.1,20,6
+ID_8399,"Delhi Administration Flats, Timarpur",Desserts,₹150,₹50,4.3,497,262
+ID_7777,Delhi University-GTB Nagar,"Continental, Italian, Lebanese, Desserts, Beverages",₹400,₹50,4.2,316,194
+ID_4197,Delhi University-GTB Nagar,"Paan, Beverages",₹150,₹50,-,-,-
+ID_5704,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Pizza, Burger, Fast Food, Wraps",₹150,₹50,-,-,-
+ID_2589,"Nathan Road, Mangaldas Road, Pune","Healthy Food, Juices",₹350,₹50,4.8,87,82
+ID_5880,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Fast Food, North Indian, Momos",₹200,₹50,3.4,264,46
+ID_3173,"Delhi Administration Flats, Timarpur",North Indian,₹200,₹50,3.2,13,1
+ID_5035,"Delhi Administration Flats, Timarpur",Chinese,₹150,₹50,2.4,92,41
+ID_5833,"Sector 1, Noida","North Indian, Chinese",₹100,₹50,3.6,76,20
+ID_607,"FTI College, Law College Road, Pune","Bakery, Fast Food",₹200,₹50,3.7,101,44
+ID_4291,"Dockyard Road, Mumbai CST Area",Fast Food,₹200,₹50,3.5,30,18
+ID_6376,Delhi University-GTB Nagar,North Indian,₹200,₹50,3.3,23,8
+ID_2357,"Mico Layout, Stage 2, BTM Layout,Bangalore","Chinese, Continental, North Indian, Burger, Pizza, Seafood",₹600,₹50,4.3,451,282
+ID_4550,"D-Block, Sector 63, Noida","Fast Food, Beverages, Wraps, Italian, Burger",₹200,₹50,-,-,-
+ID_3507,Delhi University-GTB Nagar,North Indian,₹200,₹50,3.3,15,4
+ID_2007,"D-Block, Sector 63, Noida","Fast Food, Wraps",₹150,₹99,-,-,-
+ID_4883,Delhi University-GTB Nagar,"Bakery, Desserts, Fast Food",₹200,₹50,4.3,1739,823
+ID_4032,"Delhi High Court, India Gate","North Indian, Chinese, Continental, Italian",₹500,₹50,4.1,1249,883
+ID_5610,"Delhi High Court, India Gate","Italian, Mexican, Continental, North Indian, Finger Food",₹750,₹50,4.1,1504,938
+ID_670,Delhi University-GTB Nagar,"Bihari, North Indian",₹100,₹50,3.0,4,-
+ID_4869,Mumbai Central,"Chinese, Mughlai",₹150,₹50,3.7,59,12
+ID_6562,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Fast Food, South Indian, Street Food",₹200,₹50,3.3,14,5
+ID_6528,"FTI College, Law College Road, Pune","North Indian, Biryani, Seafood",₹350,₹50,3.5,30,17
+ID_5218,"Sector 3, Marathalli","South Indian, North Indian, Chinese",₹150,₹50,3.7,28,10
+ID_990,"Sector 14, Noida","Cafe, American, Desserts",₹400,₹50,3.9,106,61
+ID_3127,"D-Block, Sector 63, Noida","North Indian, Chinese",₹200,₹50,2.9,17,6
+ID_7398,"FTI College, Law College Road, Pune",Fast Food,₹100,₹50,3.0,19,10
+ID_6141,"Yerawada, Pune, Maharashtra",Ice Cream,₹100,₹50,3.4,47,26
+ID_3055,"Yerawada, Pune, Maharashtra",Desserts,₹150,₹50,3.8,18,15
+ID_4759,"MG Road, Pune","Maharashtrian, Street Food",₹100,₹50,3.3,21,7
+ID_2232,"Sector 63A,Gurgaon","North Indian, Fast Food",₹200,₹50,-,-,-
+ID_2345,"Delhi High Court, India Gate","North Indian, Thai, Chinese",₹600,₹99,2.9,51,28
+ID_6022,"D-Block, Sector 63, Noida","North Indian, Rajasthani",₹150,₹99,3.5,92,43
+ID_6851,"D-Block, Sector 63, Noida","North Indian, Chinese",₹250,₹50,3.1,4,-
+ID_8080,Delhi University-GTB Nagar,North Indian,₹250,₹50,3.8,89,54
+ID_6029,"Sector 14, Noida",North Indian,₹150,₹50,3.8,57,9
+ID_7895,"Sector 3, Marathalli",North Indian,₹100,₹50,3.0,4,3
+ID_1238,Mumbai Central,Fast Food,₹150,₹50,3.3,12,6
+ID_3136,Majestic,"Desserts, Ice Cream",₹50,₹50,-,-,-
+ID_2809,"Mico Layout, Stage 2, BTM Layout,Bangalore",Chinese,₹200,₹50,NEW,-,-
+ID_6056,Mumbai Central,"Seafood, North Indian, Chinese, Mughlai, Biryani",₹350,₹99,3.7,115,55
+ID_3251,"Babarpur, New Delhi, Delhi","Mithai, Street Food",₹100,₹50,-,-,-
+ID_4063,"Yerawada, Pune, Maharashtra","North Indian, Chinese, Fast Food, Seafood",₹400,₹50,2.5,35,18
+ID_6967,"Yerawada, Pune, Maharashtra","Cafe, European, Continental, Sandwich, Salad, Healthy Food",₹600,₹50,4.6,391,174
+ID_7376,"Mico Layout, Stage 2, BTM Layout,Bangalore","Continental, Italian, North Indian, Asian",₹900,₹50,4.1,209,131
+ID_3499,"Raja Bazar, Kolkata","Chinese, Fast Food",₹100,₹50,3.2,12,7
+ID_6730,"Sector 63A,Gurgaon","Mithai, Street Food, North Indian",₹100,₹50,3.4,29,8
+ID_4551,"Sandhurst Road, Mumbai CST Area","Pizza, Chinese, Healthy Food",₹300,₹50,3.8,577,277
+ID_3797,"Delhi High Court, India Gate",Fast Food,₹200,₹50,3.3,25,16
+ID_5247,"Mico Layout, Stage 2, BTM Layout,Bangalore","Ice Cream, Beverages",₹150,₹50,NEW,-,-
+ID_7750,"Rmz Centennial, I Gate, Whitefield","Asian, Biryani, North Indian, Desserts",₹200,₹50,3.7,21,17
+ID_3057,"Delhi Administration Flats, Timarpur","Fast Food, Bakery",₹150,₹50,3.5,35,-
+ID_8629,"D-Block, Sector 63, Noida",North Indian,₹250,₹50,3.6,100,76
+ID_5901,Delhi University-GTB Nagar,North Indian,₹100,₹50,3.6,345,20
+ID_1166,"Sector 14, Noida",North Indian,₹300,₹50,4.7,81,74
+ID_3897,"BTM Layout 1, Electronic City","Kerala, Chinese, South Indian, North Indian",₹300,₹50,3.7,65,25
+ID_3402,Pune University,Maharashtrian,₹100,₹50,3.6,63,20
+ID_3185,Delhi University-GTB Nagar,"Fast Food, Beverages",₹250,₹50,4.1,250,205
+ID_2858,"D-Block, Sector 63, Noida",North Indian,₹200,₹50,NEW,-,-
+ID_6711,"Sector 1, Noida","South Indian, Chinese",₹100,₹50,2.9,43,15
+ID_2145,"Sandhurst Road, Mumbai CST Area","Desserts, Bakery",₹200,₹50,4.0,255,106
+ID_6277,"Sector 3, Marathalli","North Indian, Chinese, Bengali",₹200,₹50,3.4,23,14
+ID_2730,"Babarpur, New Delhi, Delhi","North Indian, Chinese",₹200,₹50,NEW,-,-
+ID_1954,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Biryani, Mughlai, Kebab",₹300,₹50,4.2,208,104
+ID_3260,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese",₹150,₹50,3.6,25,7
+ID_6572,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Mithai, North Indian",₹100,₹50,3.4,40,9
+ID_5227,"MG Road, Pune","Desserts, Beverages",₹200,₹50,3.3,9,2
+ID_8243,"Sector 63A,Gurgaon",North Indian,₹100,₹50,3.6,27,2
+ID_6571,"Delhi High Court, India Gate","North Indian, Mughlai",₹350,₹50,3.3,23,8
+ID_8561,"Sector 1, Noida",Chinese,₹350,₹50,-,-,-
+ID_7139,Mumbai Central,"Chinese, Mughlai, North Indian",₹250,₹50,3.1,6,1
+ID_7632,"Nathan Road, Mangaldas Road, Pune","North Indian, Mughlai, Chinese",₹250,₹50,3.7,99,50
+ID_4253,Majestic,Beverages,₹100,₹50,-,-,-
+ID_5605,"Raja Bazar, Kolkata","North Indian, South Indian, Continental",₹400,₹99,4.3,1028,728
+ID_7027,"FTI College, Law College Road, Pune",Fast Food,₹150,₹50,NEW,-,-
+ID_3538,"Delhi Administration Flats, Timarpur","Cafe, Desserts",₹200,₹50,3.6,89,25
+ID_7028,"Sector 3, Marathalli","Andhra, North Indian, Chinese",₹250,₹50,2.9,22,2
+ID_3336,"MG Road, Pune","North Indian, Chinese, Mughlai",₹250,₹50,3.1,8,3
+ID_918,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Biryani",₹150,₹50,3.5,34,2
+ID_2953,"D-Block, Sector 63, Noida","North Indian, Mughlai, Chinese",₹200,₹50,-,-,-
+ID_6217,"D-Block, Sector 63, Noida","North Indian, Chinese",₹100,₹50,-,-,-
+ID_1657,"Delhi Administration Flats, Timarpur","North Indian, South Indian, Beverages, Desserts",₹200,₹50,-,-,-
+ID_2542,Majestic,"Italian, Mexican",₹200,₹50,3.9,79,47
+ID_7004,"D-Block, Sector 63, Noida","Chinese, Fast Food, North Indian",₹100,₹50,NEW,-,-
+ID_2936,Mumbai Central,"Goan, Seafood, North Indian",₹400,₹50,3.4,46,23
+ID_1868,"Sector 63A,Gurgaon",North Indian,₹200,₹50,3.3,11,6
+ID_1319,"Babarpur, New Delhi, Delhi","Cafe, North Indian, Asian",₹200,₹50,3.6,264,139
+ID_479,"Nathan Road, Mangaldas Road, Pune","European, Salad, Bar Food, Finger Food, Beverages, Tea, Coffee",₹600,₹50,4.3,311,177
+ID_6956,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese, Fast Food",₹200,₹50,3.8,208,71
+ID_1838,"Yerawada, Pune, Maharashtra",Fast Food,₹200,₹50,2.8,8,6
+ID_2204,"Sector 14, Noida","North Indian, Chinese",₹400,₹99,4.1,974,705
+ID_8226,Delhi Cantt.,"Fast Food, Chinese",₹300,₹50,NEW,-,-
+ID_3158,"Babarpur, New Delhi, Delhi","Bakery, Desserts",₹200,₹50,3.6,31,8
+ID_243,"Dockyard Road, Mumbai CST Area",Fast Food,₹200,₹50,3.6,29,11
+ID_1017,"Yerawada, Pune, Maharashtra",Street Food,₹100,₹50,NEW,-,-
+ID_2114,"Delhi High Court, India Gate","North Indian, Chinese",₹200,₹50,3.6,337,75
+ID_4049,"Sector 1, Noida","Chinese, Rolls, Beverages",₹150,₹50,2.9,109,48
+ID_2116,"Sector 1, Noida","North Indian, Chinese",₹300,₹99,2.9,10,2
+ID_5964,"Dockyard Road, Mumbai CST Area",North Indian,₹250,₹50,4.0,353,176
+ID_4833,"Rmz Centennial, I Gate, Whitefield","Chinese, Momos, Seafood",₹250,₹50,4.0,25,13
+ID_5583,Mumbai Central,Fast Food,₹100,₹50,3.1,8,5
+ID_2254,"Moulali, Kolkata",South Indian,₹150,₹50,3.4,20,10
+ID_2394,Majestic,Street Food,₹100,₹50,-,-,-
+ID_4714,Delhi Cantt.,North Indian,₹150,₹50,3.0,9,1
+ID_6043,"Rmz Centennial, I Gate, Whitefield","North Indian, Street Food, Beverages, Desserts",₹200,₹50,4.0,177,83
+ID_3885,"Tejas Nagar Colony, Wadala West, Mumbai","Chinese, North Indian",₹150,₹50,NEW,-,-
+ID_7491,"D-Block, Sector 63, Noida",North Indian,₹250,₹50,2.9,4,2
+ID_2350,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Chinese, Thai",₹300,₹99,3.9,120,65
+ID_3760,"Yerawada, Pune, Maharashtra","South Indian, Fast Food",₹100,₹50,NEW,-,-
+ID_2245,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Healthy Food,₹100,₹50,3.3,13,8
+ID_3918,"MG Road, Pune","North Indian, Mughlai",₹300,₹50,2.6,42,26
+ID_7198,"Delhi Administration Flats, Timarpur","Tea, Beverages, Fast Food",₹100,₹50,NEW,-,-
+ID_4071,"Delhi Administration Flats, Timarpur","Fast Food, Chinese, North Indian",₹150,₹50,3.2,9,1
+ID_2384,"Rmz Centennial, I Gate, Whitefield","Chinese, Thai",₹250,₹50,4.0,551,291
+ID_7184,"Gora Bazar, Rajbari, North Dumdum, Kolkata","Fast Food, Healthy Food, Sandwich, Salad",₹200,₹50,4.0,373,171
+ID_2421,Pune University,"Continental, North Indian, Mughlai, Italian, Asian",₹800,₹50,4.5,2831,1415
+ID_2248,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹200,₹50,4.2,273,193
+ID_4875,Delhi Cantt.,"Chinese, North Indian",₹150,₹50,NEW,-,-
+ID_8328,Pune University,Fast Food,₹200,₹50,3.8,200,94
+ID_5711,"Babarpur, New Delhi, Delhi",Fast Food,₹100,₹50,-,-,-
+ID_2326,Mumbai Central,South Indian,₹100,₹50,2.9,10,3
+ID_3697,"Musi Nagar, Malakpet, Hyderabad","North Indian, Chinese",₹200,₹50,3.6,47,11
+ID_4702,"Sector 14, Noida","North Indian, Biryani, Mughlai, Kebab",₹200,₹50,4.4,1687,696
+ID_4941,"Nathan Road, Mangaldas Road, Pune",Biryani,₹150,₹50,-,-,-
+ID_1417,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Bakery, Desserts, Fast Food",₹200,₹99,3.8,115,71
+ID_3137,Delhi University-GTB Nagar,Chinese,₹100,₹50,3.6,66,20
+ID_6521,"D-Block, Sector 63, Noida","Bakery, Desserts",₹200,₹50,4.7,376,273
+ID_5587,"BTM Layout 1, Electronic City","Rolls, Fast Food",₹150,₹50,4.1,262,86
+ID_7928,"FTI College, Law College Road, Pune","Fast Food, Chinese, Asian, Thai",₹250,₹50,4.2,759,545
+ID_8655,"MG Road, Pune","North Indian, Chinese, Fast Food",₹200,₹50,3.1,4,1
+ID_7762,"Babarpur, New Delhi, Delhi","North Indian, Chinese",₹250,₹99,3.6,154,39
+ID_175,"Babarpur, New Delhi, Delhi","Cafe, Chinese",₹150,₹99,3.7,251,68
+ID_2734,"MG Road, Pune","Bakery, Desserts, Cafe",₹300,₹50,4.4,812,457
+ID_3099,"Sector 1, Noida","North Indian, Fast Food",₹100,₹50,NEW,-,-
+ID_3373,"MG Road, Pune","North Indian, South Indian, Street Food, Chinese",₹250,₹99,-,-,-
+ID_2295,"Sector 3, Marathalli","Beverages, Desserts",₹200,₹50,4.4,172,82
+ID_6143,"Nathan Road, Mangaldas Road, Pune",North Indian,₹100,₹50,Opening Soon,-,-
+ID_6163,"Panjetan Colony, Malakpet, Hyderabad",Fast Food,₹200,₹50,3.0,8,3
+ID_3861,"Mico Layout, Stage 2, BTM Layout,Bangalore",North Indian,₹500,₹50,4.0,189,85
+ID_3691,"Raja Bazar, Kolkata",North Indian,₹100,₹50,3.3,27,5
+ID_749,"Delhi Administration Flats, Timarpur",Biryani,₹150,₹50,3.5,219,65
+ID_4761,"Moulali, Kolkata","Mishti, Desserts",₹100,₹50,3.2,12,6
+ID_6033,"Tejas Nagar Colony, Wadala West, Mumbai","North Indian, Rajasthani, Gujarati, Fast Food, Street Food, Healthy Food",₹150,₹50,3.1,4,1
+ID_2124,"Sector 3, Marathalli","North Indian, Chinese",₹150,₹50,3.5,8,3
+ID_5922,Delhi University-GTB Nagar,North Indian,₹100,₹50,3.8,473,89
+ID_1487,"Rmz Centennial, I Gate, Whitefield","Fast Food, Tea, Beverages",₹100,₹50,4.1,158,28
+ID_6591,"Sector 14, Noida",North Indian,₹100,₹50,3.5,66,15
+ID_3279,Delhi Cantt.,"North Indian, Fast Food",₹100,₹50,3.6,36,1
+ID_1765,"Nathan Road, Mangaldas Road, Pune","North Indian, Chinese",₹250,₹50,3.4,30,15
+ID_2372,"FTI College, Law College Road, Pune","North Indian, Chinese, Fast Food, Mughlai",₹300,₹50,3.0,8,4
+ID_6487,"Sandhurst Road, Mumbai CST Area",Fast Food,₹150,₹50,3.9,106,16
+ID_2177,"Mico Layout, Stage 2, BTM Layout,Bangalore","Biryani, North Indian, Chinese, Rajasthani",₹250,₹99,3.8,390,207
+ID_6812,"D-Block, Sector 63, Noida",North Indian,₹100,₹50,3.5,28,13
+ID_5847,"Dockyard Road, Mumbai CST Area","Chinese, Mughlai",₹250,₹50,-,-,-
+ID_7272,Majestic,"North Indian, Chinese, Fast Food",₹300,₹50,3.1,12,6
+ID_5621,Majestic,"Pizza, Italian, Fast Food, Bakery",₹150,₹50,NEW,-,-
+ID_1893,"Raja Bazar, Kolkata","Desserts, Bakery, Fast Food",₹100,₹50,3.7,29,16
+ID_3203,"Delhi Administration Flats, Timarpur","Healthy Food, Continental, Fast Food",₹200,₹50,-,-,-
+ID_5534,"Gora Bazar, Rajbari, North Dumdum, Kolkata","Bengali, Chinese, Fast Food",₹150,₹50,-,-,-
+ID_5110,"Sector 14, Noida","North Indian, Mughlai, Chinese",₹300,₹50,3.8,735,464
+ID_7441,Delhi University-GTB Nagar,"North Indian, Fast Food, Italian",₹600,₹50,3.6,889,571
+ID_939,"Mico Layout, Stage 2, BTM Layout,Bangalore","Biryani, North Indian, Chinese, Andhra, South Indian",₹300,₹50,4.3,313,205
+ID_5,"D-Block, Sector 63, Noida","Rolls, Lebanese",₹250,₹50,3.4,9,9
+ID_1871,"Rmz Centennial, I Gate, Whitefield","Bakery, Desserts",₹100,₹50,3.1,11,5
+ID_5042,"D-Block, Sector 63, Noida",North Indian,₹150,₹50,3.4,14,8
+ID_1033,"MG Road, Pune","Finger Food, Brazilian, BBQ",₹750,₹50,4.3,108,67
+ID_986,Majestic,"Coffee, Beverages, Sandwich",₹200,₹50,NEW,-,-
+ID_5841,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Desserts,₹100,₹99,3.1,5,3
+ID_3074,"Delhi High Court, India Gate","Japanese, Seafood, Sushi, Poké","₹1,100",₹50,4.3,1100,553
+ID_6919,"Delhi High Court, India Gate","American, European, BBQ","₹1,000",₹99,4.2,1419,766
+ID_1250,"Chandni Chowk, Kolkata","Cafe, Fast Food",₹150,₹50,3.6,144,68
+ID_1829,"Sector 63A,Gurgaon","Kerala, Andhra, Seafood, South Indian",₹500,₹99,3.9,713,414
+ID_875,"Sector 1, Noida","Biryani, Mughlai",₹150,₹50,3.1,4,4
+ID_1399,"Raja Bazar, Kolkata",Juices,₹50,₹50,-,-,-
+ID_2974,"Sector 1, Noida","Fast Food, Tea, Coffee",₹150,₹50,3.4,17,8
+ID_3851,Pune University,Street Food,₹100,₹50,3.1,6,-
+ID_3210,"Gora Bazar, Rajbari, North Dumdum, Kolkata","South Indian, North Indian",₹200,₹50,3.4,56,23
+ID_1457,"Delhi High Court, India Gate","North Indian, Mughlai",₹200,₹50,3.0,4,1
+ID_8161,"FTI College, Law College Road, Pune",Fast Food,₹150,₹50,3.4,22,5
+ID_4521,"Sandhurst Road, Mumbai CST Area","Chinese, North Indian, South Indian, Fast Food",₹250,₹50,3.9,445,218
+ID_236,"FTI College, Law College Road, Pune","North Indian, Maharashtrian",₹200,₹50,3.5,34,21
+ID_5987,"Dockyard Road, Mumbai CST Area",North Indian,₹150,₹50,3.9,179,79
+ID_2346,"D-Block, Sector 63, Noida",Healthy Food,₹200,₹99,3.6,32,8
+ID_6720,"Delhi Administration Flats, Timarpur",North Indian,₹100,₹50,3.6,57,12
+ID_3833,"Mico Layout, Stage 2, BTM Layout,Bangalore",South Indian,₹50,₹50,3.7,22,8
+ID_3166,"Sector 1, Noida",North Indian,₹100,₹50,3.0,79,30
+ID_6836,"Nathan Road, Mangaldas Road, Pune","South Indian, Italian, Chinese",₹150,₹50,3.6,111,61
+ID_3661,"D-Block, Sector 63, Noida","Chinese, Thai",₹300,₹50,3.6,26,15
+ID_3058,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Mithai, North Indian, Street Food, Chinese, South Indian",₹200,₹50,3.7,435,184
+ID_5130,"Moulali, Kolkata","Mishti, South Indian, Street Food",₹100,₹50,3.4,19,-
+ID_2976,"Delhi Administration Flats, Timarpur","South Indian, North Indian, Chinese",₹300,₹50,3.8,323,141
+ID_848,"Sector 1, Noida","North Indian, Street Food, South Indian, Fast Food, Chinese",₹200,₹50,3.6,76,45
+ID_8043,"Sector 1, Noida",Chinese,₹150,₹50,NEW,-,-
+ID_2398,Mumbai Central,"Italian, Mexican",₹550,₹50,4.3,748,387
+ID_3143,Delhi University-GTB Nagar,North Indian,₹100,₹50,3.7,107,32
+ID_3691,"Tiretti, Kolkata",North Indian,₹100,₹50,3.3,27,5
+ID_3166,"Sector 14, Noida",North Indian,₹100,₹50,3.0,79,30
+ID_610,"Sandhurst Road, Mumbai CST Area","Bakery, Desserts, Fast Food",₹200,₹50,3.4,75,30
+ID_4860,"Delhi Administration Flats, Timarpur","North Indian, Mughlai",₹350,₹50,3.6,70,23
+ID_4924,"Sector 1, Noida","North Indian, Chinese, Mughlai",₹100,₹50,3.2,8,2
+ID_8462,"Mico Layout, Stage 2, BTM Layout,Bangalore","American, Fast Food",₹150,₹50,3.3,11,8
+ID_104,"FTI College, Law College Road, Pune","North Indian, Chinese, Biryani",₹200,₹50,3.5,89,21
+ID_4210,Majestic,"Bakery, Desserts",₹200,₹50,3.8,103,57
+ID_256,"Sector 1, Noida","Hyderabadi, Biryani",₹150,₹50,3.7,70,14
+ID_6048,"Nathan Road, Mangaldas Road, Pune","Chinese, South Indian, Fast Food, North Indian",₹400,₹50,4.3,1741,736
+ID_5656,"Yerawada, Pune, Maharashtra","North Indian, Mughlai, Kebab, Chinese, Desserts",₹300,₹50,3.5,107,56
+ID_4545,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Malaysian, Asian",₹850,₹50,4.3,354,285
+ID_3897,"Mico Layout, Stage 2, BTM Layout,Bangalore","Kerala, Chinese, South Indian, North Indian",₹300,₹50,3.7,65,25
+ID_1041,"Delhi Administration Flats, Timarpur","Cafe, Italian, Continental, North Indian",₹500,₹99,4.0,972,695
+ID_201,"Sector 14, Noida",Street Food,₹100,₹50,4.0,115,22
+ID_1986,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, South Indian, Chinese",₹250,₹50,3.3,6,2
+ID_1246,Mumbai Central,"Continental, Fast Food",₹200,₹50,4.1,30,28
+ID_7045,Delhi Cantt.,"Biryani, Mughlai",₹100,₹50,NEW,-,-
+ID_6035,Pune University,"Ice Cream, Beverages",₹100,₹50,3.4,31,6
+ID_7940,Mumbai Central,Rolls,₹250,₹50,4.1,160,74
+ID_1101,"Mico Layout, Stage 2, BTM Layout,Bangalore","Beverages, Bubble Tea, Desserts",₹150,₹50,3.9,60,31
+ID_1432,Delhi University-GTB Nagar,"Cafe, Chinese, Italian",₹300,₹99,4.1,803,554
+ID_4416,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Fast Food, Beverages",₹200,₹50,-,-,-
+ID_3525,"Moulali, Kolkata","Mishti, Fast Food, North Indian, Street Food, South Indian",₹150,₹50,4.0,1332,668
+ID_3552,"Mico Layout, Stage 2, BTM Layout,Bangalore",South Indian,₹100,₹50,4.3,110,46
+ID_3354,"FTI College, Law College Road, Pune","North Indian, Biryani, Chinese",₹350,₹50,2.6,85,10
+ID_155,"Delhi Administration Flats, Timarpur","North Indian, Chinese, Continental, Momos",₹450,₹50,4.2,1626,1031
+ID_3194,"FTI College, Law College Road, Pune","Ice Cream, Desserts, Beverages",₹100,₹50,3.8,14,4
+ID_5549,"Sector 63A,Gurgaon",North Indian,₹150,₹50,3.0,32,20
+ID_634,"Panjetan Colony, Malakpet, Hyderabad","Desserts, Street Food",₹100,₹50,3.7,19,4
+ID_3826,"Sector 1, Noida",North Indian,₹100,₹50,3.6,16,4
+ID_3766,"Sandhurst Road, Mumbai CST Area",Biryani,₹150,₹50,3.4,14,11
+ID_3973,Mumbai Central,"Lebanese, Fast Food",₹150,₹50,3.0,9,5
+ID_5923,"Delhi High Court, India Gate","Mughlai, Rolls",₹100,₹50,3.4,17,1
+ID_2777,"Delhi Administration Flats, Timarpur",Chinese,₹150,₹50,3.2,10,3
+ID_1579,"D-Block, Sector 63, Noida","North Indian, Mughlai",₹350,₹50,3.3,151,50
+ID_6618,"Delhi High Court, India Gate","Beverages, Fast Food, Ice Cream",₹150,₹50,4.0,1597,887
+ID_2116,Majestic,"North Indian, Chinese, Biryani",₹200,₹50,3.1,9,4
+ID_2018,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, North Indian, Chinese, Street Food",₹150,₹50,3.1,84,19
+ID_5393,"Tiretti, Kolkata","South Indian, Continental, Fast Food",₹300,₹99,3.9,232,105
+ID_1305,"Sector 63A,Gurgaon","Beverages, Fast Food",₹200,₹50,2.9,7,3
+ID_7269,"Mico Layout, Stage 2, BTM Layout,Bangalore",North Indian,₹100,₹50,4.2,236,72
+ID_2390,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Fast Food, Chinese",₹200,₹50,3.3,6,1
+ID_3412,"Dockyard Road, Mumbai CST Area","North Indian, Chinese, Mughlai",₹200,₹50,3.8,278,124
+ID_5526,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Fast Food, Beverages, Momos",₹200,₹50,3.1,59,31
+ID_802,Delhi University-GTB Nagar,"Fast Food, Beverages",₹100,₹50,3.8,87,34
+ID_6691,"Mico Layout, Stage 2, BTM Layout,Bangalore",Mangalorean,₹250,₹50,3.8,120,34
+ID_2747,"Sector 3, Marathalli","North Indian, Chinese, Continental, Momos",₹500,₹50,4.3,1455,788
+ID_6263,"D-Block, Sector 63, Noida","North Indian, Chinese",₹200,₹99,3.7,144,54
+ID_4651,"Delhi Administration Flats, Timarpur",Fast Food,₹200,₹50,-,-,-
+ID_3021,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Fast Food,₹150,₹50,3.5,25,7
+ID_148,"Moulali, Kolkata","Street Food, Mithai",₹50,₹99,-,-,-
+ID_5209,"Mico Layout, Stage 2, BTM Layout,Bangalore",Chinese,₹100,₹50,3.3,9,2
+ID_892,"Nathan Road, Mangaldas Road, Pune","Biryani, North Indian",₹100,₹50,NEW,-,-
+ID_8550,"Sector 1, Noida",North Indian,₹150,₹50,3.9,107,82
+ID_4464,"Musi Nagar, Malakpet, Hyderabad",South Indian,₹100,₹50,3.3,7,-
+ID_4506,"Musi Nagar, Malakpet, Hyderabad","South Indian, Chinese",₹100,₹0,NEW,-,-
+ID_105,"Nathan Road, Mangaldas Road, Pune","Tea, Street Food, Maharashtrian",₹100,₹50,3.5,23,9
+ID_5724,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Fast Food, Pizza",₹150,₹50,3.8,224,33
+ID_3778,"Mico Layout, Stage 2, BTM Layout,Bangalore","Juices, Beverages",₹50,₹50,3.2,9,1
+ID_2980,"Sector 14, Noida","North Indian, South Indian",₹150,₹50,3.7,80,31
+ID_751,Pune University,North Indian,₹100,₹50,-,-,-
+ID_3920,"Nathan Road, Mangaldas Road, Pune","Asian, Continental, North Indian",₹450,₹50,4.4,2709,1616
+ID_7262,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese, Mughlai",₹200,₹50,3.5,55,28
+ID_1590,"Delhi Administration Flats, Timarpur",Fast Food,₹200,₹50,3.3,11,-
+ID_6760,Delhi Cantt.,"North Indian, South Indian, Chinese, Street Food",₹200,₹50,3.5,121,41
+ID_1452,"Rmz Centennial, I Gate, Whitefield","Street Food, Fast Food",₹100,₹50,4.0,242,179
+ID_3185,Delhi Cantt.,"Fast Food, Beverages",₹100,₹50,4.0,500,335
+ID_245,Mumbai Central,"Chinese, Seafood",₹150,₹50,3.8,26,17
+ID_89,"Sector 1, Noida","Biryani, North Indian",₹150,₹50,3.1,4,1
+ID_4746,"Delhi High Court, India Gate",Bakery,₹100,₹50,4.1,27,23
+ID_8412,Pune University,"Desserts, Beverages",₹100,₹50,NEW,-,-
+ID_2280,"Sector 1, Noida","Fast Food, Chinese",₹100,₹50,3.2,12,3
+ID_1153,"Delhi Administration Flats, Timarpur","Burger, Fast Food",₹150,₹50,3.6,374,87
+ID_2543,"Gora Bazar, Rajbari, North Dumdum, Kolkata",Fast Food,₹100,₹50,3.4,18,4
+ID_4506,"Noorkhan Bazaar, Malakpet, Hyderabad","South Indian, Chinese",₹100,₹0,NEW,-,-
+ID_2206,"D-Block, Sector 63, Noida","Mughlai, North Indian",₹300,₹50,4.4,103,78
+ID_745,"Sector 63A,Gurgaon","Chinese, Thai, Asian",₹650,₹99,3.9,645,291
+ID_7393,"Sector 14, Noida",Chinese,₹100,₹50,3.6,28,5
+ID_5383,"Sector 3, Marathalli","Biryani, Mughlai, Chinese, Seafood",₹250,₹50,-,-,-
+ID_3165,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹200,₹99,3.8,146,31
+ID_5093,Delhi University-GTB Nagar,South Indian,₹200,₹50,3.9,52,47
+ID_5227,"Dockyard Road, Mumbai CST Area","Desserts, Beverages",₹200,₹50,3.1,6,3
+ID_4429,"Dockyard Road, Mumbai CST Area",North Indian,₹100,₹50,3.7,55,22
+ID_4763,"Mico Layout, Stage 2, BTM Layout,Bangalore",Momos,₹50,₹50,3.2,19,7
+ID_1344,"Sector 1, Noida",Bakery,₹100,₹50,3.3,10,6
+ID_3622,Delhi University-GTB Nagar,"North Indian, Chinese, Fast Food",₹400,₹50,4.3,2261,1317
+ID_8092,"Sector 1, Noida","Chinese, North Indian",₹200,₹99,3.5,18,10
+ID_4188,"Sector 14, Noida","Chinese, Fast Food, North Indian, Healthy Food",₹250,₹0,3.6,66,18
+ID_7503,Majestic,"Ice Cream, Desserts",₹100,₹50,3.5,72,27
+ID_7501,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, North Indian, Beverages",₹200,₹50,-,-,-
+ID_6648,"Mico Layout, Stage 2, BTM Layout,Bangalore","Chinese, North Indian",₹200,₹50,3.4,11,6
+ID_8332,"Nathan Road, Mangaldas Road, Pune",Bakery,₹100,₹50,-,-,-
+ID_3938,"Sector 1, Noida","Mithai, Fast Food",₹150,₹50,3.4,42,6
+ID_1238,"Sandhurst Road, Mumbai CST Area",Fast Food,₹150,₹50,3.3,12,6
+ID_6098,Delhi University-GTB Nagar,Chinese,₹600,₹50,3.6,132,74
+ID_7037,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese, Fast Food, Mughlai",₹200,₹50,3.7,25,13
+ID_8157,"Mico Layout, Stage 2, BTM Layout,Bangalore",Rolls,₹100,₹50,3.5,25,5
+ID_2123,"Babarpur, New Delhi, Delhi","Ice Cream, Beverages",₹100,₹50,3.1,7,2
+ID_1144,Delhi University-GTB Nagar,"Burger, Fast Food",₹100,₹50,4.0,349,154
+ID_5967,"Sector 3, Marathalli",Chinese,₹150,₹50,3.5,78,28
+ID_6578,"Tejas Nagar Colony, Wadala West, Mumbai","Mithai, Bakery",₹200,₹50,3.5,26,5
+ID_7418,"Nathan Road, Mangaldas Road, Pune",Fast Food,₹150,₹50,3.5,63,23
+ID_1271,"Sector 63A,Gurgaon","Continental, Chinese, Fast Food, Momos",₹300,₹99,4.3,283,138
+ID_3461,Mumbai Central,"Cafe, Fast Food, Continental",₹200,₹99,3.5,94,39
+ID_6365,"Dockyard Road, Mumbai CST Area",Beverages,₹150,₹50,-,-,-
+ID_5500,"Moulali, Kolkata",North Indian,₹100,₹50,3.1,57,13
+ID_3088,"Delhi High Court, India Gate",North Indian,₹150,₹50,-,-,-
+ID_1840,"Nathan Road, Mangaldas Road, Pune","Chinese, North Indian, South Indian, Fast Food",₹250,₹50,3.9,580,317
+ID_3071,"Sandhurst Road, Mumbai CST Area","North Indian, Mughlai, Chinese",₹200,₹50,3.4,26,13
+ID_4906,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese, Biryani",₹200,₹50,-,-,-
+ID_1434,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese, Mughlai",₹200,₹50,-,-,-
+ID_8504,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, Beverages",₹100,₹50,3.3,5,2
+ID_6395,"Sector 1, Noida",North Indian,₹100,₹50,3.0,4,1
+ID_2733,"Sandhurst Road, Mumbai CST Area","American, Italian, Beverages",₹300,₹50,-,-,-
+ID_61,"Mico Layout, Stage 2, BTM Layout,Bangalore",Momos,₹50,₹50,3.3,7,5
+ID_2855,Delhi University-GTB Nagar,North Indian,₹100,₹50,3.0,4,-
+ID_2307,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, Kebab, German",₹250,₹50,3.7,-,-
+ID_3543,"Dockyard Road, Mumbai CST Area","Chinese, North Indian, Pizza",₹200,₹50,3.6,112,36
+ID_3625,"Sector 14, Noida",Rolls,₹100,₹50,NEW,-,-
+ID_8278,"Delhi Administration Flats, Timarpur","South Indian, Chinese",₹150,₹50,3.3,24,6
+ID_932,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Biryani,₹200,₹50,2.7,7,3
+ID_6162,"D-Block, Sector 63, Noida","Fast Food, Continental",₹150,₹0,-,-,-
+ID_6544,"Mico Layout, Stage 2, BTM Layout,Bangalore","Arabian, North Indian, Chinese, Fast Food",₹350,₹50,4.0,477,184
+ID_7440,Mumbai Central,Mithai,₹200,₹50,4.0,152,88
+ID_5157,"Tiretti, Kolkata","Biryani, Mughlai, North Indian",₹150,₹50,3.2,5,1
+ID_425,"Gora Bazar, Rajbari, North Dumdum, Kolkata",North Indian,₹150,₹50,3.2,18,7
+ID_1678,Mumbai Central,Fast Food,₹200,₹50,3.4,442,98
+ID_4521,Mumbai Central,"Chinese, North Indian, South Indian, Fast Food",₹250,₹50,3.9,445,218
+ID_3443,"Delhi Administration Flats, Timarpur","North Indian, Continental, Chinese",₹600,₹50,4.7,437,364
+ID_7920,Delhi University-GTB Nagar,"Chinese, Mughlai, North Indian",₹350,₹50,4.0,148,72
+ID_5321,"Raja Bazar, Kolkata","Biryani, Hyderabadi, North Indian, Mughlai",₹100,₹0,3.1,7,4
+ID_305,"Tiretti, Kolkata","North Indian, South Indian",₹200,₹50,3.8,275,38
+ID_1916,"Sector 14, Noida",Bakery,₹150,₹50,3.4,17,8
+ID_4824,Mumbai Central,"Momos, Fast Food",₹50,₹50,3.6,29,15
+ID_7295,"Rmz Centennial, I Gate, Whitefield","Bakery, Desserts",₹150,₹50,3.8,51,27
+ID_5402,"Sector 14, Noida",Bakery,₹100,₹50,3.7,60,36
+ID_7992,"Moulali, Kolkata","Beverages, South Indian, Fast Food",₹200,₹50,3.6,194,107
+ID_7375,"MG Road, Pune",Chinese,₹200,₹50,3.3,6,4
+ID_3214,"D-Block, Sector 63, Noida",Healthy Food,₹150,₹50,NEW,-,-
+ID_7878,"D-Block, Sector 63, Noida","Chinese, South Indian, Fast Food, North Indian",₹200,₹50,NEW,-,-
+ID_8350,"Mico Layout, Stage 2, BTM Layout,Bangalore",Kerala,₹200,₹50,-,-,-
+ID_1595,Mumbai Central,"Italian, Street Food, Fast Food",₹150,₹50,3.6,99,30
+ID_4935,"Yerawada, Pune, Maharashtra","North Indian, Fast Food, Beverages",₹200,₹50,3.3,8,2
+ID_1980,Delhi Cantt.,"Pizza, Fast Food",₹200,₹50,3.1,15,4
+ID_8495,"Dockyard Road, Mumbai CST Area","Continental, North Indian, Italian, Beverages, Desserts",₹200,₹50,3.3,7,6
+ID_4371,"Rmz Centennial, I Gate, Whitefield","Ice Cream, Desserts",₹200,₹50,-,-,-
+ID_5538,"Yerawada, Pune, Maharashtra","North Indian, Beverages",₹100,₹0,-,-,-
+ID_6470,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, Sandwich",₹150,₹50,3.4,14,3
+ID_6936,"Babarpur, New Delhi, Delhi",Street Food,₹100,₹50,NEW,-,-
+ID_3258,"Delhi Administration Flats, Timarpur",Fast Food,₹150,₹50,3.9,159,100
+ID_8572,"Sandhurst Road, Mumbai CST Area","Italian, Mexican, Chinese",₹200,₹99,3.4,92,58
+ID_1210,"Rmz Centennial, I Gate, Whitefield","Beverages, Cafe, Sandwich, Fast Food, Desserts",₹250,₹50,3.8,118,69
+ID_4124,"Dockyard Road, Mumbai CST Area",Desserts,₹100,₹50,-,-,-
+ID_4145,"Chandni Chowk, Kolkata","North Indian, South Indian",₹200,₹50,3.4,37,22
+ID_6814,"Yerawada, Pune, Maharashtra","North Indian, South Indian, Fast Food, Chinese",₹400,₹50,4.0,341,215
+ID_413,Delhi University-GTB Nagar,"Chinese, North Indian, Fast Food",₹150,₹50,3.1,4,1
+ID_3081,Delhi Cantt.,"North Indian, Chinese",₹200,₹50,3.1,21,3
+ID_7797,"FTI College, Law College Road, Pune",Street Food,₹50,₹50,3.7,27,7
+ID_5229,"D-Block, Sector 63, Noida","North Indian, Chinese, South Indian",₹200,₹50,3.5,59,33
+ID_7836,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","South Indian, North Indian, Chinese, Fast Food",₹150,₹50,3.2,14,-
+ID_904,"Rmz Centennial, I Gate, Whitefield","Biryani, Chinese, North Indian",₹200,₹50,3.1,31,16
+ID_8253,Delhi Cantt.,Street Food,₹50,₹50,3.3,13,3
+ID_5321,"Chandni Chowk, Kolkata","Biryani, Hyderabadi, North Indian, Mughlai",₹100,₹0,3.1,7,4
+ID_3595,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹250,₹99,-,-,-
+ID_7371,"D-Block, Sector 63, Noida","North Indian, Rolls",₹200,₹50,3.5,26,13
+ID_188,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Mughlai",₹150,₹50,-,-,-
+ID_4604,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Bakery, Desserts",₹100,₹50,3.2,6,-
+ID_2285,"FTI College, Law College Road, Pune","North Indian, Maharashtrian",₹150,₹50,-,-,-
+ID_5652,"Sector 14, Noida","North Indian, Mughlai, Kebab",₹550,₹99,3.7,1072,609
+ID_5394,"Delhi High Court, India Gate","Chinese, Thai",₹400,₹50,4.1,196,90
+ID_2034,"Moulali, Kolkata","Biryani, Fast Food",₹100,₹50,3.4,15,4
+ID_3793,"Sandhurst Road, Mumbai CST Area","Pizza, Italian, Fast Food",₹300,₹99,4.0,352,130
+ID_3501,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹200,₹50,3.3,8,5
+ID_1907,"Mico Layout, Stage 2, BTM Layout,Bangalore","Ice Cream, Desserts",₹100,₹50,4.1,25,20
+ID_670,"Delhi Administration Flats, Timarpur",Sandwich,₹100,₹50,3.1,7,1
+ID_2120,"Rmz Centennial, I Gate, Whitefield",North Indian,₹200,₹50,2.8,158,28
+ID_4880,"Sector 14, Noida","Bakery, Desserts, Fast Food",₹200,₹99,4.0,363,228
+ID_190,"Rmz Centennial, I Gate, Whitefield","Mithai, Desserts",₹100,₹50,3.5,9,6
+ID_3427,"Yerawada, Pune, Maharashtra","Desserts, Beverages",₹150,₹50,3.8,21,11
+ID_1894,Delhi Cantt.,"Chinese, Momos",₹150,₹50,3.4,15,-
+ID_2420,"Sector 1, Noida","North Indian, South Indian, Chinese",₹200,₹50,-,-,-
+ID_6235,"Sector 1, Noida","Rolls, Kebab, Beverages",₹200,₹50,3.6,93,46
+ID_184,"FTI College, Law College Road, Pune","Beverages, Fast Food",₹100,₹50,3.6,93,14
+ID_8042,"Yerawada, Pune, Maharashtra",Fast Food,₹150,₹50,NEW,-,-
+ID_5284,"Delhi Administration Flats, Timarpur","Biryani, North Indian",₹150,₹50,NEW,-,-
+ID_2476,"Rmz Centennial, I Gate, Whitefield","Fast Food, Beverages",₹200,₹50,3.4,13,4
+ID_3272,"Delhi Administration Flats, Timarpur","North Indian, Chinese",₹200,₹50,3.1,4,3
+ID_4898,Delhi University-GTB Nagar,Ice Cream,₹100,₹50,3.4,117,68
+ID_8004,"Hyderabad Public School, Begumpet","Beverages, Desserts",₹150,₹50,3.7,87,7
+ID_640,"Chandni Chowk, Kolkata","North Indian, Street Food, Beverages",₹200,₹50,4.0,2090,1046
+ID_2960,"Sector 1, Noida",Street Food,₹150,₹99,4.1,791,278
+ID_7260,"Raja Bazar, Kolkata","North Indian, Mughlai",₹150,₹50,2.8,7,3
+ID_813,"Sector 3, Marathalli",Fast Food,₹200,₹50,3.5,12,2
+ID_8489,"Mico Layout, Stage 2, BTM Layout,Bangalore","Chinese, South Indian, North Indian",₹300,₹99,2.4,215,109
+ID_3141,"Sandhurst Road, Mumbai CST Area","Bakery, Cafe",₹200,₹50,3.6,289,113
+ID_125,Delhi Cantt.,North Indian,₹150,₹50,3.3,18,5
+ID_1581,"Sector 1, Noida","North Indian, Chinese",₹150,₹50,3.6,260,40
+ID_884,"D-Block, Sector 63, Noida","Biryani, North Indian",₹350,₹50,3.4,45,20
+ID_4209,"FTI College, Law College Road, Pune",Italian,₹500,₹50,4.5,1808,818
+ID_6982,Delhi University-GTB Nagar,South Indian,₹100,₹50,3.2,11,-
+ID_7487,"D-Block, Sector 63, Noida",North Indian,₹100,₹50,3.7,57,31
+ID_7295,"Nathan Road, Mangaldas Road, Pune","Bakery, Desserts, Ice Cream",₹150,₹50,4.1,58,39
+ID_2483,"Sector 1, Noida","North Indian, Fast Food, Biryani, Rolls, Wraps",₹250,₹50,4.0,206,68
+ID_8170,Mumbai Central,"North Indian, Biryani, Kebab, BBQ",₹200,₹50,3.3,30,26
+ID_6789,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Bakery, Desserts",₹200,₹99,2.8,6,2
+ID_181,"Delhi High Court, India Gate","South Indian, North Indian",₹150,₹50,3.4,15,9
+ID_3991,"Sandhurst Road, Mumbai CST Area","Fast Food, Juices, Beverages, Pizza",₹150,₹50,3.8,210,70
+ID_5778,"Nathan Road, Mangaldas Road, Pune","South Indian, Fast Food, North Indian",₹200,₹50,3.7,68,26
+ID_8430,"Mico Layout, Stage 2, BTM Layout,Bangalore","Asian, Japanese, Thai, Mughlai, North Indian",₹350,₹50,4.2,448,198
+ID_4948,"Mico Layout, Stage 2, BTM Layout,Bangalore",North Indian,₹150,₹50,4.2,31,8
+ID_7184,"MG Road, Pune","Fast Food, Healthy Food, Sandwich, Salad",₹200,₹50,4.0,238,72
+ID_5090,"Nathan Road, Mangaldas Road, Pune","Fast Food, Italian, Beverages",₹200,₹50,3.9,327,173
+ID_505,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Chinese, North Indian",₹300,₹99,3.5,106,43
+ID_7480,"Delhi Administration Flats, Timarpur",Asian,₹400,₹50,-,-,-
+ID_5594,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Mughlai, North Indian",₹250,₹50,3.7,179,46
+ID_4972,"MG Road, Pune","Chinese, Fast Food, South Indian, North Indian",₹150,₹50,-,-,-
+ID_2054,"Sector 14, Noida","North Indian, Chinese",₹200,₹50,3.2,76,18
+ID_306,"Sandhurst Road, Mumbai CST Area","North Indian, Street Food, South Indian, Fast Food, Chinese",₹200,₹50,3.9,322,131
+ID_6769,"Sandhurst Road, Mumbai CST Area","Fast Food, South Indian, Street Food",₹150,₹50,3.2,15,9
+ID_7544,Delhi University-GTB Nagar,"Desserts, Beverages",₹200,₹50,3.8,191,96
+ID_8438,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Fast Food, Beverages",₹250,₹50,3.8,116,58
+ID_570,"Noorkhan Bazaar, Malakpet, Hyderabad",South Indian,₹50,₹50,-,-,-
+ID_3191,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹350,₹50,3.0,5,-
+ID_7851,Delhi University-GTB Nagar,"Chinese, Momos",₹100,₹50,3.1,192,31
+ID_8484,"MG Road, Pune",Asian,₹200,₹50,3.2,30,4
+ID_5206,Delhi Cantt.,"North Indian, Chinese",₹150,₹50,3.4,90,28
+ID_466,"Sector 14, Noida","Beverages, Street Food",₹100,₹50,3.0,4,2
+ID_4068,"Babarpur, New Delhi, Delhi","North Indian, Chinese",₹200,₹50,3.4,15,-
+ID_7013,Delhi Cantt.,"Chinese, North Indian, Mughlai",₹350,₹50,3.7,113,68
+ID_6905,Majestic,"South Indian, North Indian, Chinese, Beverages",₹350,₹50,4.2,441,170
+ID_8056,"Dockyard Road, Mumbai CST Area","Beverages, Ice Cream",₹100,₹50,3.7,37,18
+ID_2166,"Sector 14, Noida",Biryani,₹150,₹50,NEW,-,-
+ID_4976,"MG Road, Pune",Bakery,₹100,₹50,-,-,-
+ID_4158,Pune University,"Biryani, North Indian, Mughlai",₹200,₹50,NEW,-,-
+ID_4403,"Sector 14, Noida","North Indian, Chinese",₹150,₹99,3.9,261,109
+ID_8606,"D-Block, Sector 63, Noida","North Indian, Mughlai",₹200,₹50,-,-,-
+ID_1214,"D-Block, Sector 63, Noida","North Indian, Chinese, Continental",₹550,₹50,4.8,1367,1002
+ID_984,Majestic,Mithai,₹150,₹50,-,-,-
+ID_4562,Delhi University-GTB Nagar,Chinese,₹250,₹50,3.8,19,15
+ID_4621,"Delhi High Court, India Gate",North Indian,₹150,₹50,2.8,13,3
+ID_5827,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Fast Food, Beverages, Ice Cream, South Indian, Desserts",₹100,₹50,-,-,-
+ID_4812,"D-Block, Sector 63, Noida","Momos, Chinese, Tibetan, Thai",₹200,₹50,4.4,526,224
+ID_68,"Sector 14, Noida","Chinese, North Indian",₹200,₹50,3.2,9,1
+ID_4963,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Fast Food,₹150,₹50,-,-,-
+ID_7443,Delhi Cantt.,"Fast Food, Street Food",₹150,₹50,4.1,749,309
+ID_152,"Sector 3, Marathalli","North Indian, Chinese, Seafood, Biryani",₹250,₹50,-,-,-
+ID_6180,"Yerawada, Pune, Maharashtra","Continental, North Indian, European, Asian, Italian, Seafood",₹550,₹50,4.0,320,168
+ID_849,"D-Block, Sector 63, Noida","Biryani, North Indian, Andhra",₹400,₹50,4.0,831,326
+ID_5281,"Babarpur, New Delhi, Delhi",Chinese,₹100,₹50,3.7,101,35
+ID_3204,"Sector 1, Noida",Healthy Food,₹250,₹0,3.9,66,23
+ID_3763,"Yerawada, Pune, Maharashtra",Street Food,₹50,₹50,3.2,15,4
+ID_4995,"Delhi High Court, India Gate",North Indian,₹100,₹50,3.3,11,1
+ID_3970,"FTI College, Law College Road, Pune","Burger, Fast Food",₹200,₹99,3.3,591,133
+ID_3027,"D-Block, Sector 63, Noida","North Indian, Mughlai, Chinese",₹250,₹50,4.2,116,105
+ID_271,Majestic,"Arabian, North Indian, Chinese, Kerala",₹200,₹50,3.4,31,4
+ID_3710,"Moulali, Kolkata","Cafe, Chinese, Italian, Continental, North Indian, Mexican, Momos",₹400,₹50,4.1,925,582
+ID_5499,"Rmz Centennial, I Gate, Whitefield","North Indian, South Indian, Chinese, Bengali, Odia, Biryani, Beverages",₹150,₹50,3.5,45,29
+ID_6914,"Mico Layout, Stage 2, BTM Layout,Bangalore","Continental, Chinese, Thai, Italian, BBQ, Steak",₹450,₹50,4.0,1444,675
+ID_2316,Majestic,"Cafe, Continental, Fast Food, Pizza, Italian, Burger, Chinese, Desserts",₹200,₹50,3.9,310,148
+ID_1890,"D-Block, Sector 63, Noida","North Indian, Fast Food",₹200,₹50,3.1,5,1
+ID_71,"FTI College, Law College Road, Pune",Desserts,₹150,₹50,3.7,23,9
+ID_3866,"Sector 3, Marathalli",North Indian,₹150,₹50,3.7,110,34
+ID_2325,"Sandhurst Road, Mumbai CST Area","South Indian, Street Food",₹150,₹50,3.4,63,22
+ID_1731,"Sector 14, Noida","Chinese, Momos, Rolls",₹200,₹50,4.2,71,56
+ID_6334,"Sector 14, Noida","North Indian, Asian, Biryani, Mughlai, Desserts, Kashmiri",₹350,₹50,3.4,13,2
+ID_6145,"FTI College, Law College Road, Pune","Ice Cream, Fast Food",₹150,₹50,3.3,9,3
+ID_4534,"D-Block, Sector 63, Noida","Kerala, South Indian, North Indian, Chinese, Seafood, Desserts, Beverages",₹150,₹50,4.2,800,389
+ID_1656,"D-Block, Sector 63, Noida","Fast Food, Raw Meats",₹200,₹50,4.1,189,160
+ID_707,Delhi University-GTB Nagar,North Indian,₹200,₹50,3.2,4,1
+ID_7711,"Sector 3, Marathalli","North Indian, Chinese, Biryani",₹200,₹50,3.1,12,2
+ID_2971,"Delhi High Court, India Gate","Mithai, Street Food, Bakery",₹150,₹50,3.3,10,3
+ID_2851,"Dockyard Road, Mumbai CST Area","Juices, Beverages",₹100,₹50,3.2,9,2
+ID_4652,"Chatta Bazaar, Malakpet, Hyderabad","Burger, Fast Food, Beverages, Cafe, Desserts",₹200,₹50,3.0,4,2
+ID_847,"Hyderabad Public School, Begumpet","North Indian, Street Food, South Indian, Mithai",₹300,₹99,4.2,3021,1174
+ID_561,"Mico Layout, Stage 2, BTM Layout,Bangalore",Biryani,₹200,₹50,3.9,53,43
+ID_170,Mumbai Central,Mithai,₹200,₹50,3.6,43,17
+ID_2273,"Delhi High Court, India Gate","North Indian, Chinese, South Indian, Mithai",₹200,₹50,3.9,198,71
+ID_4244,Delhi University-GTB Nagar,Tibetan,₹100,₹50,4.0,126,53
+ID_463,"Nathan Road, Mangaldas Road, Pune","Ice Cream, Desserts",₹100,₹50,3.9,48,22
+ID_3935,"Dockyard Road, Mumbai CST Area",Rolls,₹150,₹99,4.3,1389,699
+ID_4572,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Ice Cream, Desserts",₹50,₹50,4.0,200,55
+ID_7209,Mumbai Central,"Korean, Momos, Asian",₹800,₹50,4.0,262,112
+ID_7920,"Delhi Administration Flats, Timarpur","Chinese, Mughlai, North Indian",₹350,₹50,4.0,148,72
+ID_3604,Majestic,"Biryani, Chinese",₹100,₹50,3.7,30,5
+ID_4085,"MG Road, Pune","Italian, European, North Indian","₹1,200",₹50,3.9,220,154
+ID_507,Majestic,"Mithai, Street Food",₹100,₹50,4.2,92,34
+ID_8032,"Mico Layout, Stage 2, BTM Layout,Bangalore","Desserts, Beverages",₹200,₹50,3.8,52,27
+ID_930,"Mico Layout, Stage 2, BTM Layout,Bangalore",Biryani,₹100,₹50,3.5,17,4
+ID_8495,Mumbai Central,"Continental, North Indian, Italian, Beverages, Desserts",₹200,₹50,3.6,68,25
+ID_5285,Mumbai Central,"Mughlai, North Indian",₹200,₹50,4.0,1408,851
+ID_8606,"Delhi High Court, India Gate","North Indian, Mughlai",₹200,₹50,3.5,138,26
+ID_4253,"Mico Layout, Stage 2, BTM Layout,Bangalore",Beverages,₹100,₹50,3.4,13,4
+ID_361,"Babarpur, New Delhi, Delhi",Ice Cream,₹100,₹50,3.5,43,8
+ID_4699,"Sector 1, Noida",Biryani,₹150,₹50,-,-,-
+ID_816,"Sector 1, Noida","Bakery, Desserts",₹100,₹50,NEW,-,-
+ID_3135,"Sector 1, Noida","Rolls, Momos",₹150,₹50,3.7,23,10
+ID_1876,"Chandni Chowk, Kolkata",Fast Food,₹100,₹50,3.5,116,57
+ID_7253,"Delhi High Court, India Gate",North Indian,₹300,₹50,-,-,-
+ID_7281,Mumbai Central,Fast Food,₹100,₹50,3.1,7,1
+ID_684,Majestic,"Arabian, Chinese, Continental",₹200,₹50,NEW,-,-
+ID_2734,"Nathan Road, Mangaldas Road, Pune","Bakery, Desserts, Cafe",₹300,₹50,4.4,812,457
+ID_7510,"Chandni Chowk, Kolkata","Cafe, Chinese, Fast Food",₹250,₹50,3.7,276,158
+ID_6710,"Sector 14, Noida","Pizza, Fast Food",₹150,₹50,3.7,43,9
+ID_1209,Majestic,"Cafe, Desserts, Beverages",₹250,₹50,3.6,37,12
+ID_5448,"MG Road, Pune","Fast Food, Italian, Pizza",₹200,₹50,3.9,73,42
+ID_3664,"FTI College, Law College Road, Pune","Burger, Italian",₹100,₹50,NEW,-,-
+ID_6857,"FTI College, Law College Road, Pune","South Indian, North Indian",₹150,₹50,3.1,253,35
+ID_8435,"Rmz Centennial, I Gate, Whitefield","Bakery, Desserts",₹200,₹50,4.0,56,30
+ID_904,"Rmz Centennial, I Gate, Whitefield","Biryani, North Indian, Chinese",₹200,₹50,3.3,4,2
+ID_2880,"Delhi Administration Flats, Timarpur","Chinese, Biryani",₹150,₹50,-,-,-
+ID_2852,"Gora Bazar, Rajbari, North Dumdum, Kolkata",Mishti,₹50,₹50,3.8,136,35
+ID_7502,"Sector 14, Noida","North Indian, Healthy Food, South Indian",₹200,₹50,3.6,79,23
+ID_2244,"Delhi High Court, India Gate","Healthy Food, Fast Food",₹300,₹50,4.1,524,256
+ID_3131,"D-Block, Sector 63, Noida","Chinese, North Indian",₹150,₹50,3.0,14,6
+ID_7362,"D-Block, Sector 63, Noida",North Indian,₹200,₹99,2.5,61,8
+ID_8544,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","South Indian, North Indian",₹200,₹50,3.0,5,-
+ID_4467,"Sector 63A,Gurgaon","Cafe, Continental, Salad, Bakery, Italian",₹450,₹50,4.1,718,426
+ID_1335,"Sandhurst Road, Mumbai CST Area","Bakery, Desserts",₹150,₹50,4.3,159,86
+ID_7535,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese, Fast Food",₹50,₹50,3.3,9,5
+ID_6061,"Sector 14, Noida","North Indian, South Indian, Chinese",₹100,₹50,3.6,71,31
+ID_362,"MG Road, Pune","Ice Cream, Beverages",₹100,₹50,-,-,-
+ID_7488,"Delhi High Court, India Gate",North Indian,₹100,₹50,NEW,-,-
+ID_3168,"Mico Layout, Stage 2, BTM Layout,Bangalore","Sandwich, Fast Food",₹100,₹50,4.0,55,14
+ID_5965,"Rmz Centennial, I Gate, Whitefield","Biryani, Chinese",₹200,₹50,3.2,4,-
+ID_6204,"D-Block, Sector 63, Noida",Rolls,₹150,₹50,NEW,-,-
+ID_1560,"D-Block, Sector 63, Noida","North Indian, Mughlai",₹150,₹50,2.5,18,2
+ID_80,Delhi Cantt.,"North Indian, Biryani",₹200,₹50,-,-,-
+ID_2250,"Gora Bazar, Rajbari, North Dumdum, Kolkata","Biryani, North Indian",₹150,₹50,3.2,38,21
+ID_5719,"Mico Layout, Stage 2, BTM Layout,Bangalore",Pizza,₹200,₹50,3.5,87,37
+ID_7695,"MG Road, Pune","Turkish, Healthy Food, Wraps",₹300,₹50,3.8,88,31
+ID_1342,"Raja Bazar, Kolkata",Bakery,₹150,₹99,2.8,177,81
+ID_2185,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese",₹250,₹99,3.7,48,23
+ID_101,Delhi University-GTB Nagar,North Indian,₹150,₹99,-,-,-
+ID_398,"Sector 3, Marathalli","Andhra, South Indian, North Indian, Biryani, Chinese, Beverages",₹400,₹99,3.8,444,199
+ID_8444,"Delhi Administration Flats, Timarpur","Burger, Fast Food",₹200,₹50,3.9,280,120
+ID_2629,"Dockyard Road, Mumbai CST Area","Fast Food, Pizza",₹150,₹50,3.0,73,28
+ID_649,"Sector 1, Noida",Paan,₹100,₹50,4.1,44,35
+ID_7643,"D-Block, Sector 63, Noida",Chinese,₹200,₹50,3.1,15,12
+ID_2977,"Chatta Bazaar, Malakpet, Hyderabad",South Indian,₹150,₹99,4.1,1008,245
+ID_2875,"D-Block, Sector 63, Noida","North Indian, Chinese",₹200,₹50,3.7,51,33
+ID_5264,"D-Block, Sector 63, Noida",Rolls,₹100,₹50,3.4,15,2
+ID_5479,"Mico Layout, Stage 2, BTM Layout,Bangalore",North Indian,₹100,₹50,3.3,401,44
+ID_2118,"Sector 1, Noida","North Indian, Ice Cream",₹150,₹50,3.2,9,-
+ID_1609,"Mico Layout, Stage 2, BTM Layout,Bangalore","Momos, Fast Food",₹50,₹50,-,-,-
+ID_8180,Majestic,"South Indian, Chinese, North Indian, Beverages",₹200,₹50,3.7,64,14
+ID_7412,Delhi Cantt.,"North Indian, Chinese, Rolls",₹150,₹50,4.8,326,234
+ID_7401,"Delhi High Court, India Gate","Chinese, North Indian",₹650,₹50,3.9,443,270
+ID_5384,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Burger, Sandwich, Finger Food, Beverages",₹300,₹50,3.9,64,11
+ID_5857,"FTI College, Law College Road, Pune","Biryani, North Indian",₹100,₹50,NEW,-,-
+ID_5198,"Delhi Administration Flats, Timarpur",North Indian,₹100,₹50,3.2,6,1
+ID_3969,"Tejas Nagar Colony, Wadala West, Mumbai","Beverages, Desserts, Ice Cream",₹200,₹50,3.9,109,55
+ID_4702,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹100,₹50,3.8,106,17
+ID_5566,"Chandni Chowk, Kolkata","North Indian, Continental, South Indian, Chinese",₹500,₹50,3.8,161,87
+ID_6611,"Yerawada, Pune, Maharashtra","Beverages, Desserts",₹100,₹50,3.6,33,30
+ID_6369,"Sector 1, Noida","Bakery, Fast Food",₹200,₹50,3.3,39,11
+ID_2772,"Sector 3, Marathalli","Chinese, Continental, Italian, Healthy Food, Asian, North Indian, Pizza, Desserts",₹200,₹0,3.1,181,75
+ID_1799,"MG Road, Pune","Burger, Sandwich, Fast Food, Beverages",₹200,₹50,3.4,7,-
+ID_896,"Sector 3, Marathalli","Biryani, Mughlai",₹100,₹50,-,-,-
+ID_1815,"Yerawada, Pune, Maharashtra","Continental, North Indian, Asian, Pizza",₹800,₹50,4.3,2896,1967
+ID_3382,"FTI College, Law College Road, Pune","South Indian, Street Food",₹100,₹50,3.6,44,7
+ID_3635,"Yerawada, Pune, Maharashtra","Asian, European, North Indian, American",₹600,₹50,4.3,438,239
+ID_6996,"D-Block, Sector 63, Noida","Fast Food, Beverages",₹200,₹50,3.8,105,50
+ID_3970,"Sector 1, Noida","Burger, Fast Food",₹200,₹50,2.7,564,131
+ID_8098,Majestic,"Cafe, Italian",₹200,₹99,4.0,279,169
+ID_1324,"D-Block, Sector 63, Noida",Bakery,₹200,₹50,3.1,12,2
+ID_3969,"Sector 1, Noida","Beverages, Desserts",₹200,₹50,4.0,341,248
+ID_7933,"Sector 1, Noida","North Indian, South Indian",₹100,₹50,NEW,-,-
+ID_2670,"Sector 1, Noida","North Indian, South Indian, Chinese, Fast Food",₹250,₹50,3.1,409,90
+ID_2750,"Rmz Centennial, I Gate, Whitefield","South Indian, North Indian, Continental",₹200,₹50,-,-,-
+ID_6702,"Sector 1, Noida","North Indian, Street Food",₹100,₹50,NEW,-,-
+ID_5973,"MG Road, Pune","Continental, Italian, Asian, North Indian",₹600,₹50,3.8,565,347
+ID_3544,"Hyderabad Public School, Begumpet","North Indian, Chinese",₹300,₹99,4.0,144,67
+ID_1444,"Nathan Road, Mangaldas Road, Pune",Street Food,₹150,₹50,3.2,69,38
+ID_3633,"Yerawada, Pune, Maharashtra","Bakery, Desserts",₹100,₹50,3.1,4,1
+ID_4806,"Sector 63A,Gurgaon","Bengali, North Indian",₹150,₹50,3.0,6,3
+ID_5689,"Mico Layout, Stage 2, BTM Layout,Bangalore","Pizza, Fast Food",₹200,₹50,NEW,-,-
+ID_6774,"Dockyard Road, Mumbai CST Area","Chinese, North Indian, Fast Food, Biryani",₹150,₹50,2.8,4,3
+ID_6835,"Babarpur, New Delhi, Delhi",North Indian,₹100,₹50,3.7,39,9
+ID_4386,"Delhi Administration Flats, Timarpur",Chinese,₹150,₹50,3.2,36,9
+ID_6154,"Delhi High Court, India Gate",North Indian,₹150,₹50,3.4,16,4
+ID_3928,"Babarpur, New Delhi, Delhi","North Indian, South Indian, Chinese, Fast Food",₹250,₹50,3.3,29,6
+ID_5966,"Hyderabad Public School, Begumpet","South Indian, Chinese",₹100,₹50,3.2,6,1
+ID_5473,"Sector 1, Noida","Mithai, Beverages",₹200,₹50,3.5,23,8
+ID_3825,"Sector 3, Marathalli","Mithai, Street Food",₹100,₹50,3.6,16,7
+ID_7841,"Mico Layout, Stage 2, BTM Layout,Bangalore",Desserts,₹200,₹50,4.2,83,51
+ID_262,Majestic,"North Indian, Mughlai, Chinese, Rolls",₹200,₹50,3.9,199,27
+ID_2528,"Dockyard Road, Mumbai CST Area","Chinese, Fast Food",₹300,₹50,3.4,46,14
+ID_1312,"Nathan Road, Mangaldas Road, Pune","Salad, Sandwich, Continental, Healthy Food",₹200,₹50,3.5,13,5
+ID_373,"FTI College, Law College Road, Pune","North Indian, Fast Food, Chinese, South Indian",₹250,₹99,3.9,496,207
+ID_2794,"Delhi High Court, India Gate","Beverages, Desserts",₹200,₹50,3.8,54,34
+ID_1182,Mumbai Central,"Fast Food, American",₹250,₹50,3.7,52,33
+ID_7577,"Mico Layout, Stage 2, BTM Layout,Bangalore","Bengali, North Indian, Chinese",₹200,₹50,3.6,120,66
+ID_1144,"Sector 63A,Gurgaon","Burger, Fast Food",₹200,₹50,3.6,47,18
+ID_4722,"Mico Layout, Stage 2, BTM Layout,Bangalore",Fast Food,₹100,₹50,NEW,-,-
+ID_6931,"Sandhurst Road, Mumbai CST Area",Fast Food,₹100,₹50,NEW,-,-
+ID_7776,Delhi Cantt.,"Cafe, Chinese, Continental",₹300,₹50,3.9,266,217
+ID_4290,"Noorkhan Bazaar, Malakpet, Hyderabad","Mughlai, Biryani",₹200,₹50,3.9,566,77
+ID_2288,Delhi Cantt.,Bengali,₹100,₹50,-,-,-
+ID_5140,"Sector 14, Noida","North Indian, South Indian",₹100,₹99,3.5,87,23
+ID_8536,"Noorkhan Bazaar, Malakpet, Hyderabad",North Indian,₹100,₹50,-,-,-
+ID_8576,"Mico Layout, Stage 2, BTM Layout,Bangalore","Beverages, Juices",₹100,₹50,3.2,6,4
+ID_8343,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, Chinese",₹100,₹50,3.8,128,32
+ID_7050,"MG Road, Pune",North Indian,₹150,₹50,-,-,-
+ID_7888,Delhi University-GTB Nagar,"Bakery, Pizza, Beverages",₹150,₹50,3.9,66,47
+ID_7744,"FTI College, Law College Road, Pune","Juices, Beverages",₹100,₹50,-,-,-
+ID_2163,"D-Block, Sector 63, Noida","North Indian, Chinese",₹100,₹50,3.0,44,21
+ID_1675,"Delhi High Court, India Gate",Chinese,₹200,₹50,3.2,20,11
+ID_7221,Delhi Cantt.,Desserts,₹200,₹50,3.8,55,20
+ID_2495,"Babarpur, New Delhi, Delhi","Biryani, Fast Food, Beverages",₹100,₹50,NEW,-,-
+ID_7307,"Sector 14, Noida",Arabian,₹100,₹50,3.5,53,19
+ID_8217,"Mico Layout, Stage 2, BTM Layout,Bangalore","Kerala, Chinese",₹150,₹50,3.4,11,5
+ID_1051,"Dockyard Road, Mumbai CST Area","Bakery, Desserts",₹150,₹50,3.5,34,18
+ID_7719,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Fast Food, North Indian",₹150,₹50,3.5,19,4
+ID_6106,"Sector 1, Noida","Fast Food, Chinese",₹100,₹50,-,-,-
+ID_7200,Majestic,"South Indian, North Indian",₹200,₹50,3.8,266,90
+ID_475,"Sandhurst Road, Mumbai CST Area","Maharashtrian, Fast Food",₹100,₹50,4.1,400,282
+ID_7474,"Sector 63A,Gurgaon","Chinese, North Indian",₹100,₹50,-,-,-
+ID_3608,"Delhi Administration Flats, Timarpur",North Indian,₹250,₹0,3.4,13,-
+ID_6899,"Mico Layout, Stage 2, BTM Layout,Bangalore",Coffee,₹200,₹99,4.0,23,15
+ID_5024,"Sector 3, Marathalli","North Indian, South Indian",₹100,₹50,-,-,-
+ID_4050,Delhi University-GTB Nagar,"Street Food, Chinese, Momos, Burger, Sandwich, Lebanese",₹100,₹50,4.0,-,-
+ID_6111,Mumbai Central,Chinese,₹200,₹50,-,-,-
+ID_2448,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹250,₹99,2.7,18,3
+ID_7067,"Noorkhan Bazaar, Malakpet, Hyderabad",South Indian,₹100,₹50,3.5,237,2
+ID_4286,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Mughlai, Chinese",₹200,₹50,3.5,101,32
+ID_3658,"Nathan Road, Mangaldas Road, Pune",Bakery,₹100,₹50,3.6,21,15
+ID_4488,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, Chinese, Mughlai, Rolls",₹200,₹50,3.9,208,86
+ID_895,"Delhi Administration Flats, Timarpur",Biryani,₹150,₹50,4.1,48,45
+ID_7222,"Yerawada, Pune, Maharashtra",Burger,₹200,₹50,4.1,34,26
+ID_7675,"FTI College, Law College Road, Pune","North Indian, Chinese, Seafood",₹200,₹50,-,-,-
+ID_1149,"D-Block, Sector 63, Noida","Fast Food, Burger, Chinese, Beverages",₹150,₹50,3.3,15,6
+ID_3418,"Noorkhan Bazaar, Malakpet, Hyderabad","North Indian, Chinese, South Indian, Desserts",₹300,₹50,3.4,31,12
+ID_8651,"Rmz Centennial, I Gate, Whitefield","Desserts, Beverages",₹200,₹50,4.2,180,114
+ID_2300,"D-Block, Sector 63, Noida","Pizza, Fast Food",₹200,₹50,3.9,105,78
+ID_7413,"Sector 1, Noida",North Indian,₹200,₹50,3.7,186,78
+ID_950,"Sector 14, Noida",North Indian,₹150,₹50,3.6,32,20
+ID_6479,"Mico Layout, Stage 2, BTM Layout,Bangalore","Mithai, Street Food, Fast Food",₹150,₹50,3.8,75,32
+ID_3363,"Nathan Road, Mangaldas Road, Pune","Maharashtrian, North Indian",₹250,₹50,2.9,7,2
+ID_2565,Majestic,Fast Food,₹100,₹50,3.5,45,10
+ID_2137,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Chinese, North Indian",₹200,₹50,2.8,38,8
+ID_4854,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese, Momos",₹100,₹50,3.8,180,65
+ID_7431,"Tejas Nagar Colony, Wadala West, Mumbai",South Indian,₹100,₹50,3.3,12,2
+ID_2147,Delhi University-GTB Nagar,"Bakery, Beverages, Chinese",₹150,₹50,3.5,19,7
+ID_2943,"MG Road, Pune","Street Food, Fast Food, North Indian, Chinese",₹250,₹99,3.7,78,34
+ID_2162,"Delhi Administration Flats, Timarpur","North Indian, Chinese, South Indian",₹200,₹50,3.7,51,18
+ID_4908,"Dockyard Road, Mumbai CST Area","Paan, Fast Food",₹100,₹50,3.1,4,2
+ID_1985,"D-Block, Sector 63, Noida","North Indian, Chinese",₹200,₹50,3.4,16,9
+ID_2685,Delhi University-GTB Nagar,"Cafe, Fast Food, North Indian, Italian",₹350,₹50,NEW,-,-
+ID_5361,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, Chinese, North Indian",₹200,₹50,-,-,-
+ID_1478,"Yerawada, Pune, Maharashtra",Fast Food,₹100,₹50,3.1,6,-
+ID_1140,"FTI College, Law College Road, Pune","Burger, Fast Food, Beverages",₹200,₹50,3.8,669,144
+ID_2768,"Sector 1, Noida","Fast Food, Bakery",₹200,₹50,-,-,-
+ID_3812,"Rmz Centennial, I Gate, Whitefield",Lebanese,₹150,₹50,3.8,211,68
+ID_3431,Mumbai Central,Desserts,₹150,₹50,-,-,-
+ID_2104,"Delhi High Court, India Gate",North Indian,₹150,₹50,3.4,19,4
+ID_6767,"Dockyard Road, Mumbai CST Area","Seafood, North Indian",₹250,₹50,3.8,90,40
+ID_5373,"D-Block, Sector 63, Noida",North Indian,₹100,₹50,3.0,6,-
+ID_3716,"FTI College, Law College Road, Pune","Chinese, North Indian",₹100,₹50,3.9,117,16
+ID_7490,"D-Block, Sector 63, Noida","North Indian, Fast Food",₹100,₹50,3.5,18,11
+ID_1162,"Dockyard Road, Mumbai CST Area","Chinese, Asian, Thai, Vietnamese, Momos",₹350,₹50,4.0,75,58
+ID_7625,"Yerawada, Pune, Maharashtra",Desserts,₹150,₹50,4.3,114,58
+ID_381,"Sector 1, Noida","North Indian, Lucknowi, Mughlai",₹350,₹50,2.8,52,31
+ID_1682,"Nathan Road, Mangaldas Road, Pune","Chinese, Fast Food",₹100,₹50,NEW,-,-
+ID_4514,"Sector 1, Noida","North Indian, Chinese",₹400,₹50,4.0,34,24
+ID_5608,"Babarpur, New Delhi, Delhi",North Indian,₹150,₹50,3.3,9,2
+ID_4575,"Rmz Centennial, I Gate, Whitefield",North Indian,₹100,₹50,NEW,-,-
+ID_2258,"Babarpur, New Delhi, Delhi",North Indian,₹200,₹50,-,-,-
+ID_2173,"Delhi High Court, India Gate","North Indian, South Indian, Chinese, Beverages, Continental",₹150,₹50,4.2,168,84
+ID_7359,"D-Block, Sector 63, Noida","North Indian, Fast Food, Rolls",₹200,₹50,3.9,54,45
+ID_6206,"Sector 14, Noida","Rolls, Chinese",₹150,₹50,3.4,30,5
+ID_5308,"Rmz Centennial, I Gate, Whitefield","North Indian, Healthy Food, Beverages",₹200,₹50,4.2,233,162
+ID_5239,Delhi University-GTB Nagar,"Fast Food, Desserts",₹150,₹50,3.6,38,21
+ID_7151,"Hyderabad Public School, Begumpet",Fast Food,₹50,₹0,3.6,18,12
+ID_7969,"Sector 1, Noida","North Indian, Chinese",₹150,₹50,3.3,16,10
+ID_3550,"Sector 1, Noida","Ice Cream, Beverages",₹150,₹50,NEW,-,-
+ID_8239,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Bakery,₹200,₹50,3.2,14,4
+ID_6078,"Sector 1, Noida","North Indian, Chinese, Fast Food",₹200,₹99,2.9,127,44
+ID_4388,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese, Biryani",₹150,₹50,-,-,-
+ID_4169,Delhi University-GTB Nagar,North Indian,₹150,₹50,3.2,10,4
+ID_2083,"Chatta Bazaar, Malakpet, Hyderabad","Cafe, Beverages, Fast Food, Desserts",₹250,₹50,3.5,158,44
+ID_3082,"Sector 1, Noida","North Indian, Chinese, Rolls",₹200,₹50,3.3,14,13
+ID_4038,"Sector 63A,Gurgaon","Rajasthani, North Indian",₹100,₹50,3.1,5,2
+ID_7785,"Delhi Administration Flats, Timarpur","Fast Food, Chinese",₹200,₹50,NEW,-,-
+ID_1140,"Delhi High Court, India Gate","American, Fast Food",₹200,₹50,3.8,80,27
+ID_2955,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese",₹200,₹50,2.9,30,14
+ID_7676,"Yerawada, Pune, Maharashtra","European, Asian, Continental, Italian",₹800,₹50,4.4,828,346
+ID_5885,Delhi University-GTB Nagar,North Indian,₹100,₹50,3.2,6,1
+ID_3700,"D-Block, Sector 63, Noida","Bakery, Fast Food",₹150,₹50,3.5,53,20
+ID_4520,"Sector 63A,Gurgaon","Mughlai, North Indian",₹200,₹50,3.9,488,285
+ID_1459,"Sector 1, Noida",Rolls,₹100,₹50,3.2,9,6
+ID_4550,Delhi University-GTB Nagar,"Fast Food, Beverages, Wraps, Italian, Burger",₹200,₹50,3.5,6,5
+ID_5199,"Rmz Centennial, I Gate, Whitefield",Mithai,₹150,₹50,3.7,12,3
+ID_3724,"Mico Layout, Stage 2, BTM Layout,Bangalore","Cafe, American, Pizza",₹200,₹50,2.5,158,72
+ID_527,"Sector 63A,Gurgaon","North Indian, Mughlai, Chinese",₹200,₹50,4.1,335,130
+ID_188,"D-Block, Sector 63, Noida","North Indian, Mughlai, Beverages",₹150,₹50,3.2,13,2
+ID_4026,"Delhi Administration Flats, Timarpur",North Indian,₹100,₹50,3.1,6,-
+ID_7107,"Hyderabad Public School, Begumpet",South Indian,₹50,₹50,NEW,-,-
+ID_3777,"Dockyard Road, Mumbai CST Area","Beverages, Fast Food",₹150,₹50,3.7,108,31
+ID_4070,"Babarpur, New Delhi, Delhi","North Indian, Chinese",₹200,₹50,3.8,18,11
+ID_5371,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Mithai, North Indian",₹200,₹50,3.3,26,2
+ID_8081,Delhi University-GTB Nagar,"North Indian, Chinese, Mughlai, Rolls, Kebab",₹200,₹50,3.9,280,108
+ID_1605,Delhi University-GTB Nagar,"North Indian, Rolls",₹250,₹50,-,-,-
+ID_4655,"Sector 1, Noida",Rolls,₹100,₹50,3.6,13,4
+ID_7381,"Delhi Administration Flats, Timarpur",North Indian,₹200,₹50,3.2,109,18
+ID_7184,"Sector 3, Marathalli","Fast Food, Healthy Food, Sandwich, Salad",₹200,₹50,3.6,57,16
+ID_5404,"Sector 1, Noida","Desserts, Bakery",₹100,₹50,-,-,-
+ID_8592,"Chandni Chowk, Kolkata","Pizza, Burger, Rolls, Sandwich",₹100,₹50,3.2,9,4
+ID_5277,"FTI College, Law College Road, Pune","Chinese, Asian",₹200,₹50,3.8,81,55
+ID_4698,"Tejas Nagar Colony, Wadala West, Mumbai","Chinese, Thai, Burmese, Asian, Seafood, Fast Food",₹200,₹50,4.0,175,113
+ID_5968,"Rmz Centennial, I Gate, Whitefield","Biryani, Chinese, North Indian",₹250,₹50,3.0,13,2
+ID_2836,"FTI College, Law College Road, Pune",Biryani,₹100,₹50,3.5,31,9
+ID_3186,"Moulali, Kolkata","Sandwich, Fast Food, Beverages",₹100,₹50,NEW,-,-
+ID_6966,"Sector 14, Noida",North Indian,₹150,₹50,3.6,57,10
+ID_3094,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹100,₹50,3.2,9,-
+ID_809,"Tejas Nagar Colony, Wadala West, Mumbai","Fast Food, Bakery",₹150,₹50,-,-,-
+ID_3326,"Yerawada, Pune, Maharashtra","North Indian, South Indian, Fast Food",₹400,₹50,3.1,5,2
+ID_5657,"Sector 1, Noida","North Indian, Chinese",₹250,₹50,NEW,-,-
+ID_4555,"Mico Layout, Stage 2, BTM Layout,Bangalore","Kerala, Biryani",₹100,₹50,-,-,-
+ID_7332,"FTI College, Law College Road, Pune","Italian, Continental, Salad",₹600,₹0,4.3,3837,2217
+ID_4220,"D-Block, Sector 63, Noida","North Indian, Chinese",₹150,₹50,2.6,20,10
+ID_8561,"Sector 63A,Gurgaon",Chinese,₹550,₹50,3.7,488,290
+ID_1532,"Sector 1, Noida","Chinese, Fast Food",₹150,₹50,3.5,187,65
+ID_6127,"Sector 63A,Gurgaon","Healthy Food, Sandwich, Beverages",₹250,₹50,4.3,209,160
+ID_5619,Delhi University-GTB Nagar,"Fast Food, Beverages",₹200,₹50,3.8,254,118
+ID_8125,"D-Block, Sector 63, Noida","Pizza, Fast Food",₹200,₹50,3.2,13,1
+ID_6158,"Delhi High Court, India Gate","North Indian, Chinese",₹150,₹50,-,-,-
+ID_1430,"Sector 14, Noida","North Indian, Chinese",₹200,₹50,3.7,123,40
+ID_6630,Mumbai Central,Beverages,₹200,₹50,3.7,40,15
+ID_1471,"Mico Layout, Stage 2, BTM Layout,Bangalore",Beverages,₹100,₹99,3.6,9,4
+ID_663,"Yerawada, Pune, Maharashtra","Bakery, Desserts",₹100,₹50,-,-,-
+ID_318,Majestic,"Italian, Continental, Chinese",₹250,₹50,-,-,-
+ID_6073,"Tejas Nagar Colony, Wadala West, Mumbai","North Indian, Chinese",₹400,₹50,3.6,404,188
+ID_201,"Sector 1, Noida",Street Food,₹100,₹50,4.0,115,22
+ID_1399,"Chandni Chowk, Kolkata",Juices,₹50,₹50,-,-,-
+ID_7943,"D-Block, Sector 63, Noida","Fast Food, Rolls, North Indian, Beverages",₹200,₹50,4.0,715,189
+ID_5122,"Raja Bazar, Kolkata","North Indian, Bengali, Fast Food",₹200,₹50,-,-,-
+ID_454,"D-Block, Sector 63, Noida",North Indian,₹150,₹50,NEW,-,-
+ID_7630,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Fast Food,₹100,₹50,3.3,8,3
+ID_7386,"FTI College, Law College Road, Pune",Street Food,₹100,₹50,3.7,27,5
+ID_4254,"Mico Layout, Stage 2, BTM Layout,Bangalore","Beverages, Fast Food, Desserts",₹100,₹50,3.7,22,9
+ID_455,"Delhi Administration Flats, Timarpur",Street Food,₹100,₹50,3.6,73,33
+ID_6957,"Yerawada, Pune, Maharashtra",Fast Food,₹150,₹50,3.8,84,50
+ID_2293,"Rmz Centennial, I Gate, Whitefield",Healthy Food,₹100,₹50,3.3,5,4
+ID_8164,Mumbai Central,Chinese,"₹1,000",₹50,4.2,687,274
+ID_3842,"Sector 3, Marathalli","North Indian, Chinese",₹200,₹50,3.8,341,97
+ID_4615,"Delhi High Court, India Gate",North Indian,₹750,₹99,4.4,1160,602
+ID_498,"Sector 3, Marathalli","Desserts, Ice Cream, Beverages",₹150,₹50,4.1,60,44
+ID_4839,"Delhi High Court, India Gate","Bakery, Desserts",₹150,₹50,3.3,4,2
+ID_1974,"Delhi High Court, India Gate",Desserts,₹100,₹50,4.1,25,23
+ID_3649,Delhi University-GTB Nagar,"Pizza, Fast Food",₹100,₹50,3.7,57,20
+ID_7741,Delhi Cantt.,Fast Food,₹150,₹50,-,-,-
+ID_780,"MG Road, Pune","Mithai, Street Food",₹150,₹50,3.3,4,3
+ID_7754,"Sector 3, Marathalli","South Indian, North Indian, Chinese",₹150,₹50,3.3,24,8
+ID_8123,"Nathan Road, Mangaldas Road, Pune","North Indian, South Indian",₹200,₹50,3.1,5,-
+ID_657,"Tiretti, Kolkata",Street Food,₹100,₹50,3.5,182,42
+ID_164,"Sector 63A,Gurgaon","North Indian, Mughlai, Beverages",₹150,₹50,-,-,-
+ID_3316,"Delhi Administration Flats, Timarpur","North Indian, Chinese",₹200,₹50,3.8,102,19
+ID_132,Delhi Cantt.,"Chinese, Continental, Fast Food",₹100,₹50,3.1,5,2
+ID_1363,"Mico Layout, Stage 2, BTM Layout,Bangalore","Bakery, Desserts",₹150,₹50,4.1,63,23
+ID_8045,"Rmz Centennial, I Gate, Whitefield","Chinese, North Indian, Thai",₹100,₹50,3.3,11,8
+ID_8421,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹200,₹50,3.4,27,6
+ID_1340,"D-Block, Sector 63, Noida",Bakery,₹150,₹50,NEW,-,-
+ID_509,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹200,₹50,-,-,-
+ID_7587,"Babarpur, New Delhi, Delhi",North Indian,₹400,₹50,3.6,180,125
+ID_7115,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, North Indian, Chinese, Biryani",₹300,₹50,4.0,201,54
+ID_5731,Delhi University-GTB Nagar,Pizza,₹150,₹50,3.8,148,41
+ID_5096,"Yerawada, Pune, Maharashtra","North Indian, Chinese",₹250,₹50,3.7,21,11
+ID_7508,"D-Block, Sector 63, Noida","North Indian, Chinese",₹200,₹50,3.5,42,2
+ID_6093,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese",₹300,₹50,2.9,60,26
+ID_8358,"Babarpur, New Delhi, Delhi","North Indian, Chinese, Fast Food",₹100,₹50,3.1,6,1
+ID_2688,Majestic,"North Indian, Chinese",₹200,₹50,3.9,178,53
+ID_149,"Chandni Chowk, Kolkata",North Indian,₹150,₹50,3.8,287,26
+ID_1189,"MG Road, Pune","Fast Food, Beverages",₹100,₹50,3.3,11,2
+ID_1728,"Delhi Administration Flats, Timarpur","North Indian, Chinese, Continental, Fast Food, Pizza",₹250,₹50,-,-,-
+ID_6659,"Jaya Nagar, Saidabad, Hyderabad",Chinese,₹100,₹50,-,-,-
+ID_7595,"Delhi High Court, India Gate","Burger, American, Beverages",₹250,₹50,4.3,159,81
+ID_4125,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹100,₹50,4.3,110,76
+ID_1529,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, North Indian",₹200,₹50,NEW,-,-
+ID_7468,"Nathan Road, Mangaldas Road, Pune","North Indian, Street Food, Desserts",₹150,₹50,4.0,696,296
+ID_3976,"Sector 3, Marathalli","North Indian, Mughlai",₹200,₹50,3.6,21,11
+ID_411,"Sector 1, Noida","Bakery, Fast Food",₹100,₹50,3.3,10,8
+ID_5253,"Delhi High Court, India Gate","Ice Cream, Beverages, Fast Food",₹250,₹0,-,-,-
+ID_8281,"Nathan Road, Mangaldas Road, Pune","Street Food, Fast Food, North Indian",₹150,₹50,2.9,8,5
+ID_2664,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese",₹200,₹50,3.0,4,-
+ID_4654,"Mico Layout, Stage 2, BTM Layout,Bangalore","Burger, Fast Food",₹200,₹50,3.8,349,159
+ID_4190,"Mico Layout, Stage 2, BTM Layout,Bangalore","Kerala, South Indian",₹100,₹50,3.3,159,24
+ID_6256,"MG Road, Pune",Street Food,₹100,₹50,-,-,-
+ID_2067,"Sector 3, Marathalli",South Indian,₹100,₹50,3.1,39,18
+ID_6403,"Sector 63A,Gurgaon","North Indian, Chinese",₹300,₹50,3.7,202,79
+ID_4234,"Sector 14, Noida","North Indian, Chinese",₹200,₹50,2.7,134,43
+ID_1957,"Sector 1, Noida","North Indian, Chinese",₹200,₹50,3.8,18,18
+ID_1345,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Bakery,₹150,₹50,2.9,4,5
+ID_2068,"Mico Layout, Stage 2, BTM Layout,Bangalore",South Indian,₹100,₹50,4.0,137,34
+ID_1361,"Rmz Centennial, I Gate, Whitefield","Bakery, Desserts",₹200,₹50,NEW,-,-
+ID_1140,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","American, Fast Food",₹200,₹50,3.8,130,25
+ID_3644,"Delhi Administration Flats, Timarpur","Fast Food, Beverages",₹200,₹50,3.3,9,4
+ID_7226,"Sector 1, Noida",North Indian,₹100,₹50,3.0,7,1
+ID_742,"D-Block, Sector 63, Noida","North Indian, Chinese, Thai",₹250,₹50,3.6,79,38
+ID_7184,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Wraps, Healthy Food, Sandwich, Salad",₹150,₹50,3.8,434,128
+ID_1523,Majestic,South Indian,₹100,₹50,3.1,16,6
+ID_4187,"Mico Layout, Stage 2, BTM Layout,Bangalore","Cafe, Desserts, Fast Food",₹400,₹50,4.4,585,301
+ID_205,"D-Block, Sector 63, Noida","Mithai, Street Food, Chinese",₹100,₹50,3.4,38,8
+ID_5429,"Sector 14, Noida","Chinese, Momos",₹250,₹50,NEW,-,-
+ID_2205,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, South Indian, Chinese",₹150,₹50,3.6,425,84
+ID_3846,"Yerawada, Pune, Maharashtra","Biryani, North Indian, Rolls, Kashmiri, Mughlai",₹300,₹50,3.9,195,117
+ID_5395,"Mico Layout, Stage 2, BTM Layout,Bangalore","Juices, Healthy Food",₹150,₹50,4.0,432,79
+ID_2182,"Sector 63A,Gurgaon","Biryani, North Indian, Hyderabadi, Mughlai",₹200,₹50,3.2,10,5
+ID_4464,"Noorkhan Bazaar, Malakpet, Hyderabad",South Indian,₹100,₹50,3.3,7,-
+ID_6228,"Sector 3, Marathalli","Fast Food, Rolls",₹100,₹50,3.6,10,2
+ID_7432,"Mico Layout, Stage 2, BTM Layout,Bangalore","Cafe, Fast Food, Beverages",₹200,₹50,3.9,86,49
+ID_8251,"Sector 1, Noida",South Indian,₹100,₹50,NEW,-,-
+ID_407,"Sector 1, Noida","North Indian, Chinese",₹400,₹50,4.0,999,527
+ID_2397,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, Beverages",₹150,₹50,3.8,95,44
+ID_4306,"Raja Bazar, Kolkata","Salad, Italian, Burmese, Mexican",₹200,₹50,4.0,69,46
+ID_4599,"FTI College, Law College Road, Pune","Bakery, Desserts",₹200,₹50,3.7,42,20
+ID_3242,Delhi University-GTB Nagar,"North Indian, Chinese",₹200,₹50,NEW,-,-
+ID_7098,"Musi Nagar, Malakpet, Hyderabad","South Indian, Chinese",₹100,₹50,3.6,402,9
+ID_7385,Mumbai Central,"Chinese, Thai, Burmese",₹250,₹99,3.9,507,246
+ID_250,"Sector 1, Noida","Italian, Fast Food",₹200,₹50,3.1,19,8
+ID_758,"D-Block, Sector 63, Noida","North Indian, Chinese, Mughlai",₹200,₹50,3.7,105,56
+ID_7704,"FTI College, Law College Road, Pune","Fast Food, Beverages",₹250,₹50,3.6,34,23
+ID_6625,Delhi University-GTB Nagar,"Fast Food, Chinese, Italian, Seafood, Beverages",₹200,₹50,NEW,-,-
+ID_8025,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, Kerala, Chinese",₹100,₹50,3.3,8,3
+ID_2310,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Fast Food,₹200,₹50,-,-,-
+ID_1798,"Yerawada, Pune, Maharashtra","North Indian, Chinese, Continental",₹400,₹50,3.4,10,3
+ID_6466,"Mico Layout, Stage 2, BTM Layout,Bangalore","Sandwich, Fast Food",₹200,₹50,NEW,-,-
+ID_18,"Mico Layout, Stage 2, BTM Layout,Bangalore","Pizza, Italian, Beverages",₹350,₹50,4.3,497,287
+ID_622,"FTI College, Law College Road, Pune",Fast Food,₹100,₹50,-,-,-
+ID_4556,"D-Block, Sector 63, Noida","Italian, Pizza, Fast Food",₹200,₹99,3.8,89,55
+ID_1407,"Sector 14, Noida","Burger, American, Fast Food",₹400,₹50,3.9,122,85
+ID_4619,"Dockyard Road, Mumbai CST Area",Fast Food,₹150,₹50,-,-,-
+ID_2125,"Sector 3, Marathalli","North Indian, Street Food, Chinese",₹200,₹50,3.7,660,391
+ID_3381,"Nathan Road, Mangaldas Road, Pune","Chinese, North Indian, Mughlai",₹200,₹50,3.3,14,2
+ID_7099,"Musi Nagar, Malakpet, Hyderabad",South Indian,₹100,₹50,3.9,127,16
+ID_6241,"Yerawada, Pune, Maharashtra","Rolls, Chinese, Fast Food",₹150,₹50,4.0,151,69
+ID_4628,"Jaya Nagar, Saidabad, Hyderabad","Arabian, Mithai",₹200,₹50,3.6,52,7
+ID_572,"D-Block, Sector 63, Noida",North Indian,₹200,₹50,3.7,61,28
+ID_29,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Biryani, Chinese, North Indian",₹150,₹50,2.8,76,47
+ID_7564,Majestic,"Biryani, North Indian",₹150,₹50,NEW,-,-
+ID_1659,"Delhi High Court, India Gate","Pizza, Burger, Fast Food, North Indian, Beverages",₹150,₹50,3.3,63,25
+ID_2158,"Sector 1, Noida","North Indian, Chinese",₹200,₹50,3.6,164,26
+ID_1372,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Bakery, Desserts",₹150,₹50,NEW,-,-
+ID_7750,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Asian, Biryani, North Indian, Desserts",₹200,₹99,3.6,16,7
+ID_6677,"Delhi Administration Flats, Timarpur",Lebanese,₹100,₹50,3.4,11,4
+ID_8065,"Sandhurst Road, Mumbai CST Area","Fast Food, Rolls",₹150,₹50,3.4,65,32
+ID_3539,"FTI College, Law College Road, Pune","Desserts, Ice Cream",₹100,₹50,2.6,28,13
+ID_2220,"Mico Layout, Stage 2, BTM Layout,Bangalore",South Indian,₹50,₹50,3.5,11,3
+ID_2806,"Sandhurst Road, Mumbai CST Area","North Indian, Chinese, Fast Food",₹200,₹50,3.3,16,1
+ID_3623,Delhi University-GTB Nagar,North Indian,₹200,₹99,4.3,540,178
+ID_4936,"Dockyard Road, Mumbai CST Area","Fast Food, Sandwich",₹100,₹50,-,-,-
+ID_3063,"Noorkhan Bazaar, Malakpet, Hyderabad",Hyderabadi,₹350,₹50,3.2,7,3
+ID_2934,"Sector 14, Noida","Biryani, Kebab",₹250,₹50,3.9,814,251
+ID_3650,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Mughlai, Chinese, Rolls, Lebanese, Arabian, Kebab",₹300,₹50,NEW,-,-
+ID_224,Majestic,"Mithai, Street Food",₹100,₹50,3.6,25,9
+ID_1859,"MG Road, Pune","Beverages, Fast Food",₹150,₹50,3.3,5,3
+ID_6347,Majestic,"North Indian, Fast Food",₹150,₹50,3.5,11,1
+ID_3385,"Nathan Road, Mangaldas Road, Pune","North Indian, Chinese, Maharashtrian",₹250,₹50,3.0,5,3
+ID_2058,Delhi University-GTB Nagar,North Indian,₹150,₹50,3.7,113,63
+ID_7516,"Tiretti, Kolkata","North Indian, Chinese",₹200,₹50,3.8,133,99
+ID_3360,"MG Road, Pune","North Indian, Biryani, Maharashtrian",₹150,₹50,-,-,-
+ID_1174,"Delhi High Court, India Gate","European, Mediterranean, Healthy Food",₹750,₹0,3.8,73,22
+ID_2549,Majestic,"Biryani, Kebab, Rolls",₹200,₹50,3.9,474,148
+ID_2725,"Delhi Administration Flats, Timarpur","North Indian, Chinese, Fast Food, Naga",₹200,₹99,3.4,27,10
+ID_5340,"Sector 3, Marathalli","Andhra, North Indian",₹100,₹99,-,-,-
+ID_1899,"Sector 14, Noida","Street Food, Fast Food",₹100,₹50,3.2,11,5
+ID_1465,"Rmz Centennial, I Gate, Whitefield",Street Food,₹100,₹50,-,-,-
+ID_1078,Delhi University-GTB Nagar,"Pizza, Italian",₹250,₹50,4.3,386,230
+ID_4360,"FTI College, Law College Road, Pune","Italian, Mexican, Salad, Juices",₹850,₹50,4.4,2649,1131
+ID_1631,"Sector 1, Noida","Asian, Thai, Japanese, Chinese, Momos",₹600,₹50,4.2,1473,849
+ID_4684,Delhi University-GTB Nagar,"Street Food, Mithai",₹100,₹0,3.4,25,8
+ID_1767,Pune University,"North Indian, Rolls",₹200,₹50,3.8,190,109
+ID_7874,"D-Block, Sector 63, Noida",Pizza,₹300,₹99,3.8,45,28
+ID_5885,"Delhi Administration Flats, Timarpur",North Indian,₹150,₹50,3.5,-,-
+ID_5161,"Panjetan Colony, Malakpet, Hyderabad","Bakery, Fast Food, Biryani",₹100,₹50,NEW,-,-
+ID_8581,"BTM Layout 1, Electronic City","Chinese, Fast Food",₹200,₹50,4.2,227,132
+ID_3164,"Delhi Administration Flats, Timarpur",North Indian,₹150,₹50,3.6,66,18
+ID_4912,"FTI College, Law College Road, Pune","North Indian, Chinese, Mughlai, Italian",₹600,₹50,3.9,161,80
+ID_7750,"Sandhurst Road, Mumbai CST Area","Asian, Biryani, North Indian, Desserts",₹200,₹50,4.1,53,45
+ID_6355,"FTI College, Law College Road, Pune","Biryani, North Indian, Desserts",₹200,₹50,3.2,20,5
+ID_3869,"Moulali, Kolkata",North Indian,₹200,₹50,3.6,106,32
+ID_2878,Delhi Cantt.,North Indian,₹100,₹50,-,-,-
+ID_2395,Delhi Cantt.,"North Indian, Fast Food",₹150,₹50,3.4,16,3
+ID_4462,"D-Block, Sector 63, Noida","North Indian, South Indian, Chinese",₹200,₹50,3.9,251,104
+ID_5274,"D-Block, Sector 63, Noida",North Indian,₹400,₹50,2.8,20,1
+ID_2766,"Sector 1, Noida","North Indian, Kebab",₹200,₹50,-,-,-
+ID_7309,Mumbai Central,"Fast Food, Street Food, Beverages",₹150,₹50,3.7,77,39
+ID_1831,"D-Block, Sector 63, Noida","Cafe, Fast Food",₹200,₹50,4.1,77,53
+ID_2679,"Sector 1, Noida","Chinese, Fast Food, Desserts",₹150,₹50,3.4,13,4
+ID_7064,"Chatta Bazaar, Malakpet, Hyderabad","South Indian, North Indian",₹100,₹50,3.3,12,1
+ID_6362,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, North Indian, Chinese, Street Food, Beverages",₹250,₹50,3.9,84,40
+ID_7603,"Sector 1, Noida",Bakery,₹100,₹99,3.4,25,18
+ID_5059,Majestic,Biryani,₹100,₹50,3.8,24,15
+ID_567,"Mico Layout, Stage 2, BTM Layout,Bangalore",North Indian,₹400,₹50,4.3,886,530
+ID_1182,"Dockyard Road, Mumbai CST Area","Fast Food, American",₹250,₹50,3.7,52,33
+ID_1140,"Sector 14, Noida","American, Fast Food",₹200,₹50,3.8,680,158
+ID_2081,"Sandhurst Road, Mumbai CST Area","Fast Food, North Indian, Chinese",₹500,₹50,3.6,77,23
+ID_3093,"Yerawada, Pune, Maharashtra","Mithai, Street Food",₹50,₹59,3.7,186,53
+ID_5276,Delhi Cantt.,"Chinese, Thai, Tibetan, Momos, Asian",₹300,₹50,NEW,-,-
+ID_4643,"Noorkhan Bazaar, Malakpet, Hyderabad","Street Food, Juices, Desserts",₹100,₹50,3.7,99,24
+ID_783,"Nathan Road, Mangaldas Road, Pune","Chinese, Mughlai",₹250,₹50,2.8,6,5
+ID_825,"Sector 1, Noida","Chinese, Sushi, Thai, Poké, Asian",₹400,₹50,4.1,51,38
+ID_5359,"Mico Layout, Stage 2, BTM Layout,Bangalore","Rolls, Fast Food",₹150,₹50,3.7,28,6
+ID_3313,"D-Block, Sector 63, Noida","Chinese, Fast Food, Beverages, North Indian",₹150,₹50,NEW,-,-
+ID_7295,"Delhi High Court, India Gate","Bakery, Desserts",₹150,₹50,4.0,90,60
+ID_3417,"Jaya Nagar, Saidabad, Hyderabad",North Indian,₹100,₹50,3.3,12,3
+ID_2484,"Hyderabad Public School, Begumpet","Healthy Food, North Indian",₹600,₹99,4.1,77,51
+ID_3929,"Delhi High Court, India Gate","Mithai, North Indian",₹100,₹50,3.8,241,88
+ID_7450,"Tejas Nagar Colony, Wadala West, Mumbai","Cafe, Fast Food, Desserts, Beverages",₹400,₹50,4.0,329,250
+ID_3991,Mumbai Central,"Fast Food, Juices, Beverages, Pizza",₹150,₹50,3.8,210,70
+ID_2062,Delhi University-GTB Nagar,"Asian, Japanese, Sushi",₹300,₹50,4.1,65,33
+ID_7234,"Hyderabad Public School, Begumpet","Chinese, South Indian",₹100,₹50,3.2,17,3
+ID_8078,"Delhi Administration Flats, Timarpur","Fast Food, Momos, North Indian",₹150,₹50,4.0,260,156
+ID_2615,Delhi Cantt.,"North Indian, Chinese",₹200,₹50,-,-,-
+ID_7299,"Yerawada, Pune, Maharashtra","Bakery, Desserts, Beverages",₹150,₹50,3.7,41,22
+ID_3959,"Yerawada, Pune, Maharashtra",Kerala,₹100,₹50,3.5,42,7
+ID_6901,"Nathan Road, Mangaldas Road, Pune","Pizza, Italian, Cafe",₹300,₹50,4.0,876,364
+ID_1556,"Delhi High Court, India Gate","North Indian, Street Food",₹100,₹50,-,-,-
+ID_3474,"Sector 1, Noida","Fast Food, North Indian, Rolls, Chinese, Momos, Mughlai",₹200,₹50,3.9,562,294
+ID_96,Pune University,"Biryani, North Indian",₹150,₹50,-,-,-
+ID_1074,Mumbai Central,"Mithai, Street Food",₹150,₹50,3.7,6,-
+ID_3162,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",South Indian,₹150,₹50,3.4,30,4
+ID_2408,"FTI College, Law College Road, Pune","Biryani, Fast Food, North Indian, Rolls, Maharashtrian",₹150,₹50,3.5,121,38
+ID_6776,"Babarpur, New Delhi, Delhi","North Indian, South Indian, Chinese",₹200,₹50,3.4,27,10
+ID_5644,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Ice Cream, Desserts",₹150,₹99,3.7,39,16
+ID_2281,Mumbai Central,Chinese,₹100,₹50,4.0,62,41
+ID_3527,"Mico Layout, Stage 2, BTM Layout,Bangalore","Street Food, Fast Food",₹200,₹50,3.0,7,1
+ID_2635,"D-Block, Sector 63, Noida","North Indian, Chinese",₹200,₹99,2.6,80,31
+ID_7666,Delhi University-GTB Nagar,"Fast Food, Momos",₹150,₹50,3.6,73,51
+ID_6949,Mumbai Central,"Parsi, North Indian, Iranian, Maharashtrian, Fast Food, Desserts, Beverages",₹850,₹50,4.2,1655,771
+ID_7029,"D-Block, Sector 63, Noida","North Indian, Chinese",₹100,₹99,3.7,110,38
+ID_3489,"Sector 1, Noida","North Indian, Chinese",₹200,₹99,3.0,7,1
+ID_389,"Rmz Centennial, I Gate, Whitefield","Andhra, North Indian, Chinese, Seafood",₹200,₹50,3.7,-,-
+ID_5974,Mumbai Central,"North Indian, Chinese",₹200,₹50,2.8,10,4
+ID_2059,"D-Block, Sector 63, Noida","South Indian, North Indian, Chinese, Sandwich, Continental, Desserts, Beverages",₹300,₹50,4.1,-,-
+ID_7203,"Dockyard Road, Mumbai CST Area",Mithai,₹150,₹50,3.7,56,24
+ID_2579,"FTI College, Law College Road, Pune","Fast Food, Desserts",₹200,₹50,3.5,11,5
+ID_826,"Mico Layout, Stage 2, BTM Layout,Bangalore","Chinese, Sushi, Asian, Thai",₹650,₹50,4.4,925,589
+ID_5279,"Sector 14, Noida","Chinese, North Indian",₹150,₹50,3.3,27,9
+ID_965,"Jaya Nagar, Saidabad, Hyderabad","Fast Food, Beverages",₹200,₹50,3.3,15,3
+ID_5429,"D-Block, Sector 63, Noida","Chinese, Momos",₹250,₹50,NEW,-,-
+ID_3943,"FTI College, Law College Road, Pune","Ice Cream, Desserts",₹200,₹50,3.9,103,62
+ID_3889,Majestic,"South Indian, North Indian, Chinese, Fast Food",₹150,₹50,3.6,35,15
+ID_3022,"Sector 63A,Gurgaon","North Indian, Chinese",₹250,₹50,3.6,28,12
+ID_1919,"Yerawada, Pune, Maharashtra","Ice Cream, Desserts",₹150,₹50,4.2,508,302
+ID_5764,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Continental, Healthy Food",₹200,₹50,-,-,-
+ID_4732,"Babarpur, New Delhi, Delhi",Beverages,₹100,₹50,3.4,14,4
+ID_5850,"Sector 1, Noida","Fast Food, Beverages",₹300,₹99,3.6,50,35
+ID_6875,"Delhi Administration Flats, Timarpur",Street Food,₹100,₹50,3.9,138,50
+ID_7230,Mumbai Central,Fast Food,₹100,₹50,NEW,-,-
+ID_7757,"Sector 1, Noida","North Indian, Chinese, Italian",₹200,₹50,3.3,7,6
+ID_3699,"Tiretti, Kolkata","North Indian, South Indian",₹100,₹50,3.4,243,73
+ID_1350,"Sector 1, Noida",Bakery,₹100,₹50,4.6,355,260
+ID_6205,"Delhi High Court, India Gate","Rolls, North Indian",₹150,₹50,3.5,48,25
+ID_1209,"Dockyard Road, Mumbai CST Area","Cafe, Fast Food",₹250,₹50,3.0,28,21
+ID_4430,Mumbai Central,North Indian,₹200,₹50,3.1,5,1
+ID_200,"Babarpur, New Delhi, Delhi",North Indian,₹100,₹50,2.9,15,2
+ID_8190,"Mico Layout, Stage 2, BTM Layout,Bangalore","Andhra, North Indian, Chinese",₹400,₹50,4.2,336,202
+ID_5108,"D-Block, Sector 63, Noida",Biryani,₹200,₹50,3.1,4,3
+ID_4741,Mumbai Central,"North Indian, Seafood, Fast Food, Continental, Chinese, Desserts, Mughlai",₹400,₹99,3.5,550,263
+ID_6904,"Sector 3, Marathalli","Desserts, Fast Food, Beverages",₹250,₹50,3.5,7,4
+ID_6619,"Rmz Centennial, I Gate, Whitefield","Beverages, Rolls, Sandwich",₹100,₹50,NEW,-,-
+ID_734,"Tejas Nagar Colony, Wadala West, Mumbai","North Indian, Chinese",₹200,₹50,2.8,-,-
+ID_2276,Delhi University-GTB Nagar,"North Indian, Mughlai",₹250,₹50,3.3,9,5
+ID_4898,"Delhi Administration Flats, Timarpur",Ice Cream,₹100,₹50,3.4,117,68
+ID_3712,"Sandhurst Road, Mumbai CST Area",Street Food,₹100,₹50,3.5,18,8
+ID_4839,"Dockyard Road, Mumbai CST Area","Bakery, Fast Food",₹100,₹50,3.4,21,8
+ID_745,Delhi University-GTB Nagar,"Chinese, Thai, Asian",₹650,₹50,4.0,1731,1235
+ID_3542,"Sector 3, Marathalli","Ice Cream, Desserts",₹150,₹50,3.5,32,5
+ID_4672,"Moulali, Kolkata","Chinese, North Indian",₹150,₹50,2.5,17,5
+ID_6311,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese",₹200,₹50,3.3,5,-
+ID_3699,"Raja Bazar, Kolkata","North Indian, South Indian",₹100,₹50,3.4,243,73
+ID_7604,"MG Road, Pune",Bakery,₹100,₹50,3.3,16,3
+ID_5670,"Delhi High Court, India Gate",North Indian,₹250,₹50,3.5,70,18
+ID_3331,"MG Road, Pune","Chinese, North Indian",₹150,₹99,3.4,58,20
+ID_2047,"Sector 14, Noida","Chinese, Momos",₹150,₹50,NEW,-,-
+ID_2781,"Moulali, Kolkata",Bakery,₹200,₹50,-,-,-
+ID_7819,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹200,₹50,NEW,-,-
+ID_3515,"Sector 14, Noida","Biryani, Mughlai",₹200,₹50,NEW,-,-
+ID_3752,"Sector 3, Marathalli","North Indian, South Indian",₹200,₹99,3.2,7,2
+ID_2821,Delhi University-GTB Nagar,"North Indian, Chinese, Mughlai, Rolls",₹200,₹50,NEW,-,-
+ID_3660,Delhi University-GTB Nagar,"American, Italian, Cafe, Salad",₹250,₹50,4.2,943,580
+ID_442,Delhi University-GTB Nagar,"North Indian, Chinese, Fast Food",₹200,₹50,3.2,10,2
+ID_3562,Delhi Cantt.,"Street Food, North Indian, Continental, Momos",₹400,₹50,4.0,836,525
+ID_5391,"MG Road, Pune","South Indian, North Indian",₹200,₹50,4.3,304,147
+ID_4388,"Sector 3, Marathalli","North Indian, Chinese, Biryani",₹150,₹50,-,-,-
+ID_7184,Mumbai Central,"Fast Food, Healthy Food, Sandwich, Salad",₹200,₹50,3.6,287,78
+ID_4126,"Mico Layout, Stage 2, BTM Layout,Bangalore","American, North Indian, Chinese, Asian, Biryani, Beverages",₹600,₹50,4.6,5421,3371
+ID_322,"Mico Layout, Stage 2, BTM Layout,Bangalore",Hyderabadi,₹200,₹50,3.4,23,3
+ID_7382,Delhi University-GTB Nagar,"Asian, Japanese, Chinese, Thai, Malaysian, Sushi, Vietnamese",₹550,₹50,4.1,150,75
+ID_2924,"Dockyard Road, Mumbai CST Area","Bakery, Desserts",₹200,₹50,3.0,4,1
+ID_743,Mumbai Central,North Indian,₹100,₹50,-,-,-
+ID_1792,"Noorkhan Bazaar, Malakpet, Hyderabad","North Indian, Chinese, South Indian",₹250,₹50,4.3,112,33
+ID_2121,"Delhi Administration Flats, Timarpur",North Indian,₹100,₹50,3.9,84,29
+ID_6517,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Biryani, Fast Food",₹150,₹50,3.1,5,3
+ID_6432,"Sector 1, Noida","North Indian, Mughlai, Afghan",₹300,₹50,-,-,-
+ID_5873,"Sector 1, Noida","North Indian, Afghan, Lebanese",₹200,₹50,3.3,17,4
+ID_7842,"Mico Layout, Stage 2, BTM Layout,Bangalore","Desserts, Beverages",₹150,₹50,3.4,5,-
+ID_821,"Delhi Administration Flats, Timarpur","Cafe, Chinese",₹200,₹50,3.5,1240,887
+ID_3188,Majestic,"Cafe, South Indian",₹150,₹50,3.4,37,18
+ID_6788,"FTI College, Law College Road, Pune",South Indian,₹100,₹50,2.8,6,2
+ID_1177,"D-Block, Sector 63, Noida","Fast Food, Beverages",₹300,₹50,-,-,-
+ID_6915,"Delhi High Court, India Gate","European, Italian, American, Burger, Juices, Healthy Food, Salad",₹650,₹50,4.3,1543,1079
+ID_7347,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese, Fast Food",₹200,₹50,3.7,32,8
+ID_4227,Pune University,"Cafe, Fast Food",₹200,₹50,3.3,20,9
+ID_7834,"MG Road, Pune","Cafe, Beverages, Fast Food",₹100,₹50,3.6,87,32
+ID_7615,"Rmz Centennial, I Gate, Whitefield","Bakery, Desserts",₹200,₹50,-,-,-
+ID_7006,"Delhi Administration Flats, Timarpur","Chinese, Italian, Continental, Momos",₹250,₹0,3.9,234,85
+ID_7801,"Nathan Road, Mangaldas Road, Pune","Burger, Pizza, Fast Food",₹200,₹0,3.3,-,-
+ID_1175,"Nathan Road, Mangaldas Road, Pune","Fast Food, Street Food, Beverages",₹200,₹50,2.8,20,5
+ID_4465,"MG Road, Pune","North Indian, Chinese, Mughlai",₹200,₹50,3.9,1759,375
+ID_6969,"Dockyard Road, Mumbai CST Area","Bakery, Desserts, Fast Food",₹150,₹50,-,-,-
+ID_5393,"Moulali, Kolkata","South Indian, Continental, Fast Food",₹300,₹99,3.9,232,105
+ID_1092,"Sector 1, Noida","North Indian, Chinese, Rolls, Desserts, Biryani",₹200,₹50,3.3,68,35
+ID_5305,"Sector 14, Noida","Bakery, Desserts",₹100,₹50,-,-,-
+ID_4325,"Mico Layout, Stage 2, BTM Layout,Bangalore",Desserts,₹200,₹50,4.5,247,178
+ID_5836,"Babarpur, New Delhi, Delhi","South Indian, Chinese, Fast Food",₹100,₹50,3.4,21,3
+ID_572,Delhi University-GTB Nagar,"North Indian, Mughlai",₹200,₹50,3.7,42,9
+ID_4152,"FTI College, Law College Road, Pune","Fast Food, Beverages",₹100,₹50,NEW,-,-
+ID_1183,"Nathan Road, Mangaldas Road, Pune","Fast Food, Lebanese",₹150,₹50,3.3,103,31
+ID_7608,"Yerawada, Pune, Maharashtra",Bakery,₹150,₹50,3.5,71,28
+ID_998,"Mico Layout, Stage 2, BTM Layout,Bangalore",Healthy Food,₹200,₹50,3.0,18,6
+ID_8186,Majestic,South Indian,₹50,₹50,-,-,-
+ID_7800,"Yerawada, Pune, Maharashtra","Fast Food, Burger, Beverages",₹250,₹50,3.9,242,108
+ID_2402,"D-Block, Sector 63, Noida","Healthy Food, North Indian, Biryani, Continental, Beverages",₹200,₹50,3.9,213,66
+ID_7910,Delhi Cantt.,"Pizza, Fast Food",₹100,₹50,3.1,5,-
+ID_3372,"Panjetan Colony, Malakpet, Hyderabad",North Indian,₹100,₹50,NEW,-,-
+ID_5487,"MG Road, Pune","Maharashtrian, Biryani",₹200,₹50,3.4,100,23
+ID_7717,Pune University,"Burger, Fast Food",₹150,₹50,3.6,29,24
+ID_5033,"Tiretti, Kolkata",Mishti,₹50,₹50,4.2,425,131
+ID_6632,"Sandhurst Road, Mumbai CST Area","Chinese, Fast Food, Ice Cream, Beverages",₹250,₹50,3.7,212,101
+ID_5780,"MG Road, Pune","Chinese, Mughlai, North Indian",₹200,₹50,3.3,17,5
+ID_3893,"Chandni Chowk, Kolkata","Mishti, Fast Food, South Indian, Street Food, Desserts",₹200,₹50,3.6,113,74
+ID_3388,"Chatta Bazaar, Malakpet, Hyderabad","South Indian, North Indian, Chinese",₹350,₹50,3.4,18,4
+ID_8563,Delhi Cantt.,"Momos, Chinese, Fast Food",₹100,₹50,3.0,7,1
+ID_46,"D-Block, Sector 63, Noida","Fast Food, Rolls",₹100,₹50,3.1,5,4
+ID_3290,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹100,₹99,-,-,-
+ID_5213,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Kerala",₹200,₹50,3.8,398,53
+ID_481,"Delhi High Court, India Gate","North Indian, Chinese, Continental, Italian",₹750,₹0,4.1,3700,2483
+ID_4654,"Sector 3, Marathalli","Burger, Fast Food",₹200,₹50,3.7,52,22
+ID_3203,"Rmz Centennial, I Gate, Whitefield","Healthy Food, Beverages, Salad, Juices",₹200,₹50,3.9,134,45
+ID_7460,"Sector 14, Noida","North Indian, Chinese",₹200,₹50,NEW,-,-
+ID_7544,Pune University,"Desserts, Beverages",₹150,₹50,3.7,80,38
+ID_3881,"FTI College, Law College Road, Pune",Fast Food,₹150,₹50,-,-,-
+ID_2492,Mumbai Central,"Middle Eastern, Lebanese, Healthy Food",₹250,₹50,3.6,345,162
+ID_6132,"FTI College, Law College Road, Pune","North Indian, Chinese, Fast Food",₹200,₹50,4.0,689,310
+ID_7215,"FTI College, Law College Road, Pune",Fast Food,₹100,₹50,-,-,-
+ID_7930,"FTI College, Law College Road, Pune","North Indian, Maharashtrian, Chinese",₹300,₹50,-,-,-
+ID_6178,"Babarpur, New Delhi, Delhi","North Indian, Chinese",₹150,₹50,3.0,5,2
+ID_2254,"Raja Bazar, Kolkata",South Indian,₹150,₹50,3.4,20,10
+ID_7132,"Delhi Administration Flats, Timarpur",Fast Food,₹200,₹50,3.9,160,78
+ID_597,"MG Road, Pune","Bakery, Desserts",₹200,₹50,3.4,15,3
+ID_3553,"FTI College, Law College Road, Pune",South Indian,₹200,₹50,3.7,1053,714
+ID_4181,"Delhi High Court, India Gate","Desserts, Middle Eastern, Turkish",₹150,₹50,3.9,298,175
+ID_8021,"Rmz Centennial, I Gate, Whitefield",Biryani,₹150,₹50,-,-,-
+ID_1429,"Babarpur, New Delhi, Delhi","North Indian, Rolls, Lebanese",₹250,₹50,3.4,40,7
+ID_8470,Delhi University-GTB Nagar,"Chinese, Rolls, Fast Food, Healthy Food",₹150,₹0,3.4,30,6
+ID_7812,"MG Road, Pune",Awadhi,₹200,₹0,3.2,4,4
+ID_6130,Pune University,"Mexican, Chinese, North Indian",₹300,₹50,3.0,127,53
+ID_4107,"Sector 3, Marathalli","Bengali, North Indian",₹150,₹50,-,-,-
+ID_811,"Sector 14, Noida",Fast Food,₹150,₹99,3.7,127,36
+ID_4849,"FTI College, Law College Road, Pune","Chinese, Pizza, Fast Food",₹150,₹50,3.7,55,20
+ID_8644,"Moulali, Kolkata",Cafe,₹250,₹50,4.0,130,57
+ID_5176,Delhi University-GTB Nagar,"South Indian, Fast Food, Mithai",₹100,₹50,3.5,229,30
+ID_1555,"Delhi Administration Flats, Timarpur","North Indian, Continental, Chinese, Juices",₹100,₹50,3.4,25,20
+ID_91,Delhi Cantt.,"Momos, Rolls",₹100,₹50,3.6,52,11
+ID_2619,"Babarpur, New Delhi, Delhi","Chinese, North Indian",₹150,₹50,3.4,25,18
+ID_8433,"Rmz Centennial, I Gate, Whitefield","Chinese, Momos",₹150,₹50,-,-,-
+ID_3969,"FTI College, Law College Road, Pune","Beverages, Desserts, Ice Cream",₹200,₹50,3.5,74,26
+ID_776,"Musi Nagar, Malakpet, Hyderabad",South Indian,₹100,₹50,4.1,257,68
+ID_2981,Mumbai Central,Fast Food,₹100,₹50,3.9,81,23
+ID_4492,Delhi Cantt.,"Mithai, South Indian, Chinese",₹200,₹50,3.4,18,2
+ID_703,"Babarpur, New Delhi, Delhi","South Indian, North Indian, Chinese",₹100,₹50,3.0,4,1
+ID_5211,"Sandhurst Road, Mumbai CST Area","South Indian, North Indian, Chinese, Biryani",₹200,₹50,3.2,28,13
+ID_4762,Mumbai Central,Mithai,₹100,₹50,3.2,40,17
+ID_4631,"FTI College, Law College Road, Pune","Street Food, Sandwich, South Indian",₹100,₹50,3.8,152,28
+ID_4625,"Chandni Chowk, Kolkata","Fast Food, North Eastern, Momos",₹100,₹50,-,-,-
+ID_4874,"Nathan Road, Mangaldas Road, Pune",Street Food,₹100,₹0,3.5,13,8
+ID_408,Pune University,"Biryani, North Indian, Maharashtrian",₹150,₹50,NEW,-,-
+ID_2414,"Mico Layout, Stage 2, BTM Layout,Bangalore","Cafe, North Indian, Chinese, Desserts",₹400,₹50,4.7,3651,2031
+ID_4434,"Mico Layout, Stage 2, BTM Layout,Bangalore","Bengali, Chinese",₹200,₹50,3.9,68,33
+ID_8109,"Raja Bazar, Kolkata","North Indian, Chinese, Bengali",₹150,₹50,-,-,-
+ID_925,"Mico Layout, Stage 2, BTM Layout,Bangalore",Biryani,₹100,₹50,3.4,20,4
+ID_3555,"Nathan Road, Mangaldas Road, Pune",South Indian,₹100,₹50,3.7,50,30
+ID_7271,"Chatta Bazaar, Malakpet, Hyderabad",South Indian,₹50,₹50,3.1,98,10
+ID_2389,"Gora Bazar, Rajbari, North Dumdum, Kolkata",Fast Food,₹150,₹50,3.5,69,26
+ID_3305,Delhi University-GTB Nagar,"Chinese, Fast Food",₹100,₹50,3.7,25,6
+ID_8582,"Babarpur, New Delhi, Delhi",North Indian,₹150,₹50,3.1,4,2
+ID_925,"D-Block, Sector 63, Noida",Biryani,₹200,₹50,3.7,72,49
+ID_7072,"Musi Nagar, Malakpet, Hyderabad",South Indian,₹150,₹50,3.3,9,3
+ID_8605,"Sector 63A,Gurgaon","North Indian, Mughlai",₹200,₹50,-,-,-
+ID_5321,"Sector 3, Marathalli","Biryani, Hyderabadi, North Indian, Mughlai",₹100,₹50,2.3,4,4
+ID_662,"Sector 3, Marathalli","North Indian, South Indian, Chinese, Fast Food",₹150,₹50,3.6,10,7
+ID_4360,"MG Road, Pune","Italian, Mexican, Pizza, Salad, Beverages",₹600,₹50,4.1,656,301
+ID_7403,"Delhi High Court, India Gate","North Indian, Chinese, Mughlai",₹200,₹50,3.4,37,21
+ID_234,"FTI College, Law College Road, Pune",Fast Food,₹150,₹50,3.3,9,-
+ID_608,"Sector 3, Marathalli","Bakery, Desserts",₹100,₹99,3.3,8,1
+ID_462,Mumbai Central,Bakery,₹300,₹50,3.8,77,52
+ID_4292,Majestic,"North Indian, Mughlai, Chinese, Kerala, Biryani, Beverages, Desserts",₹350,₹99,4.4,1297,510
+ID_2699,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹250,₹50,NEW,-,-
+ID_698,"Mico Layout, Stage 2, BTM Layout,Bangalore",Biryani,₹200,₹50,3.9,142,76
+ID_2342,"Rmz Centennial, I Gate, Whitefield","Chinese, Momos",₹200,₹50,3.0,15,9
+ID_4537,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, Kerala",₹200,₹50,3.8,15,8
+ID_3609,"Nathan Road, Mangaldas Road, Pune","Burger, American, Fast Food",₹200,₹50,3.1,9,5
+ID_692,"Sector 1, Noida","Italian, North Indian, Chinese",₹800,₹50,4.1,903,556
+ID_7912,"Delhi Administration Flats, Timarpur","Pizza, Beverages",₹350,₹50,3.3,11,6
+ID_87,"Mico Layout, Stage 2, BTM Layout,Bangalore","Italian, Healthy Food, Wraps",₹150,₹50,-,-,-
+ID_5004,"Sandhurst Road, Mumbai CST Area","Frozen Yogurt, Desserts",₹150,₹50,3.7,16,10
+ID_307,"Yerawada, Pune, Maharashtra","North Indian, Chinese, South Indian, Italian, Beverages, Desserts",₹350,₹50,3.4,16,10
+ID_6205,"D-Block, Sector 63, Noida","Rolls, Fast Food",₹150,₹50,3.0,7,2
+ID_1343,"Noorkhan Bazaar, Malakpet, Hyderabad",Bakery,₹150,₹50,NEW,-,-
+ID_7223,"Sector 1, Noida",Bakery,₹150,₹50,3.7,79,12
+ID_7526,"Delhi Administration Flats, Timarpur","Cafe, Chinese, Fast Food",₹200,₹50,3.9,83,66
+ID_8028,"Sector 1, Noida","Desserts, Beverages",₹200,₹50,4.1,138,70
+ID_3133,"Sector 14, Noida","North Indian, Mughlai, Biryani",₹400,₹50,4.3,217,145
+ID_6402,Majestic,"Sandwich, Street Food, Beverages",₹100,₹50,3.7,20,7
+ID_4484,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, Beverages",₹100,₹50,-,-,-
+ID_8591,"Mico Layout, Stage 2, BTM Layout,Bangalore",Biryani,₹100,₹99,3.8,53,27
+ID_5253,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Ice Cream, Beverages, Fast Food",₹250,₹50,NEW,-,-
+ID_5721,"Babarpur, New Delhi, Delhi",Pizza,₹100,₹50,NEW,-,-
+ID_3443,Delhi University-GTB Nagar,"North Indian, Continental, Chinese",₹600,₹50,4.7,437,364
+ID_6381,"Delhi High Court, India Gate",Fast Food,₹100,₹50,-,-,-
+ID_6484,"Yerawada, Pune, Maharashtra",Chinese,₹150,₹50,3.0,5,1
+ID_433,"D-Block, Sector 63, Noida","North Indian, Chinese",₹200,₹50,3.4,153,22
+ID_686,"Sandhurst Road, Mumbai CST Area","Coffee, Cafe, Fast Food, Desserts, Beverages",₹200,₹50,3.1,4,2
+ID_2493,Pune University,"Fast Food, Street Food, Beverages, Juices",₹250,₹50,4.2,1762,899
+ID_2443,"Delhi High Court, India Gate","American, Continental, Italian, Bakery",₹800,₹300,3.9,587,323
+ID_5634,"MG Road, Pune","Cafe, American, Continental",₹200,₹50,4.2,175,105
+ID_6272,"Sector 1, Noida","Bakery, Desserts, Fast Food",₹100,₹50,3.6,56,16
+ID_5630,Pune University,"North Indian, South Indian, Chinese",₹250,₹50,3.4,26,8
+ID_386,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese, Fast Food",₹150,₹50,3.6,82,41
+ID_4502,"FTI College, Law College Road, Pune",Street Food,₹50,₹50,4.0,99,32
+ID_6597,Delhi University-GTB Nagar,North Indian,₹100,₹50,3.5,41,14
+ID_7481,Delhi Cantt.,Thai,₹400,₹299,4.2,368,136
+ID_7415,"D-Block, Sector 63, Noida","North Indian, Chinese, Mughlai",₹200,₹99,3.0,10,4
+ID_1123,"D-Block, Sector 63, Noida","Fast Food, Burger, Sandwich, Beverages",₹100,₹50,3.7,53,22
+ID_1292,"Sector 14, Noida","Maharashtrian, Healthy Food",₹100,₹50,3.4,8,5
+ID_2525,"D-Block, Sector 63, Noida","North Indian, Continental",₹150,₹50,3.5,17,10
+ID_1931,"Jaya Nagar, Saidabad, Hyderabad","South Indian, Lebanese, Fast Food",₹150,₹50,3.4,27,9
+ID_5256,"D-Block, Sector 63, Noida",Bakery,₹200,₹50,3.7,37,27
+ID_5160,"Yerawada, Pune, Maharashtra","North Indian, Chinese, Mughlai",₹250,₹50,3.8,47,31
+ID_3860,"D-Block, Sector 63, Noida",North Indian,₹100,₹50,3.6,52,18
+ID_7014,"Yerawada, Pune, Maharashtra","Chinese, North Indian, Maharashtrian",₹250,₹50,3.3,47,23
+ID_443,"Babarpur, New Delhi, Delhi","Pizza, Fast Food",₹150,₹50,3.6,63,27
+ID_5799,"FTI College, Law College Road, Pune",Street Food,₹100,₹50,-,-,-
+ID_3518,"Rmz Centennial, I Gate, Whitefield","Andhra, Biryani",₹200,₹50,3.6,23,12
+ID_8201,"Yerawada, Pune, Maharashtra","Chinese, Thai, Asian",₹450,₹50,4.1,2377,1479
+ID_5837,Delhi University-GTB Nagar,Chinese,₹150,₹50,3.8,95,34
+ID_6891,Delhi University-GTB Nagar,Fast Food,₹100,₹50,3.5,23,5
+ID_2678,Majestic,North Indian,₹200,₹50,-,-,-
+ID_7295,"D-Block, Sector 63, Noida","Bakery, Desserts",₹150,₹50,3.8,51,27
+ID_1277,Pune University,"Pizza, Healthy Food, Salad, Juices",₹350,₹50,3.5,8,6
+ID_1949,"Mico Layout, Stage 2, BTM Layout,Bangalore","Bakery, Desserts",₹100,₹50,3.4,7,1
+ID_5101,Delhi Cantt.,"North Indian, Mughlai",₹200,₹50,3.5,69,11
+ID_5903,Delhi University-GTB Nagar,North Indian,₹100,₹50,3.5,594,72
+ID_694,"Dockyard Road, Mumbai CST Area","Ice Cream, Desserts, Beverages",₹100,₹50,3.5,40,12
+ID_7612,"Sector 14, Noida",Bakery,₹200,₹99,3.9,80,64
+ID_4879,"MG Road, Pune",Fast Food,₹150,₹50,3.2,12,6
+ID_4258,"FTI College, Law College Road, Pune",Chinese,₹200,₹50,NEW,-,-
+ID_8099,Mumbai Central,"Italian, Fast Food, Mexican, Chinese",₹350,₹50,3.8,1719,664
+ID_1006,"Sandhurst Road, Mumbai CST Area",Lebanese,₹100,₹50,3.7,60,23
+ID_5880,"Sandhurst Road, Mumbai CST Area","North Indian, Chinese, Fast Food",₹200,₹50,3.7,48,29
+ID_1252,"Sector 63A,Gurgaon","Fast Food, Desserts",₹200,₹50,4.2,211,139
+ID_8495,"Rmz Centennial, I Gate, Whitefield","Continental, North Indian, Desserts, Beverages",₹250,₹50,3.5,19,7
+ID_7034,"Sector 3, Marathalli","North Indian, Chinese, Biryani",₹200,₹99,3.0,92,30
+ID_546,"Mico Layout, Stage 2, BTM Layout,Bangalore","Chinese, North Indian",₹150,₹50,3.8,53,8
+ID_1777,"Delhi Administration Flats, Timarpur","Chinese, Fast Food",₹150,₹50,3.5,67,48
+ID_6586,"Delhi Administration Flats, Timarpur","North Indian, Mughlai, Chinese",₹300,₹50,3.7,125,56
+ID_7271,"Panjetan Colony, Malakpet, Hyderabad",South Indian,₹50,₹50,3.1,98,10
+ID_1939,Delhi Cantt.,"Pizza, Fast Food",₹250,₹50,NEW,-,-
+ID_3416,"FTI College, Law College Road, Pune","Seafood, Maharashtrian, Konkan",₹250,₹50,3.6,95,36
+ID_429,"Chandni Chowk, Kolkata",Street Food,₹150,₹50,4.1,260,123
+ID_7944,"Sandhurst Road, Mumbai CST Area","Rolls, Chinese, North Indian",₹200,₹50,3.0,4,3
+ID_7894,"D-Block, Sector 63, Noida",North Indian,₹150,₹50,2.6,133,10
+ID_4183,"FTI College, Law College Road, Pune","Chinese, Beverages",₹150,₹50,3.2,8,-
+ID_2040,Mumbai Central,"Chinese, Fast Food, Street Food",₹150,₹0,3.4,15,14
+ID_8511,"Babarpur, New Delhi, Delhi","Momos, Fast Food",₹200,₹50,3.4,17,5
+ID_5191,"Delhi Administration Flats, Timarpur","Pizza, Fast Food",₹150,₹50,NEW,-,-
+ID_1639,"Chandni Chowk, Kolkata","Fast Food, American",₹150,₹50,3.5,101,53
+ID_7130,"Mico Layout, Stage 2, BTM Layout,Bangalore",Biryani,₹150,₹50,3.4,9,-
+ID_3617,"Sector 1, Noida","North Indian, Mughlai, Rajasthani, Chinese, Bakery",₹200,₹50,4.5,366,182
+ID_5515,"Dockyard Road, Mumbai CST Area","Street Food, Mithai",₹100,₹50,4.0,304,108
+ID_1904,"Sector 1, Noida","Pizza, Fast Food",₹200,₹50,NEW,-,-
+ID_915,"D-Block, Sector 63, Noida",North Indian,₹150,₹50,3.6,67,24
+ID_7457,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, Biryani",₹150,₹50,3.3,5,1
+ID_8265,"Sector 3, Marathalli","North Indian, South Indian, Chinese",₹100,₹50,-,-,-
+ID_6398,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Fast Food, Bakery",₹100,₹50,3.5,30,15
+ID_8182,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, South Indian, Chinese",₹100,₹50,3.0,45,24
+ID_7497,"Nathan Road, Mangaldas Road, Pune",Maharashtrian,₹100,₹0,3.3,12,1
+ID_1294,Pune University,"South Indian, Malwani, Seafood",₹200,₹50,3.5,18,8
+ID_3223,"D-Block, Sector 63, Noida","Pizza, Burger, Fast Food",₹200,₹50,3.8,39,29
+ID_4781,"MG Road, Pune","Cafe, Continental, European, Salad, Asian",₹400,₹50,4.4,1977,995
+ID_7302,"Nathan Road, Mangaldas Road, Pune","Finger Food, Salad, Continental, Italian, Sandwich",₹600,₹50,4.2,1392,739
+ID_2483,"Sector 14, Noida","North Indian, Fast Food, Biryani, Rolls, Wraps",₹250,₹50,4.0,206,68
+ID_2021,"Sector 63A,Gurgaon","North Indian, Chinese, Beverages",₹200,₹50,3.4,15,6
+ID_1958,"Tejas Nagar Colony, Wadala West, Mumbai",North Indian,₹150,₹50,-,-,-
+ID_8557,"D-Block, Sector 63, Noida","Burger, Pizza, Fast Food",₹200,₹50,3.5,40,21
+ID_5705,"D-Block, Sector 63, Noida","Pizza, Fast Food",₹150,₹50,3.9,173,155
+ID_6054,"Chandni Chowk, Kolkata","Tea, Beverages, Fast Food",₹150,₹50,3.0,9,3
+ID_7132,Delhi University-GTB Nagar,Fast Food,₹200,₹50,3.9,160,78
+ID_5873,"Sector 14, Noida","North Indian, Afghan, Lebanese",₹200,₹50,3.3,17,4
+ID_4107,"Rmz Centennial, I Gate, Whitefield","Bengali, North Indian",₹150,₹50,-,-,-
+ID_217,"Sector 14, Noida",North Indian,₹100,₹50,3.1,6,-
+ID_6998,"D-Block, Sector 63, Noida","Healthy Food, North Indian",₹200,₹50,3.4,31,7
+ID_4693,"Delhi High Court, India Gate","South Indian, Mithai",₹150,₹50,3.7,78,31
+ID_7661,"Delhi Administration Flats, Timarpur",Bakery,₹100,₹50,3.5,24,-
+ID_5801,"Sector 14, Noida",Street Food,₹100,₹50,4.0,456,126
+ID_1792,"Musi Nagar, Malakpet, Hyderabad","North Indian, Chinese, South Indian",₹250,₹50,4.3,112,33
+ID_407,"Sector 14, Noida","North Indian, Chinese",₹400,₹50,4.0,999,527
+ID_2719,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Mughlai",₹200,₹50,3.5,28,5
+ID_6422,"D-Block, Sector 63, Noida","North Indian, Chinese, Mughlai",₹150,₹50,3.3,26,6
+ID_936,"Sandhurst Road, Mumbai CST Area",Biryani,₹150,₹50,3.7,279,90
+ID_1701,Delhi University-GTB Nagar,Chinese,₹250,₹50,-,-,-
+ID_5883,"Delhi Administration Flats, Timarpur","North Indian, Mughlai, Chinese",₹300,₹50,3.6,313,50
+ID_5648,Pune University,Italian,₹200,₹50,3.4,128,100
+ID_3442,"Mico Layout, Stage 2, BTM Layout,Bangalore","Cafe, Healthy Food, Ice Cream, Rolls, Sandwich, Burger, Beverages",₹250,₹50,3.9,77,41
+ID_2922,"Moulali, Kolkata","Bakery, Desserts",₹200,₹50,4.1,398,223
+ID_4640,"Mico Layout, Stage 2, BTM Layout,Bangalore","Andhra, North Indian, Chinese",₹200,₹50,3.7,27,10
+ID_3049,"Mico Layout, Stage 2, BTM Layout,Bangalore","Healthy Food, North Indian, Thai",₹200,₹50,3.7,22,7
+ID_1635,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Pizza, Italian, Fast Food",₹250,₹50,3.7,108,71
+ID_3871,"Delhi Administration Flats, Timarpur","North Indian, Mughlai",₹350,₹50,4.0,84,51
+ID_7184,"Nathan Road, Mangaldas Road, Pune","Fast Food, Healthy Food, Sandwich, Salad",₹200,₹99,3.5,196,78
+ID_7239,Delhi University-GTB Nagar,North Indian,₹50,₹50,3.6,20,4
+ID_1855,"D-Block, Sector 63, Noida","North Indian, Chinese",₹150,₹50,NEW,-,-
+ID_3498,"Tiretti, Kolkata",Fast Food,₹100,₹50,2.9,92,18
+ID_6609,"Delhi Administration Flats, Timarpur","Beverages, Ice Cream",₹100,₹50,3.3,13,4
+ID_6656,"FTI College, Law College Road, Pune","Biryani, North Indian",₹100,₹50,NEW,-,-
+ID_2230,"Delhi High Court, India Gate","Italian, North Indian, Chinese, Continental, Mediterranean",₹250,₹50,3.2,54,26
+ID_8605,"Sandhurst Road, Mumbai CST Area","North Indian, Desserts, Beverages",₹200,₹50,3.0,8,7
+ID_3970,Majestic,"Burger, Fast Food",₹200,₹50,3.9,452,60
+ID_4764,"Delhi High Court, India Gate","Continental, Italian, American, North Indian","₹1,400",₹50,3.7,273,189
+ID_5968,"Sector 3, Marathalli","Biryani, Chinese, North Indian",₹250,₹50,3.0,13,2
+ID_2940,"Delhi High Court, India Gate","North Indian, Healthy Food, Wraps, Sandwich, Salad, Mexican",₹200,₹99,4.0,429,189
+ID_5872,"Noorkhan Bazaar, Malakpet, Hyderabad","North Indian, Chinese",₹300,₹50,3.6,51,17
+ID_885,Delhi Cantt.,"Biryani, North Indian, Chinese",₹250,₹50,-,-,-
+ID_1001,"Delhi High Court, India Gate",Beverages,₹200,₹50,3.9,61,45
+ID_2481,"Delhi Administration Flats, Timarpur","North Indian, Chinese, South Indian",₹200,₹99,-,-,-
+ID_8105,"Tejas Nagar Colony, Wadala West, Mumbai",Bakery,₹100,₹50,-,-,-
+ID_6763,"Yerawada, Pune, Maharashtra","South Indian, Fast Food",₹100,₹50,-,-,-
+ID_832,"Sector 1, Noida",North Indian,₹150,₹50,3.3,12,1
+ID_77,"Sector 3, Marathalli","Pizza, Chinese, North Indian",₹150,₹250,2.9,229,25
+ID_5381,Delhi University-GTB Nagar,Fast Food,₹150,₹50,NEW,-,-
+ID_6198,"Nathan Road, Mangaldas Road, Pune",Rolls,₹100,₹50,-,-,-
+ID_1686,"Dockyard Road, Mumbai CST Area","Chinese, Thai, Seafood",₹200,₹99,3.6,194,51
+ID_2102,"Delhi High Court, India Gate",Mughlai,₹300,₹99,4.1,394,305
+ID_4659,"FTI College, Law College Road, Pune",North Indian,₹150,₹50,3.7,69,14
+ID_1740,"Sector 63A,Gurgaon",Mexican,₹150,₹50,NEW,-,-
+ID_3576,"Sector 1, Noida","North Indian, Mughlai, Chinese",₹250,₹99,3.6,365,125
+ID_8284,"D-Block, Sector 63, Noida","Chinese, North Indian",₹100,₹99,3.6,125,41
+ID_3100,"Mico Layout, Stage 2, BTM Layout,Bangalore","Ice Cream, Desserts",₹350,₹50,4.0,105,71
+ID_6968,"Mico Layout, Stage 2, BTM Layout,Bangalore","Continental, North Indian",₹100,₹50,NEW,-,-
+ID_383,Pune University,"Fast Food, Healthy Food",₹250,₹50,4.7,707,453
+ID_3995,"Tejas Nagar Colony, Wadala West, Mumbai",Chinese,₹150,₹50,3.0,6,2
+ID_4461,"FTI College, Law College Road, Pune","North Indian, Fast Food",₹100,₹50,-,-,-
+ID_4771,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Chinese, North Indian, Fast Food",₹200,₹50,NEW,-,-
+ID_1270,"Sector 14, Noida","North Indian, South Indian",₹150,₹50,-,-,-
+ID_49,"Delhi Administration Flats, Timarpur","Burger, Fast Food",₹150,₹50,3.2,9,4
+ID_400,"Noorkhan Bazaar, Malakpet, Hyderabad","North Indian, Chinese, Biryani",₹250,₹50,3.7,327,59
+ID_3194,Mumbai Central,"Beverages, Desserts, Ice Cream",₹100,₹50,3.5,24,6
+ID_5633,Mumbai Central,"Pizza, Fast Food",₹200,₹99,4.3,110,76
+ID_7524,"Yerawada, Pune, Maharashtra","Chinese, Malaysian, Thai, Japanese",₹550,₹50,4.0,965,518
+ID_7893,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Seafood, Biryani, Kerala",₹400,₹50,3.9,276,59
+ID_4652,"Sandhurst Road, Mumbai CST Area","Cafe, Beverages",₹200,₹50,-,-,-
+ID_6660,"Sandhurst Road, Mumbai CST Area","Seafood, Rolls, BBQ",₹200,₹50,3.4,27,9
+ID_7248,Mumbai Central,"Japanese, Sushi",₹300,₹50,3.8,221,115
+ID_6305,Delhi Cantt.,Street Food,₹50,₹50,3.8,30,3
+ID_4101,"FTI College, Law College Road, Pune","Biryani, North Indian",₹200,₹50,3.5,30,14
+ID_4525,"Mico Layout, Stage 2, BTM Layout,Bangalore","Beverages, Desserts",₹200,₹50,4.5,94,34
+ID_7959,"Sector 14, Noida",North Indian,₹200,₹99,3.4,37,14
+ID_2210,Pune University,North Indian,₹750,₹99,4.5,1435,991
+ID_3652,"Mico Layout, Stage 2, BTM Layout,Bangalore","Bakery, Desserts",₹150,₹50,3.5,12,5
+ID_2906,Mumbai Central,"Desserts, Beverages",₹150,₹50,3.5,68,32
+ID_8140,"Mico Layout, Stage 2, BTM Layout,Bangalore",Fast Food,₹100,₹50,-,-,-
+ID_107,"Sector 3, Marathalli","North Indian, Fast Food",₹100,₹50,-,-,-
+ID_4127,"Babarpur, New Delhi, Delhi",Beverages,₹100,₹50,-,-,-
+ID_3970,Delhi University-GTB Nagar,"Burger, Fast Food",₹200,₹50,4.0,1415,351
+ID_1631,"Sector 14, Noida","Asian, Thai, Japanese, Chinese, Momos",₹600,₹50,4.2,1473,849
+ID_5216,Mumbai Central,"North Indian, Chinese, Fast Food, South Indian",₹200,₹50,3.6,67,29
+ID_3213,"Yerawada, Pune, Maharashtra","Chinese, North Indian, Fast Food",₹300,₹50,-,-,-
+ID_500,"Chandni Chowk, Kolkata",Street Food,₹50,₹50,4.1,454,204
+ID_8104,"Sandhurst Road, Mumbai CST Area","Japanese, Sushi",₹300,₹99,4.0,155,98
+ID_7736,"Moulali, Kolkata","Sandwich, Chinese, Fast Food, Beverages",₹150,₹50,3.1,7,2
+ID_418,"Dockyard Road, Mumbai CST Area","North Indian, South Indian, Street Food, Chinese, Beverages",₹400,₹50,3.5,92,56
+ID_7561,"Mico Layout, Stage 2, BTM Layout,Bangalore",Andhra,₹200,₹50,-,-,-
+ID_190,"Mico Layout, Stage 2, BTM Layout,Bangalore","Mithai, Desserts",₹100,₹50,3.6,16,12
+ID_2034,"Tiretti, Kolkata","Biryani, Fast Food",₹100,₹50,3.4,15,4
+ID_1638,"Babarpur, New Delhi, Delhi","Fast Food, Healthy Food",₹100,₹50,NEW,-,-
+ID_8342,"Tejas Nagar Colony, Wadala West, Mumbai",Ice Cream,₹50,₹50,-,-,-
+ID_2800,"Sandhurst Road, Mumbai CST Area",Beverages,₹100,₹50,-,-,-
+ID_7739,"Nathan Road, Mangaldas Road, Pune","Cafe, Desserts, French, Bakery, European",₹250,₹50,4.6,1502,819
+ID_8023,"Delhi Administration Flats, Timarpur","North Indian, Fast Food",₹200,₹50,3.7,575,104
+ID_1544,"Sandhurst Road, Mumbai CST Area",Street Food,₹100,₹50,3.3,9,4
+ID_4627,Pune University,Street Food,₹100,₹50,4.0,31,23
+ID_3811,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, Beverages",₹100,₹50,3.7,27,7
+ID_6084,"Delhi High Court, India Gate",Mughlai,₹350,₹50,3.4,34,16
+ID_3988,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Rolls",₹200,₹50,3.9,159,78
+ID_3245,"Sector 1, Noida","Fast Food, Chinese, Momos",₹150,₹50,2.9,17,2
+ID_6053,"Babarpur, New Delhi, Delhi",North Indian,₹200,₹99,3.5,45,5
+ID_299,"Noorkhan Bazaar, Malakpet, Hyderabad",South Indian,₹100,₹50,3.9,30,4
+ID_5733,Majestic,"Italian, Street Food, Fast Food",₹100,₹50,-,-,-
+ID_3415,"Mico Layout, Stage 2, BTM Layout,Bangalore","Biryani, Chinese",₹200,₹50,-,-,-
+ID_4887,"FTI College, Law College Road, Pune","Desserts, Fast Food",₹100,₹50,3.3,45,19
+ID_5336,"Rmz Centennial, I Gate, Whitefield","Odia, North Indian, Chinese",₹150,₹50,3.4,13,3
+ID_2240,"Sector 1, Noida",Healthy Food,₹150,₹50,3.4,40,26
+ID_8511,"Sector 14, Noida","Momos, Fast Food",₹200,₹99,3.8,71,43
+ID_6962,Delhi Cantt.,"North Indian, Chinese, Rolls",₹150,₹50,3.3,13,7
+ID_4312,"Sector 1, Noida","North Indian, Chinese, Mughlai, Biryani",₹550,₹99,4.7,2058,1538
+ID_463,Mumbai Central,"Ice Cream, Desserts",₹100,₹50,3.9,120,61
+ID_1992,"Mico Layout, Stage 2, BTM Layout,Bangalore","Finger Food, North Indian, Seafood, Mangalorean, Chinese",₹400,₹50,3.9,30,19
+ID_8407,Mumbai Central,Desserts,₹150,₹50,-,-,-
+ID_1698,"Sector 14, Noida",Chinese,₹100,₹50,3.0,5,-
+ID_8605,"Delhi Administration Flats, Timarpur","North Indian, Mughlai",₹200,₹50,-,-,-
+ID_3846,"Nathan Road, Mangaldas Road, Pune","Biryani, North Indian, Rolls, Kashmiri, Mughlai",₹300,₹50,3.9,195,117
+ID_2075,"FTI College, Law College Road, Pune","Lucknowi, North Indian",₹150,₹50,3.6,55,15
+ID_746,"Mico Layout, Stage 2, BTM Layout,Bangalore","Ice Cream, Desserts, Bakery",₹200,₹50,3.9,96,51
+ID_8573,"Yerawada, Pune, Maharashtra","Pizza, Italian",₹250,₹50,4.1,29,20
+ID_4092,"FTI College, Law College Road, Pune","Chinese, Biryani",₹100,₹50,3.2,9,1
+ID_3363,"MG Road, Pune","North Indian, Maharashtrian",₹200,₹50,3.8,189,47
+ID_1011,"Sandhurst Road, Mumbai CST Area","Cafe, American, Desserts, Sandwich, European, Asian",₹300,₹50,4.3,511,276
+ID_3807,"Mico Layout, Stage 2, BTM Layout,Bangalore",Fast Food,₹150,₹50,-,-,-
+ID_2394,"Rmz Centennial, I Gate, Whitefield",Street Food,₹100,₹50,4.0,329,131
+ID_1881,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹100,₹50,3.3,9,1
+ID_1693,Delhi University-GTB Nagar,Chinese,₹200,₹50,3.2,6,1
+ID_2297,"Sector 14, Noida","Ice Cream, Beverages",₹150,₹50,4.1,31,24
+ID_2097,"Sector 14, Noida","Rolls, Kebab, Mughlai, North Indian",₹200,₹50,3.8,604,413
+ID_3112,"Sector 1, Noida",Fast Food,₹200,₹50,3.4,19,6
+ID_1375,"Sector 1, Noida","Bakery, Desserts",₹100,₹50,2.7,56,34
+ID_7295,"Sector 14, Noida","Bakery, Desserts",₹150,₹50,3.9,90,53
+ID_938,"Sector 1, Noida","Biryani, North Indian",₹100,₹50,NEW,-,-
+ID_2968,"Sector 14, Noida","North Indian, Chinese",₹150,₹50,NEW,-,-
+ID_459,"Sector 3, Marathalli","Beverages, Fast Food",₹150,₹50,3.0,16,6
+ID_7781,"D-Block, Sector 63, Noida","Fast Food, North Indian, Chinese",₹250,₹99,2.7,55,16
+ID_1616,"Gora Bazar, Rajbari, North Dumdum, Kolkata","Fast Food, Bengali, Chinese",₹200,₹50,3.6,53,19
+ID_1465,"Sector 3, Marathalli",Street Food,₹100,₹50,-,-,-
+ID_5942,"Moulali, Kolkata","North Indian, Chinese, Fast Food, Beverages",₹400,₹50,3.8,226,52
+ID_7515,"Sector 14, Noida","North Indian, Mughlai, Chinese",₹200,₹50,3.8,118,72
+ID_2792,"Rmz Centennial, I Gate, Whitefield","Beverages, Desserts, Ice Cream",₹200,₹50,-,-,-
+ID_1610,"Sector 1, Noida","Fast Food, Continental, Pizza, Beverages",₹150,₹50,3.8,66,40
+ID_6952,"Sector 1, Noida","Pizza, Salad, Burger, Sandwich, Lebanese, Italian",₹150,₹50,4.4,315,248
+ID_5224,"Babarpur, New Delhi, Delhi","North Indian, Rolls",₹150,₹50,-,-,-
+ID_5157,"Moulali, Kolkata","Biryani, Mughlai, North Indian",₹150,₹50,3.2,5,1
+ID_6649,"Delhi High Court, India Gate",Chinese,₹150,₹50,3.6,48,20
+ID_1100,"Delhi Administration Flats, Timarpur","Street Food, North Indian, South Indian, Mithai, Beverages",₹200,₹50,3.9,783,167
+ID_2905,"Delhi High Court, India Gate","Desserts, Beverages, Ice Cream",₹150,₹50,3.9,193,75
+ID_2356,"FTI College, Law College Road, Pune","Beverages, Fast Food",₹200,₹50,3.5,16,9
+ID_3065,Majestic,"Fast Food, Street Food, Juices",₹100,₹50,3.6,646,214
+ID_8070,"FTI College, Law College Road, Pune","Cafe, Healthy Food, Italian, Salad, Sandwich, Sushi, Beverages",₹400,₹50,4.1,773,449
+ID_7857,"Nathan Road, Mangaldas Road, Pune",Beverages,₹100,₹50,3.1,6,1
+ID_8386,Mumbai Central,Desserts,₹150,₹50,NEW,-,-
+ID_7260,"Moulali, Kolkata","North Indian, Mughlai",₹150,₹50,2.8,7,3
+ID_1784,Delhi Cantt.,"Chinese, North Indian, Rolls, Biryani, Momos",₹200,₹50,3.9,992,513
+ID_1309,"Dockyard Road, Mumbai CST Area","Chinese, Mughlai, North Indian",₹200,₹50,3.5,63,34
+ID_3970,"BTM Layout 1, Electronic City","Burger, Fast Food",₹200,₹50,4.0,714,220
+ID_3186,"Delhi Administration Flats, Timarpur",Chinese,₹100,₹50,3.8,43,7
+ID_8034,"Chandni Chowk, Kolkata","North Indian, Rajasthani, Beverages",₹100,₹50,3.2,8,2
+ID_3974,"Sandhurst Road, Mumbai CST Area",Fast Food,₹100,₹50,NEW,-,-
+ID_276,Majestic,"North Indian, Chinese",₹250,₹50,3.5,19,3
+ID_2542,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Mexican, Italian",₹200,₹50,3.4,37,24
+ID_2234,"Babarpur, New Delhi, Delhi","Fast Food, North Indian",₹150,₹50,3.5,42,8
+ID_33,"Delhi High Court, India Gate","Continental, North Indian, Italian, Asian","₹2,050",₹50,3.9,671,357
+ID_350,Delhi University-GTB Nagar,"North Indian, Chinese",₹150,₹50,2.9,41,15
+ID_4189,"Chandni Chowk, Kolkata","South Indian, Fast Food",₹100,₹50,-,-,-
+ID_5399,"FTI College, Law College Road, Pune","Fast Food, North Indian, Beverages",₹150,₹50,3.8,284,121
+ID_5519,"Sector 1, Noida","Chinese, Fast Food",₹150,₹50,NEW,-,-
+ID_8648,"Nathan Road, Mangaldas Road, Pune","Cafe, Sushi, Continental, Italian",₹350,₹50,4.3,193,90
+ID_5784,"Delhi Administration Flats, Timarpur","Continental, Fast Food, Beverages",₹150,₹50,4.0,94,49
+ID_1995,"Mico Layout, Stage 2, BTM Layout,Bangalore",North Indian,₹150,₹50,3.5,18,5
+ID_6771,"D-Block, Sector 63, Noida","North Indian, South Indian, Chinese, Desserts, Beverages",₹500,₹50,3.8,597,342
+ID_8135,Delhi University-GTB Nagar,Beverages,₹100,₹50,-,-,-
+ID_3453,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹200,₹50,3.2,35,11
+ID_160,"Sector 3, Marathalli","Bengali, North Indian, Chinese",₹100,₹50,3.4,13,8
+ID_8511,"Delhi Administration Flats, Timarpur","Chinese, Momos",₹200,₹99,3.7,402,255
+ID_6193,Pune University,Maharashtrian,₹50,₹50,3.7,12,5
+ID_1666,"Sector 1, Noida","Mexican, American, Italian, Burger",₹500,₹99,4.6,4903,3989
+ID_2637,Majestic,"Chinese, North Indian, Street Food",₹150,₹50,NEW,-,-
+ID_7445,"Moulali, Kolkata",Beverages,₹100,₹50,3.7,23,9
+ID_6559,"Sector 14, Noida","Continental, Fast Food",₹150,₹50,NEW,-,-
+ID_7267,"D-Block, Sector 63, Noida",North Indian,₹100,₹50,NEW,-,-
+ID_6118,"Nathan Road, Mangaldas Road, Pune","North Indian, Chinese",₹150,₹50,3.4,78,33
+ID_3497,"Babarpur, New Delhi, Delhi",Chinese,₹100,₹50,3.4,19,2
+ID_6121,"Sector 3, Marathalli","Biryani, South Indian, Chinese",₹200,₹50,3.3,10,1
+ID_7748,"Mico Layout, Stage 2, BTM Layout,Bangalore","Continental, North Indian, Asian, Italian",₹550,₹50,4.9,1881,1509
+ID_304,"Rmz Centennial, I Gate, Whitefield","North Indian, Andhra, BBQ, Seafood, Chinese",₹350,₹50,3.8,160,73
+ID_7462,"Mico Layout, Stage 2, BTM Layout,Bangalore",Beverages,₹150,₹50,4.1,254,116
+ID_5776,"Delhi High Court, India Gate","Pizza, Italian, Desserts, Burger, American",₹350,₹99,4.9,1793,1028
+ID_2155,"Sector 1, Noida","Fast Food, Street Food",₹200,₹50,3.3,15,3
+ID_7270,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese, Mughlai",₹300,₹50,3.8,182,80
+ID_560,"Mico Layout, Stage 2, BTM Layout,Bangalore",North Indian,₹100,₹50,3.6,14,4
+ID_4436,"Delhi Administration Flats, Timarpur","North Indian, Street Food",₹150,₹50,3.7,81,40
+ID_4703,"Delhi Administration Flats, Timarpur",Chinese,₹200,₹50,3.0,340,61
+ID_7131,Delhi University-GTB Nagar,North Indian,₹250,₹50,NEW,-,-
+ID_6879,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, South Indian, Chinese, Fast Food, Mithai",₹200,₹50,3.9,224,147
+ID_1720,Delhi Cantt.,Chinese,₹100,₹50,NEW,-,-
+ID_639,"Tejas Nagar Colony, Wadala West, Mumbai",Fast Food,₹150,₹50,3.5,108,46
+ID_2331,"D-Block, Sector 63, Noida",South Indian,₹150,₹99,3.4,17,4
+ID_5653,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹250,₹99,3.4,138,40
+ID_1222,"FTI College, Law College Road, Pune","Beverages, Fast Food",₹100,₹50,3.4,10,3
+ID_2452,Majestic,"Salad, Healthy Food, Sandwich, Juices, Burger, Desserts, Pizza",₹200,₹50,4.1,100,62
+ID_8165,"Moulali, Kolkata","Cafe, Continental, Italian",₹350,₹50,3.9,1124,516
+ID_6389,Pune University,"Chinese, Fast Food",₹200,₹50,3.5,227,68
+ID_8312,"Delhi Administration Flats, Timarpur",North Indian,₹200,₹50,-,-,-
+ID_5885,"Delhi Administration Flats, Timarpur",North Indian,₹250,₹50,3.2,10,2
+ID_8473,"Sandhurst Road, Mumbai CST Area","Chinese, Asian, Momos",₹150,₹99,3.7,429,257
+ID_551,"Raja Bazar, Kolkata",Fast Food,₹150,₹50,-,-,-
+ID_572,"Delhi Administration Flats, Timarpur","North Indian, Mughlai",₹200,₹50,3.7,42,9
+ID_2456,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Asian, Chinese, Sushi, Thai, Japanese, Poké",₹400,₹99,4.4,567,348
+ID_1834,Pune University,"Bakery, Cafe, Desserts",₹100,₹50,4.0,231,123
+ID_4018,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Desserts,₹50,₹50,3.4,16,8
+ID_1444,"MG Road, Pune",Street Food,₹150,₹50,-,-,-
+ID_4936,Mumbai Central,"Fast Food, Sandwich",₹100,₹50,-,-,-
+ID_8121,"Sector 1, Noida","Pizza, Fast Food, Italian, Desserts, Beverages",₹350,₹199,4.3,1037,539
+ID_7296,"Nathan Road, Mangaldas Road, Pune","Desserts, Fast Food",₹150,₹50,3.6,36,17
+ID_7479,"Sector 14, Noida","Thai, Salad, Seafood",₹400,₹99,4.1,88,43
+ID_3777,"Sandhurst Road, Mumbai CST Area","Beverages, Fast Food",₹150,₹50,3.7,108,31
+ID_1727,Delhi Cantt.,Chinese,₹200,₹50,-,-,-
+ID_7654,"Sector 63A,Gurgaon",Cafe,₹300,₹99,3.8,75,43
+ID_1264,"MG Road, Pune","Cafe, Healthy Food, Italian",₹300,₹50,4.1,108,63
+ID_7694,"Rmz Centennial, I Gate, Whitefield",Beverages,₹100,₹50,3.7,31,12
+ID_4668,"Sector 3, Marathalli","Fast Food, Burger, Biryani",₹200,₹50,3.6,23,10
+ID_140,"Rmz Centennial, I Gate, Whitefield",North Indian,₹100,₹50,2.7,46,26
+ID_1088,"Mico Layout, Stage 2, BTM Layout,Bangalore",Desserts,₹150,₹50,4.1,58,32
+ID_7647,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Chinese,₹400,₹50,3.9,337,143
+ID_7177,"Sector 1, Noida","Mughlai, North Indian",₹100,₹50,-,-,-
+ID_4173,"Delhi Administration Flats, Timarpur",Ice Cream,₹100,₹50,3.9,166,79
+ID_6441,Delhi University-GTB Nagar,Street Food,₹100,₹50,3.1,4,1
+ID_8151,"Mico Layout, Stage 2, BTM Layout,Bangalore","Cafe, Fast Food, Street Food",₹200,₹50,4.1,470,308
+ID_6146,"FTI College, Law College Road, Pune","Fast Food, Ice Cream, Beverages",₹150,₹50,3.3,27,9
+ID_1606,"Sector 63A,Gurgaon","North Indian, Chinese",₹600,₹99,3.9,638,419
+ID_3845,"MG Road, Pune",Fast Food,₹150,₹50,2.8,8,5
+ID_1770,"Sector 14, Noida","Mithai, Fast Food",₹100,₹99,3.0,60,9
+ID_4953,Delhi University-GTB Nagar,"North Indian, Chinese",₹150,₹50,2.9,151,50
+ID_5316,"D-Block, Sector 63, Noida",Healthy Food,₹200,₹50,3.8,60,18
+ID_7122,"Musi Nagar, Malakpet, Hyderabad","Andhra, South Indian",₹150,₹50,3.0,16,1
+ID_6348,Mumbai Central,"North Indian, South Indian",₹100,₹50,2.7,60,25
+ID_4089,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Biryani, North Indian",₹200,₹50,-,-,-
+ID_2822,"Sector 14, Noida","Chinese, North Indian, Street Food, Fast Food, South Indian",₹150,₹50,3.6,49,12
+ID_1635,"Delhi High Court, India Gate",Pizza,₹250,₹50,3.9,79,45
+ID_4589,"Mico Layout, Stage 2, BTM Layout,Bangalore","Biryani, South Indian, North Indian",₹150,₹50,3.5,5,1
+ID_5380,"Sector 63A,Gurgaon","North Indian, Mithai, Fast Food, South Indian, Chinese",₹200,₹50,4.0,1169,336
+ID_4767,"Moulali, Kolkata",Mishti,₹50,₹50,4.2,376,155
+ID_1339,"MG Road, Pune","Bakery, Desserts",₹250,₹0,4.4,557,358
+ID_5962,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese, Italian, American, Arabian, Continental, Mithai, Beverages",₹100,₹50,NEW,-,-
+ID_456,Delhi University-GTB Nagar,"North Indian, Chinese",₹200,₹50,3.7,902,170
+ID_7909,"Mico Layout, Stage 2, BTM Layout,Bangalore",Pizza,₹150,₹50,3.6,20,10
+ID_5850,Delhi University-GTB Nagar,"Fast Food, Beverages",₹300,₹50,-,-,-
+ID_3400,"Hyderabad Public School, Begumpet",Biryani,₹150,₹50,NEW,-,-
+ID_2298,Majestic,"Cafe, Desserts",₹300,₹50,4.3,716,382
+ID_5519,"Sector 14, Noida","Chinese, Fast Food",₹150,₹50,NEW,-,-
+ID_4906,"Noorkhan Bazaar, Malakpet, Hyderabad","North Indian, Chinese, Biryani",₹200,₹50,-,-,-
+ID_3741,"Sandhurst Road, Mumbai CST Area","North Indian, Chinese, Mughlai",₹200,₹50,3.9,37,32
+ID_539,"FTI College, Law College Road, Pune","Biryani, Kebab",₹200,₹50,3.1,6,-
+ID_1023,"Sector 14, Noida",Bengali,₹200,₹50,NEW,-,-
+ID_511,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹100,₹50,3.2,8,2
+ID_336,Delhi University-GTB Nagar,"South Indian, Chinese, Fast Food",₹150,₹50,3.3,22,10
+ID_1813,Delhi University-GTB Nagar,"Beverages, Ice Cream, Desserts",₹100,₹50,3.7,72,29
+ID_5052,"Mico Layout, Stage 2, BTM Layout,Bangalore","Kerala, Chinese, South Indian",₹150,₹50,3.6,26,7
+ID_4625,"Sector 14, Noida","North Eastern, Momos, Fast Food, Beverages, Tibetan",₹100,₹50,-,-,-
+ID_4341,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, Beverages",₹100,₹50,3.0,5,2
+ID_4860,"Sector 14, Noida","North Indian, Mughlai",₹350,₹50,4.1,95,55
+ID_7636,"Sector 14, Noida",Chinese,₹150,₹50,3.5,11,8
+ID_4559,"Rmz Centennial, I Gate, Whitefield","Kerala, South Indian, Chinese",₹150,₹50,3.8,46,29
+ID_2794,"Sandhurst Road, Mumbai CST Area","Beverages, Desserts, Ice Cream",₹200,₹99,3.8,178,84
+ID_1772,"Babarpur, New Delhi, Delhi","North Indian, Mughlai, Chinese",₹250,₹50,3.8,70,60
+ID_4372,Mumbai Central,"Desserts, Beverages",₹100,₹50,3.2,4,2
+ID_6971,Pune University,"South Indian, North Indian",₹100,₹50,3.9,87,51
+ID_4411,"FTI College, Law College Road, Pune","Mithai, Street Food",₹100,₹50,3.0,4,1
+ID_1528,"Nathan Road, Mangaldas Road, Pune","Fast Food, Rolls, Biryani, North Indian",₹150,₹50,3.9,420,264
+ID_5708,Delhi University-GTB Nagar,"Pizza, Fast Food",₹400,₹50,3.8,630,240
+ID_1207,Pune University,"Cafe, Fast Food, Desserts, Beverages",₹200,₹50,2.8,77,26
+ID_7197,"Nathan Road, Mangaldas Road, Pune","Ice Cream, Beverages",₹100,₹50,3.8,56,20
+ID_5290,"Rmz Centennial, I Gate, Whitefield","Fast Food, Rolls",₹100,₹50,-,-,-
+ID_624,"Delhi Administration Flats, Timarpur",BBQ,₹150,₹50,3.2,7,2
+ID_4907,"Dockyard Road, Mumbai CST Area",Paan,₹100,₹50,3.3,14,3
+ID_2160,"Moulali, Kolkata",North Indian,₹200,₹50,3.7,227,130
+ID_6986,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",South Indian,₹200,₹99,3.8,362,108
+ID_8162,"Mico Layout, Stage 2, BTM Layout,Bangalore","Continental, Italian, American",₹300,₹50,4.0,611,320
+ID_390,"Yerawada, Pune, Maharashtra","Biryani, Chinese, North Indian",₹200,₹50,2.6,61,32
+ID_8026,"Dockyard Road, Mumbai CST Area",Fast Food,₹150,₹50,3.4,31,9
+ID_6276,"Sector 1, Noida",Bakery,₹100,₹50,3.5,36,12
+ID_7392,"Dockyard Road, Mumbai CST Area",Biryani,₹100,₹50,3.2,9,2
+ID_4252,"Mico Layout, Stage 2, BTM Layout,Bangalore","Beverages, Ice Cream",₹100,₹50,4.0,46,14
+ID_7058,Majestic,"Biryani, South Indian",₹100,₹50,4.2,223,56
+ID_881,"D-Block, Sector 63, Noida","Biryani, Hyderabadi",₹300,₹99,3.9,121,76
+ID_8187,"Yerawada, Pune, Maharashtra",Fast Food,₹200,₹50,3.8,80,35
+ID_1933,"Gora Bazar, Rajbari, North Dumdum, Kolkata","Fast Food, Street Food, Chinese, North Indian",₹150,₹50,3.2,8,2
+ID_1476,"D-Block, Sector 63, Noida","Beverages, Fast Food",₹100,₹50,2.7,5,-
+ID_6832,"Raja Bazar, Kolkata",Mishti,₹150,₹50,-,-,-
+ID_4366,Delhi Cantt.,"North Indian, Pizza, Burger, Continental",₹400,₹0,-,-,-
+ID_3053,"Mico Layout, Stage 2, BTM Layout,Bangalore",Mithai,₹100,₹50,3.1,8,1
+ID_1818,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese, Fast Food",₹200,₹50,3.6,28,26
+ID_3284,"Sector 3, Marathalli","South Indian, North Indian",₹100,₹50,NEW,-,-
+ID_427,Delhi University-GTB Nagar,"North Indian, Chinese",₹100,₹50,3.4,207,107
+ID_5738,"Sector 1, Noida","Pizza, Beverages",₹200,₹50,3.7,324,76
+ID_7184,Pune University,"Fast Food, Healthy Food, Sandwich, Salad",₹200,₹50,4.1,200,62
+ID_1255,"FTI College, Law College Road, Pune","Ice Cream, Beverages",₹100,₹50,3.4,9,1
+ID_6800,"D-Block, Sector 63, Noida","Mithai, Street Food",₹100,₹50,NEW,-,-
+ID_6318,"Delhi High Court, India Gate","Rolls, Kebab",₹200,₹50,3.9,129,65
+ID_7727,"Tiretti, Kolkata","Bengali, Chinese, North Indian",₹150,₹50,3.1,5,-
+ID_1370,"Delhi High Court, India Gate",Bakery,₹100,₹50,2.8,27,7
+ID_6518,"Babarpur, New Delhi, Delhi",North Indian,₹100,₹50,3.5,20,1
+ID_247,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese",₹100,₹50,3.5,20,11
+ID_2425,Majestic,Fast Food,₹150,₹50,3.9,50,36
+ID_5639,Delhi University-GTB Nagar,"North Indian, Italian, Chinese, Mexican",₹350,₹50,4.5,808,465
+ID_4625,"Babarpur, New Delhi, Delhi","North Eastern, Momos, Fast Food, Beverages, Tibetan",₹100,₹50,2.9,-,-
+ID_7959,"Sector 1, Noida",North Indian,₹200,₹99,3.4,37,14
+ID_5786,"Sector 63A,Gurgaon","North Indian, Asian",₹200,₹50,3.2,5,3
+ID_1106,"Yerawada, Pune, Maharashtra","South Indian, Fast Food, Chinese",₹150,₹50,3.4,195,124
+ID_5428,Delhi Cantt.,Chinese,₹250,₹50,4.2,248,126
+ID_2978,"Sector 3, Marathalli",North Indian,₹150,₹50,3.4,34,16
+ID_3530,"Mico Layout, Stage 2, BTM Layout,Bangalore","Bakery, Desserts, Ice Cream",₹200,₹50,4.1,137,66
+ID_4006,"FTI College, Law College Road, Pune","North Indian, Chinese, Fast Food",₹200,₹50,3.1,6,-
+ID_4238,"Babarpur, New Delhi, Delhi",Chinese,₹100,₹50,NEW,-,-
+ID_8240,"Sandhurst Road, Mumbai CST Area","North Indian, Chinese, Mughlai",₹250,₹99,4.0,551,310
+ID_2713,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, North Indian",₹200,₹50,3.7,89,52
+ID_570,"Panjetan Colony, Malakpet, Hyderabad",South Indian,₹50,₹50,-,-,-
+ID_8012,"Sector 3, Marathalli",Desserts,₹150,₹50,3.7,-,-
+ID_2112,"Sandhurst Road, Mumbai CST Area","Mughlai, North Indian, Chinese",₹450,₹200,3.8,2534,1336
+ID_6566,"Sector 63A,Gurgaon","Cafe, Healthy Food, Sandwich, North Indian, Wraps, Salad, Street Food, Beverages",₹200,₹50,4.1,-,-
+ID_8500,"Rmz Centennial, I Gate, Whitefield","North Indian, South Indian",₹100,₹50,-,-,-
+ID_4906,"Sector 1, Noida","North Indian, Chinese, Biryani",₹200,₹50,-,-,-
+ID_2486,Mumbai Central,"Cafe, North Indian, Healthy Food, Desserts",₹600,₹50,3.8,222,99
+ID_4612,"D-Block, Sector 63, Noida","North Indian, Street Food",₹100,₹50,3.3,66,16
+ID_2799,"Mico Layout, Stage 2, BTM Layout,Bangalore","Beverages, Lebanese, Arabian",₹100,₹50,3.7,17,8
+ID_7519,"Sector 1, Noida","North Indian, Chinese",₹200,₹50,3.6,49,17
+ID_1746,Pune University,Chinese,₹400,₹50,NEW,-,-
+ID_2891,"Mico Layout, Stage 2, BTM Layout,Bangalore",North Indian,₹150,₹50,NEW,-,-
+ID_3418,"Chatta Bazaar, Malakpet, Hyderabad","North Indian, Chinese, South Indian, Desserts",₹300,₹50,3.4,31,12
+ID_7089,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, North Indian, Chinese, Fast Food",₹200,₹50,3.7,34,9
+ID_5335,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese, Odia",₹200,₹50,3.1,105,25
+ID_2274,"Babarpur, New Delhi, Delhi","Mithai, North Indian, South Indian, Chinese",₹150,₹50,-,-,-
+ID_5321,Delhi Cantt.,"Biryani, Hyderabadi, North Indian, Mughlai",₹100,₹50,2.8,-,-
+ID_3300,"Rmz Centennial, I Gate, Whitefield","North Indian, Beverages",₹100,₹50,NEW,-,-
+ID_1374,"Hyderabad Public School, Begumpet","Bakery, Desserts",₹150,₹50,3.7,28,20
+ID_6883,"Sector 1, Noida","Ice Cream, Desserts",₹150,₹50,2.6,14,8
+ID_6771,"Delhi Administration Flats, Timarpur","South Indian, Chinese",₹150,₹50,3.5,40,22
+ID_1778,"Mico Layout, Stage 2, BTM Layout,Bangalore","Chinese, Thai, Momos",₹200,₹50,3.1,139,40
+ID_7018,"Delhi High Court, India Gate","Rolls, Chinese",₹100,₹50,3.6,160,19
+ID_7065,Mumbai Central,"Fast Food, Street Food, Juices",₹100,₹50,3.6,82,28
+ID_5321,"Sandhurst Road, Mumbai CST Area","Biryani, Hyderabadi, North Indian, Mughlai",₹100,₹50,-,-,-
+ID_316,"Delhi Administration Flats, Timarpur",North Indian,₹200,₹50,3.6,25,15
+ID_3920,"MG Road, Pune","Asian, Continental, North Indian",₹450,₹50,4.4,2709,1616
+ID_2038,"Sector 1, Noida","Fast Food, Desserts",₹200,₹50,3.3,112,49
+ID_4933,"FTI College, Law College Road, Pune","North Indian, Chinese, Continental, South Indian, Mexican",₹300,₹50,3.7,557,259
+ID_3970,"Delhi High Court, India Gate","Burger, Fast Food",₹200,₹50,4.0,1106,506
+ID_2655,"Babarpur, New Delhi, Delhi","North Indian, Chinese, Fast Food",₹200,₹50,NEW,-,-
+ID_5446,"Dockyard Road, Mumbai CST Area",Desserts,₹100,₹50,3.3,19,4
+ID_6758,"Tejas Nagar Colony, Wadala West, Mumbai","North Indian, Chinese, South Indian, Street Food",₹200,₹50,3.6,57,30
+ID_7111,"Jaya Nagar, Saidabad, Hyderabad","Mithai, Desserts",₹100,₹50,3.7,37,3
+ID_6339,"FTI College, Law College Road, Pune","European, Italian, Sandwich, Beverages",₹600,₹50,4.1,241,147
+ID_1391,"Sandhurst Road, Mumbai CST Area","North Indian, Chinese, Seafood",₹250,₹50,3.9,91,55
+ID_3482,Delhi University-GTB Nagar,Fast Food,₹100,₹50,3.2,16,4
+ID_1874,Pune University,"Fast Food, Bakery, Desserts",₹150,₹50,3.8,95,50
+ID_1889,"Babarpur, New Delhi, Delhi",Fast Food,₹100,₹50,3.8,67,49
+ID_3666,"Sector 63A,Gurgaon","Healthy Food, Sandwich, Beverages, Desserts",₹200,₹50,4.4,98,74
+ID_6075,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, North Indian, Mughlai",₹200,₹50,3.6,15,5
+ID_5416,"FTI College, Law College Road, Pune","Italian, Continental, Salad",₹550,₹50,4.0,848,536
+ID_2723,"FTI College, Law College Road, Pune",Fast Food,₹150,₹99,3.2,16,5
+ID_1713,"Delhi High Court, India Gate",Chinese,₹100,₹50,-,-,-
+ID_1254,"Nathan Road, Mangaldas Road, Pune","Italian, Desserts, Continental",₹200,₹50,3.3,12,9
+ID_1170,"Delhi Administration Flats, Timarpur","Italian, Continental",₹400,₹99,3.4,130,55
+ID_5976,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹100,₹50,3.4,68,14
+ID_7363,"Sector 63A,Gurgaon","North Indian, Rolls, Momos",₹250,₹50,-,-,-
+ID_456,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹200,₹50,3.7,111,14
+ID_5522,Mumbai Central,Fast Food,₹150,₹50,3.5,38,7
+ID_4198,Delhi Cantt.,"Chinese, Mithai",₹100,₹50,2.9,18,2
+ID_1721,"Sector 14, Noida","Chinese, Rolls",₹250,₹50,-,-,-
+ID_1687,"Yerawada, Pune, Maharashtra","Chinese, Asian, South Indian",₹350,₹50,3.7,28,23
+ID_6887,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Bakery, Ice Cream, Fast Food",₹150,₹50,3.3,7,3
+ID_2743,"Nathan Road, Mangaldas Road, Pune","North Indian, Chinese",₹350,₹50,3.6,124,56
+ID_3697,"Noorkhan Bazaar, Malakpet, Hyderabad","North Indian, Chinese",₹200,₹50,3.6,47,11
+ID_5455,"D-Block, Sector 63, Noida",North Indian,₹200,₹50,-,-,-
+ID_3456,"Mico Layout, Stage 2, BTM Layout,Bangalore","Biryani, North Indian, Chinese, Mughlai, Seafood",₹250,₹50,3.5,22,9
+ID_3605,"Mico Layout, Stage 2, BTM Layout,Bangalore",Burger,₹150,₹50,3.3,12,10
+ID_5295,Majestic,"North Indian, Street Food",₹150,₹50,4.1,168,93
+ID_7843,"D-Block, Sector 63, Noida","North Indian, Mughlai, Kebab",₹200,₹50,3.9,27,24
+ID_3087,"Moulali, Kolkata","Fast Food, Bengali",₹100,₹50,-,-,-
+ID_1975,"Rmz Centennial, I Gate, Whitefield","North Indian, Continental, Biryani, Chinese, Fast Food, Beverages",₹200,₹50,3.9,66,45
+ID_5694,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Pizza, Fast Food, Beverages",₹100,₹50,NEW,-,-
+ID_6089,Delhi University-GTB Nagar,"Ice Cream, Desserts, Fast Food",₹150,₹50,4.2,541,400
+ID_829,Delhi University-GTB Nagar,Bakery,₹50,₹99,3.2,15,3
+ID_8425,"Sector 14, Noida","North Indian, Mughlai, Momos",₹450,₹99,4.7,2133,1005
+ID_6994,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Chinese, Rolls, North Indian",₹150,₹50,3.5,18,4
+ID_5871,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Mughlai, Chinese, Momos",₹200,₹50,3.8,550,215
+ID_710,"Sector 1, Noida","Fast Food, North Indian, BBQ",₹150,₹50,2.9,12,2
+ID_4045,Delhi University-GTB Nagar,"Fast Food, Kebab",₹100,₹50,3.2,6,3
+ID_6467,"Yerawada, Pune, Maharashtra","Sandwich, Fast Food",₹100,₹50,4.1,479,235
+ID_3562,"Sector 1, Noida","Street Food, North Indian, Chinese",₹300,₹50,3.9,742,540
+ID_6556,Majestic,"Desserts, Sandwich, Pizza, Burger",₹100,₹50,3.4,11,2
+ID_8147,"FTI College, Law College Road, Pune",Fast Food,₹100,₹50,3.2,9,-
+ID_6059,"Mico Layout, Stage 2, BTM Layout,Bangalore","Street Food, Fast Food",₹100,₹50,3.7,33,7
+ID_6493,"Gora Bazar, Rajbari, North Dumdum, Kolkata",South Indian,₹150,₹50,3.6,26,8
+ID_1427,"Nathan Road, Mangaldas Road, Pune","Italian, Fast Food",₹200,₹50,3.7,101,29
+ID_5431,"FTI College, Law College Road, Pune","Chinese, Japanese, North Indian, Continental",₹550,₹50,4.1,432,258
+ID_8456,"FTI College, Law College Road, Pune","North Indian, Chinese, Biryani",₹150,₹50,NEW,-,-
+ID_5790,"Sector 1, Noida","North Indian, Chinese",₹200,₹50,3.5,62,4
+ID_5418,"Sector 1, Noida","Fast Food, Chinese",₹100,₹50,3.5,33,2
+ID_3389,Pune University,"North Indian, Biryani",₹150,₹50,3.3,31,7
+ID_7882,"Sector 3, Marathalli","North Indian, Chinese, Odia",₹150,₹50,-,-,-
+ID_4412,"Noorkhan Bazaar, Malakpet, Hyderabad",South Indian,₹50,₹50,3.6,41,9
+ID_6165,"Sector 1, Noida","Biryani, North Indian",₹150,₹50,3.6,21,1
+ID_4522,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese, Fast Food",₹200,₹99,3.9,357,114
+ID_2039,"Gora Bazar, Rajbari, North Dumdum, Kolkata","North Indian, South Indian, Chinese, Seafood",₹350,₹99,4.4,1155,566
+ID_3655,Mumbai Central,Mithai,₹100,₹99,3.9,60,15
+ID_5708,"MG Road, Pune","Pizza, Fast Food, Italian",₹400,₹50,3.6,473,306
+ID_6191,"Delhi High Court, India Gate",Mexican,₹750,₹50,4.0,677,372
+ID_4447,"Yerawada, Pune, Maharashtra",Street Food,₹100,₹50,2.8,61,44
+ID_626,"Yerawada, Pune, Maharashtra",South Indian,₹150,₹50,3.1,5,1
+ID_5205,"Sector 14, Noida","North Indian, Biryani",₹200,₹50,3.1,15,4
+ID_5771,Mumbai Central,"Cafe, Fast Food",₹200,₹50,4.0,121,80
+ID_6698,Mumbai Central,"Japanese, Sushi",₹400,₹50,NEW,-,-
+ID_3398,"Rmz Centennial, I Gate, Whitefield","Kerala, South Indian, Chinese",₹200,₹50,3.8,49,9
+ID_3116,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, South Indian, Desserts, Street Food, Mithai, Bakery, Chinese",₹250,₹50,4.0,246,77
+ID_2542,"Sector 1, Noida","Mexican, Italian",₹200,₹50,3.9,66,37
+ID_3587,"Delhi Administration Flats, Timarpur",North Indian,₹200,₹50,NEW,-,-
+ID_4297,"Tejas Nagar Colony, Wadala West, Mumbai","Bakery, Desserts",₹200,₹50,3.2,10,6
+ID_5660,"Sector 14, Noida","North Indian, Mughlai, Rolls",₹200,₹50,2.7,20,6
+ID_4506,"Panjetan Colony, Malakpet, Hyderabad","South Indian, Chinese",₹100,₹0,NEW,-,-
+ID_4493,"Chandni Chowk, Kolkata",South Indian,₹150,₹50,3.2,8,3
+ID_7195,"FTI College, Law College Road, Pune",Maharashtrian,₹100,₹50,2.8,12,5
+ID_2851,Mumbai Central,"Juices, Beverages",₹100,₹50,3.2,9,2
+ID_1694,"Yerawada, Pune, Maharashtra",Chinese,₹200,₹50,3.6,216,101
+ID_1700,"D-Block, Sector 63, Noida",Chinese,₹250,₹50,3.3,8,2
+ID_5648,"FTI College, Law College Road, Pune","Pizza, Italian",₹200,₹50,3.8,27,18
+ID_386,"Sector 3, Marathalli","North Indian, Chinese, Fast Food",₹150,₹50,3.3,246,43
+ID_7014,"Nathan Road, Mangaldas Road, Pune","Chinese, North Indian, Maharashtrian",₹250,₹50,3.3,47,23
+ID_1547,"Delhi Administration Flats, Timarpur",North Indian,₹100,₹50,NEW,-,-
+ID_6149,"Delhi Administration Flats, Timarpur","Tibetan, Chinese, Italian",₹250,₹50,4.1,886,563
+ID_2037,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese, Biryani",₹250,₹50,3.4,104,46
+ID_207,Delhi University-GTB Nagar,"Mithai, Street Food",₹100,₹50,3.7,62,10
+ID_602,"Tejas Nagar Colony, Wadala West, Mumbai",Bakery,₹150,₹50,4.3,77,56
+ID_3819,"Delhi Administration Flats, Timarpur","Chinese, Momos",₹200,₹50,3.8,335,72
+ID_192,"Sector 14, Noida",Arabian,₹200,₹50,2.9,8,5
+ID_8436,"D-Block, Sector 63, Noida","Biryani, North Indian",₹200,₹50,3.3,26,15
+ID_1571,"Sector 1, Noida","North Indian, Mughlai",₹250,₹99,3.2,104,47
+ID_1443,"Tiretti, Kolkata",Fast Food,₹100,₹50,3.3,11,1
+ID_1228,Pune University,"Cafe, Iranian",₹150,₹50,4.1,114,74
+ID_6049,"Panjetan Colony, Malakpet, Hyderabad","South Indian, Beverages",₹100,₹50,3.5,18,7
+ID_3969,"Mico Layout, Stage 2, BTM Layout,Bangalore","Beverages, Desserts, Ice Cream",₹200,₹50,3.9,41,14
+ID_899,"Sector 3, Marathalli","North Indian, Chinese, Biryani",₹200,₹50,3.6,808,111
+ID_2412,"Sector 3, Marathalli","North Indian, Chinese, Biryani",₹200,₹50,3.2,85,28
+ID_7191,"Tejas Nagar Colony, Wadala West, Mumbai","Desserts, Bakery",₹200,₹50,3.7,27,21
+ID_7039,"Sector 3, Marathalli","North Indian, Chinese, Biryani",₹200,₹50,2.6,113,16
+ID_1570,"D-Block, Sector 63, Noida","Chinese, North Indian, Mughlai",₹350,₹50,3.8,77,58
+ID_1902,"Sector 1, Noida","Chinese, Thai",₹450,₹50,3.4,20,6
+ID_4131,"Delhi High Court, India Gate","North Indian, Mughlai, Kebab, Rolls",₹300,₹50,3.9,156,89
+ID_4317,"Sector 3, Marathalli","Fast Food, Burger, Continental, Wraps, Beverages",₹300,₹50,4.1,854,333
+ID_5541,"Sector 3, Marathalli","North Indian, Mughlai",₹200,₹50,NEW,-,-
+ID_8093,"Nathan Road, Mangaldas Road, Pune","Seafood, Chinese, Fast Food, North Indian, Maharashtrian",₹200,₹50,3.2,8,4
+ID_3796,"Sector 1, Noida","Bakery, North Indian",₹150,₹50,NEW,-,-
+ID_4460,"Hyderabad Public School, Begumpet","Biryani, South Indian, Chinese",₹250,₹50,3.6,33,11
+ID_8302,"Sector 1, Noida","North Indian, Rolls",₹200,₹50,3.5,-,-
+ID_8422,"D-Block, Sector 63, Noida","Beverages, Desserts",₹250,₹50,2.8,23,17
+ID_6329,"MG Road, Pune",Chinese,₹200,₹50,-,-,-
+ID_2435,"FTI College, Law College Road, Pune",Fast Food,₹200,₹50,-,-,-
+ID_3721,"MG Road, Pune","Biryani, North Indian",₹200,₹99,2.7,30,2
+ID_4549,"Mico Layout, Stage 2, BTM Layout,Bangalore",South Indian,₹250,₹50,3.6,19,4
+ID_6690,"Mico Layout, Stage 2, BTM Layout,Bangalore","Mangalorean, Seafood, North Indian",₹550,₹50,3.6,53,23
+ID_2913,"Sector 63A,Gurgaon","Chinese, Thai",₹300,₹50,3.6,195,105
+ID_2421,"MG Road, Pune","Continental, North Indian, Mughlai, Italian, Asian",₹700,₹50,4.5,3727,1818
+ID_5090,"Yerawada, Pune, Maharashtra","Fast Food, Italian, Beverages",₹200,₹50,3.9,327,173
+ID_6602,"Rmz Centennial, I Gate, Whitefield","Biryani, Chinese",₹200,₹50,-,-,-
+ID_7121,"Sector 3, Marathalli","South Indian, North Indian",₹150,₹50,-,-,-
+ID_7774,"Sector 1, Noida",Healthy Food,₹200,₹50,2.9,28,17
+ID_1246,"Dockyard Road, Mumbai CST Area","Continental, Fast Food",₹200,₹50,4.1,30,28
+ID_7509,"Mico Layout, Stage 2, BTM Layout,Bangalore",Desserts,₹150,₹50,4.0,71,42
+ID_1270,"Sector 1, Noida","North Indian, South Indian",₹150,₹50,-,-,-
+ID_4179,"D-Block, Sector 63, Noida",North Indian,₹200,₹50,3.3,9,5
+ID_1643,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹200,₹50,4.0,208,93
+ID_4370,"Sandhurst Road, Mumbai CST Area","Desserts, Beverages",₹200,₹50,4.0,79,43
+ID_1671,"Tejas Nagar Colony, Wadala West, Mumbai","Fast Food, Beverages",₹150,₹50,3.4,19,3
+ID_6142,"D-Block, Sector 63, Noida","Chinese, North Indian",₹150,₹50,3.4,31,27
+ID_1663,"Sector 3, Marathalli","North Indian, Chinese, Mughlai",₹200,₹50,-,-,-
+ID_17,"D-Block, Sector 63, Noida","North Indian, Chinese",₹200,₹50,3.7,145,22
+ID_1486,"Delhi High Court, India Gate","Tea, Fast Food",₹100,₹50,3.7,28,24
+ID_4570,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese, Mangalorean",₹150,₹50,3.5,22,6
+ID_5716,"Delhi Administration Flats, Timarpur","Pizza, Fast Food",₹200,₹50,3.6,43,14
+ID_1657,Mumbai Central,"North Indian, South Indian, Beverages, Desserts",₹200,₹50,3.1,5,4
+ID_1082,"Sector 63A,Gurgaon","Fast Food, Beverages",₹300,₹99,3.7,90,24
+ID_6363,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, North Indian, Chinese",₹150,₹50,3.5,64,33
+ID_5656,"MG Road, Pune","North Indian, Mughlai, Kebab, Chinese, Desserts",₹300,₹50,3.5,107,56
+ID_1158,Delhi University-GTB Nagar,"Burger, Wraps, Desserts, Sandwich, Healthy Food",₹200,₹50,4.1,321,146
+ID_767,"D-Block, Sector 63, Noida",North Indian,₹150,₹99,2.9,53,31
+ID_4306,"Chandni Chowk, Kolkata","Salad, Italian, Burmese, Mexican",₹200,₹50,4.0,69,46
+ID_3585,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, Andhra, Biryani",₹150,₹50,-,-,-
+ID_3678,"Noorkhan Bazaar, Malakpet, Hyderabad",South Indian,₹100,₹50,3.4,18,1
+ID_7299,Mumbai Central,"Bakery, Desserts",₹150,₹50,3.8,72,33
+ID_765,"Sector 1, Noida",North Indian,₹200,₹50,3.1,6,2
+ID_5853,"Sector 3, Marathalli","Street Food, North Indian, Fast Food",₹100,₹50,4.1,745,352
+ID_5486,"Delhi High Court, India Gate","North Indian, Chinese, Ice Cream",₹200,₹50,3.7,92,47
+ID_3447,"Mico Layout, Stage 2, BTM Layout,Bangalore","Bengali, North Indian",₹100,₹50,3.1,24,15
+ID_7636,"Sector 1, Noida",Chinese,₹150,₹50,3.5,11,8
+ID_4862,"Babarpur, New Delhi, Delhi",Bakery,₹100,₹50,-,-,-
+ID_5028,"Sector 63A,Gurgaon",South Indian,₹250,₹50,4.0,1093,471
+ID_3312,Mumbai Central,"Fast Food, Beverages",₹150,₹50,3.5,45,8
+ID_3371,"Panjetan Colony, Malakpet, Hyderabad","North Indian, Chinese, Mughlai",₹200,₹50,3.2,10,1
+ID_3711,"MG Road, Pune","Fast Food, North Indian, Beverages",₹150,₹50,3.1,10,3
+ID_74,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹150,₹50,-,-,-
+ID_601,"Sandhurst Road, Mumbai CST Area","Bakery, Desserts",₹100,₹50,3.9,41,28
+ID_2328,"Jaya Nagar, Saidabad, Hyderabad",South Indian,₹100,₹50,NEW,-,-
+ID_6136,"Sector 14, Noida","Raw Meats, North Indian, Fast Food",₹200,₹50,3.6,60,31
+ID_889,"Delhi High Court, India Gate","Biryani, Mughlai, Kebab, North Indian",₹350,₹99,4.1,608,467
+ID_6064,"Sector 3, Marathalli","North Indian, Chinese, Biryani",₹200,₹50,2.8,336,121
+ID_456,"Delhi Administration Flats, Timarpur","North Indian, Chinese",₹200,₹50,3.7,442,118
+ID_7382,"Delhi Administration Flats, Timarpur","Asian, Japanese, Chinese, Thai, Malaysian, Sushi, Vietnamese",₹550,₹50,4.1,150,75
+ID_5941,"Raja Bazar, Kolkata","Cafe, Salad",₹350,₹50,3.9,659,407
+ID_5686,Delhi Cantt.,"Pizza, Italian",₹100,₹50,3.9,108,32
+ID_7609,Mumbai Central,"Bakery, Desserts",₹150,₹50,3.6,42,18
+ID_1547,Delhi University-GTB Nagar,North Indian,₹100,₹50,NEW,-,-
+ID_6858,"Sector 1, Noida","Bakery, Desserts",₹200,₹50,3.7,39,25
+ID_6234,"D-Block, Sector 63, Noida","Rolls, Fast Food, Beverages",₹200,₹50,3.7,-,-
+ID_7861,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, South Indian, Chinese",₹150,₹50,3.4,9,4
+ID_4275,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Mughlai, Biryani",₹250,₹50,3.2,935,499
+ID_7051,"Mico Layout, Stage 2, BTM Layout,Bangalore",Andhra,₹150,₹50,3.7,76,9
+ID_7750,Delhi University-GTB Nagar,"Asian, Biryani, North Indian, Desserts",₹200,₹99,3.9,67,43
+ID_6766,Delhi Cantt.,North Indian,₹100,₹50,3.7,65,19
+ID_8530,"Sandhurst Road, Mumbai CST Area","Desserts, Beverages",₹200,₹50,3.6,27,10
+ID_2335,Delhi University-GTB Nagar,South Indian,₹200,₹50,3.2,185,22
+ID_7417,"Delhi High Court, India Gate",North Indian,₹150,₹50,-,-,-
+ID_4553,"Babarpur, New Delhi, Delhi",Chinese,₹100,₹50,3.7,-,-
+ID_4495,"Sandhurst Road, Mumbai CST Area","Juices, Beverages",₹100,₹50,3.5,35,6
+ID_5400,"Nathan Road, Mangaldas Road, Pune","Pizza, Italian, Fast Food, Desserts",₹300,₹50,4.8,3577,2640
+ID_7852,"Delhi Administration Flats, Timarpur",Chinese,₹200,₹50,3.1,5,-
+ID_2246,"Babarpur, New Delhi, Delhi","Healthy Food, Sandwich, Salad, Burger",₹100,₹50,3.3,14,5
+ID_7031,"Yerawada, Pune, Maharashtra","Rolls, Biryani",₹200,₹50,3.8,64,28
+ID_2815,"Rmz Centennial, I Gate, Whitefield","Thai, Chinese",₹250,₹50,3.8,197,91
+ID_1864,"Mico Layout, Stage 2, BTM Layout,Bangalore","Desserts, Ice Cream",₹150,₹50,NEW,-,-
+ID_2376,"Musi Nagar, Malakpet, Hyderabad",South Indian,₹50,₹50,3.5,12,2
+ID_5538,"Panjetan Colony, Malakpet, Hyderabad","North Indian, Beverages",₹100,₹50,2.8,4,3
+ID_7439,"Dockyard Road, Mumbai CST Area","Fast Food, Mughlai, Chinese",₹250,₹50,3.0,5,-
+ID_7689,"D-Block, Sector 63, Noida","Chinese, Thai",₹200,₹50,3.3,362,172
+ID_666,Majestic,"Street Food, Fast Food",₹100,₹50,3.5,12,1
+ID_5938,"Delhi Administration Flats, Timarpur",North Indian,₹100,₹50,NEW,-,-
+ID_5656,"Nathan Road, Mangaldas Road, Pune","North Indian, Mughlai, Kebab, Chinese, Desserts",₹300,₹50,3.5,107,56
+ID_1520,"Sector 3, Marathalli","Chinese, Odia, Bengali, North Indian",₹150,₹50,2.8,10,4
+ID_1826,"Sector 1, Noida",South Indian,₹200,₹50,3.7,57,25
+ID_523,"Rmz Centennial, I Gate, Whitefield",North Indian,₹150,₹50,3.5,10,-
+ID_1798,"MG Road, Pune","North Indian, Chinese, Continental",₹400,₹50,3.4,10,3
+ID_5600,Delhi University-GTB Nagar,"Rolls, Chinese",₹100,₹50,3.1,4,-
+ID_388,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese, Biryani, Andhra",₹300,₹50,3.6,25,2
+ID_7583,"Chandni Chowk, Kolkata","Sandwich, Italian, Desserts",₹250,₹50,3.8,224,129
+ID_188,"Panjetan Colony, Malakpet, Hyderabad","North Indian, Mughlai",₹150,₹50,3.3,4,2
+ID_1739,"Delhi High Court, India Gate","North Indian, Chinese, South Indian",₹150,₹50,3.7,87,30
+ID_6505,"Delhi High Court, India Gate","South Indian, Desserts, Beverages",₹200,₹50,4.3,2962,1734
+ID_4085,"Nathan Road, Mangaldas Road, Pune","Italian, European, North Indian","₹1,200",₹50,3.9,220,154
+ID_8398,"D-Block, Sector 63, Noida",Desserts,₹200,₹50,3.8,66,55
+ID_515,"Raja Bazar, Kolkata",Fast Food,₹100,₹50,3.8,61,11
+ID_4654,"Sector 14, Noida","Burger, Fast Food",₹200,₹50,4.0,401,137
+ID_1431,"Sector 3, Marathalli","Beverages, Fast Food",₹150,₹50,3.2,4,3
+ID_2960,"Mico Layout, Stage 2, BTM Layout,Bangalore",Street Food,₹100,₹50,3.8,79,22
+ID_3312,"Sandhurst Road, Mumbai CST Area","Fast Food, Beverages",₹150,₹50,3.5,45,8
+ID_5560,Majestic,"Biryani, Kebab",₹150,₹50,3.2,5,-
+ID_7894,"Sector 1, Noida",North Indian,₹150,₹50,2.6,133,10
+ID_3973,"Sandhurst Road, Mumbai CST Area","Lebanese, Fast Food",₹150,₹50,3.0,9,5
+ID_4969,"Delhi High Court, India Gate",Biryani,₹150,₹50,3.1,9,3
+ID_7263,"Sector 14, Noida","North Indian, Chinese, Mughlai",₹250,₹50,3.9,106,50
+ID_6706,"Rmz Centennial, I Gate, Whitefield","South Indian, Chinese, North Indian",₹200,₹50,2.9,14,10
+ID_549,"Sector 14, Noida","North Indian, Chinese, Pizza, Rolls, Bakery, Beverages, Mithai",₹150,₹50,3.6,348,139
+ID_8225,"Sector 63A,Gurgaon","North Indian, Fast Food, Chinese, Beverages",₹600,₹50,-,-,-
+ID_8495,"Hyderabad Public School, Begumpet","Continental, American, Italian, Salad, North Indian, Desserts, Beverages",₹200,₹50,2.9,18,9
+ID_4708,"Dockyard Road, Mumbai CST Area","Bakery, Desserts",₹250,₹50,-,-,-
+ID_428,"MG Road, Pune",Maharashtrian,₹150,₹50,3.2,8,1
+ID_3335,"FTI College, Law College Road, Pune",Chinese,₹200,₹50,NEW,-,-
+ID_768,"Delhi High Court, India Gate","North Indian, South Indian",₹300,₹0,3.9,379,192
+ID_2393,"Nathan Road, Mangaldas Road, Pune","Salad, Fast Food, South Indian, North Indian",₹200,₹50,3.4,40,29
+ID_5417,Mumbai Central,Fast Food,₹150,₹50,3.0,61,8
+ID_4227,"FTI College, Law College Road, Pune","Cafe, Fast Food",₹200,₹50,3.3,20,9
+ID_4317,Majestic,"Burger, Fast Food, Continental",₹300,₹50,4.3,367,179
+ID_6514,Delhi University-GTB Nagar,"Beverages, Desserts, Fast Food",₹300,₹50,3.9,53,32
+ID_8614,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Biryani, Mughlai",₹100,₹50,-,-,-
+ID_907,Delhi University-GTB Nagar,Biryani,₹150,₹0,-,-,-
+ID_1213,"Nathan Road, Mangaldas Road, Pune","American, Asian, Continental",₹450,₹50,4.0,1090,667
+ID_5383,"Rmz Centennial, I Gate, Whitefield","Biryani, Mughlai, Chinese, Seafood",₹250,₹50,-,-,-
+ID_3710,"Chandni Chowk, Kolkata","Cafe, Chinese, Italian, Continental, North Indian, Mexican, Momos",₹400,₹50,4.1,925,582
+ID_1940,"D-Block, Sector 63, Noida",Bakery,₹100,₹99,3.4,15,3
+ID_2956,Majestic,"North Indian, Chinese",₹200,₹50,-,-,-
+ID_4985,"Babarpur, New Delhi, Delhi",North Indian,₹200,₹0,-,-,-
+ID_6709,Delhi Cantt.,"North Indian, Rolls",₹100,₹99,3.7,77,10
+ID_7583,"Moulali, Kolkata","Sandwich, Italian, Desserts",₹250,₹50,3.8,224,129
+ID_2142,"Sector 14, Noida","North Indian, Chinese, Rolls",₹150,₹99,4.3,1255,495
+ID_2326,"Dockyard Road, Mumbai CST Area",South Indian,₹100,₹50,2.9,10,3
+ID_4135,"Moulali, Kolkata","Bakery, Desserts, Fast Food",₹250,₹50,4.1,176,94
+ID_667,"Delhi High Court, India Gate","Chinese, North Indian, Street Food",₹200,₹50,2.3,105,46
+ID_5093,Delhi Cantt.,South Indian,₹200,₹50,-,-,-
+ID_259,"MG Road, Pune","Mughlai, North Indian",₹200,₹50,3.8,198,22
+ID_6729,"Sector 1, Noida","North Indian, Mughlai, Chinese",₹150,₹50,3.6,35,4
+ID_1920,Pune University,Bakery,₹100,₹50,3.3,16,3
+ID_1073,"Delhi High Court, India Gate",North Indian,₹100,₹50,3.2,11,7
+ID_5033,"Raja Bazar, Kolkata",Mishti,₹50,₹50,4.2,425,131
+ID_3896,Mumbai Central,"North Indian, Chinese, South Indian, Fast Food, Street Food",₹350,₹50,3.8,272,128
+ID_6588,Mumbai Central,Fast Food,₹100,₹50,2.8,12,6
+ID_7556,"Mico Layout, Stage 2, BTM Layout,Bangalore","Biryani, North Indian",₹150,₹50,4.0,74,36
+ID_4679,Mumbai Central,Fast Food,₹150,₹50,3.4,18,1
+ID_6854,"Sector 1, Noida",Bakery,₹100,₹99,3.5,19,7
+ID_1279,"Rmz Centennial, I Gate, Whitefield","North Indian, Sandwich",₹200,₹50,3.8,391,167
+ID_4628,"Noorkhan Bazaar, Malakpet, Hyderabad","Arabian, Mithai",₹200,₹50,3.6,52,7
+ID_5538,"Sector 1, Noida","North Indian, Beverages",₹100,₹50,-,-,-
+ID_6391,"Sector 1, Noida","North Indian, Chinese",₹200,₹99,3.0,125,24
+ID_7332,"Delhi High Court, India Gate","Continental, North Indian, Asian, Thai",₹600,₹50,3.8,1127,726
+ID_7613,"Sector 14, Noida","Bakery, Fast Food",₹150,₹99,2.7,42,10
+ID_3616,"MG Road, Pune","Cafe, Chinese",₹150,₹50,3.5,21,14
+ID_4654,"MG Road, Pune","Burger, Fast Food",₹200,₹50,3.8,281,111
+ID_8031,"Nathan Road, Mangaldas Road, Pune",North Indian,₹100,₹99,3.5,18,4
+ID_288,"D-Block, Sector 63, Noida",Lebanese,₹100,₹50,3.1,4,-
+ID_6590,Delhi University-GTB Nagar,"Chinese, North Indian",₹150,₹50,3.7,39,22
+ID_7569,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Fast Food,₹100,₹50,3.5,27,7
+ID_3403,"Hyderabad Public School, Begumpet",South Indian,₹100,₹99,2.9,72,9
+ID_7493,"Sector 1, Noida","North Indian, Chinese, South Indian",₹200,₹50,3.0,5,2
+ID_5571,"Panjetan Colony, Malakpet, Hyderabad","North Indian, Mughlai, Lebanese",₹150,₹50,3.4,190,10
+ID_4186,"Delhi Administration Flats, Timarpur","North Indian, Chinese, Fast Food",₹200,₹50,3.7,166,48
+ID_3480,"Delhi Administration Flats, Timarpur","Chinese, North Indian",₹200,₹50,3.5,25,12
+ID_8069,"Sector 63A,Gurgaon",Fast Food,₹200,₹99,3.8,119,66
+ID_8512,"Yerawada, Pune, Maharashtra",American,₹300,₹50,3.8,20,13
+ID_2409,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese, Fast Food",₹300,₹50,3.8,65,39
+ID_5571,"Musi Nagar, Malakpet, Hyderabad","North Indian, Mughlai, Lebanese",₹150,₹50,3.4,190,10
+ID_6640,"Delhi Administration Flats, Timarpur","Chinese, North Indian",₹200,₹50,3.7,95,51
+ID_6607,"Nathan Road, Mangaldas Road, Pune",North Indian,₹150,₹50,4.4,769,319
+ID_3676,"Nathan Road, Mangaldas Road, Pune",Biryani,₹200,₹50,4.0,-,-
+ID_2839,Mumbai Central,"Fast Food, Sandwich",₹150,₹50,-,-,-
+ID_2483,"Delhi Administration Flats, Timarpur","North Indian, Fast Food, Biryani, Rolls, Wraps",₹250,₹50,3.9,373,122
+ID_8129,"Chandni Chowk, Kolkata","Chinese, North Indian",₹100,₹50,3.8,85,27
+ID_6054,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, Beverages",₹150,₹50,3.6,24,10
+ID_8605,"Dockyard Road, Mumbai CST Area","North Indian, Desserts, Beverages",₹200,₹50,3.0,8,7
+ID_607,Pune University,"Bakery, Fast Food",₹200,₹50,3.5,76,33
+ID_2512,"Sector 1, Noida","South Indian, Chinese",₹100,₹50,2.9,9,2
+ID_1261,"FTI College, Law College Road, Pune",Fast Food,₹100,₹50,-,-,-
+ID_1209,"Tiretti, Kolkata","Cafe, Desserts",₹300,₹50,3.6,54,34
+ID_4104,"Sector 3, Marathalli",Chinese,₹100,₹50,-,-,-
+ID_4050,"Delhi Administration Flats, Timarpur","Street Food, Chinese, Momos, Burger, Sandwich, Lebanese",₹100,₹50,4.0,-,-
+ID_1455,"Sector 1, Noida","North Indian, Chinese",₹200,₹50,NEW,-,-
+ID_1895,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Pizza, Fast Food, Chinese",₹150,₹50,3.0,10,6
+ID_1803,"D-Block, Sector 63, Noida","Pizza, Chinese",₹150,₹50,NEW,-,-
+ID_7223,"Sector 14, Noida",Bakery,₹150,₹50,3.7,79,12
+ID_3061,"Delhi High Court, India Gate","North Indian, Mughlai",₹100,₹50,-,-,-
+ID_4240,"Moulali, Kolkata",Fast Food,₹100,₹50,-,-,-
+ID_2035,Delhi University-GTB Nagar,"Biryani, North Indian",₹150,₹50,3.5,83,22
+ID_7563,"D-Block, Sector 63, Noida","Biryani, Kebab",₹150,₹50,3.4,20,4
+ID_2402,"Rmz Centennial, I Gate, Whitefield","Healthy Food, North Indian, Biryani, Continental, Beverages",₹200,₹50,4.2,1285,282
+ID_3690,"Delhi High Court, India Gate","Bakery, Fast Food",₹150,₹50,2.9,6,1
+ID_4536,Majestic,"Beverages, Ice Cream",₹100,₹50,-,-,-
+ID_1544,"Dockyard Road, Mumbai CST Area",Street Food,₹100,₹50,3.3,9,4
+ID_5903,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,₹100,₹50,3.1,5,4
+ID_5626,"MG Road, Pune","Chinese, Seafood",₹200,₹50,3.3,10,5
+ID_6713,"FTI College, Law College Road, Pune","Fast Food, Street Food",₹150,₹50,3.0,4,-
+ID_4824,"Sandhurst Road, Mumbai CST Area","Momos, Fast Food",₹50,₹50,3.6,29,15
+ID_2028,"Mico Layout, Stage 2, BTM Layout,Bangalore",Odia,₹250,₹99,3.9,527,264
+ID_6771,Delhi University-GTB Nagar,"South Indian, Chinese",₹150,₹50,3.5,40,22
+ID_6906,"Rmz Centennial, I Gate, Whitefield","South Indian, North Indian, Chinese, Biryani, Fast Food",₹150,₹50,3.3,92,20
+ID_4444,"Babarpur, New Delhi, Delhi","Continental, Beverages",₹100,₹50,Opening Soon,-,-
+ID_2231,"Mico Layout, Stage 2, BTM Layout,Bangalore","Continental, Cafe, Pizza, Fast Food, Steak",₹400,₹50,4.2,1977,999
+ID_5161,"Musi Nagar, Malakpet, Hyderabad","Bakery, Fast Food, Biryani",₹100,₹50,NEW,-,-
+ID_5252,"Babarpur, New Delhi, Delhi","Ice Cream, Desserts, Fast Food",₹250,₹50,3.4,24,7
+ID_4074,"D-Block, Sector 63, Noida","North Indian, Chinese, Continental",₹600,₹50,4.2,53,45
+ID_8252,Delhi University-GTB Nagar,Fast Food,₹50,₹50,3.4,17,7
+ID_1194,"D-Block, Sector 63, Noida","South Indian, North Indian, Chinese, Fast Food",₹150,₹50,3.3,7,4
+ID_581,"Delhi Administration Flats, Timarpur","North Indian, Street Food, Chinese",₹150,₹50,3.8,287,68
+ID_8577,"Babarpur, New Delhi, Delhi",North Indian,₹100,₹50,NEW,-,-
+ID_5916,"Sector 1, Noida",North Indian,₹200,₹50,2.7,22,15
+ID_6153,"Sector 3, Marathalli","North Indian, Chinese, Fast Food",₹200,₹50,3.3,9,3
+ID_3512,Pune University,"Biryani, North Indian",₹100,₹50,NEW,-,-
+ID_7328,"Rmz Centennial, I Gate, Whitefield","Continental, Chinese, Fast Food",₹200,₹50,3.0,39,12
+ID_898,"FTI College, Law College Road, Pune","North Indian, Biryani",₹150,₹50,3.1,36,4
+ID_1355,Majestic,Bakery,₹200,₹50,3.4,19,1
+ID_720,Pune University,"Biryani, North Indian, Mughlai",₹300,₹50,4.2,297,108
+ID_1446,"Gora Bazar, Rajbari, North Dumdum, Kolkata","South Indian, Street Food, North Indian",₹100,₹50,3.5,92,36
+ID_477,"Mico Layout, Stage 2, BTM Layout,Bangalore",Biryani,₹100,₹50,3.6,-,-
+ID_4446,"Sector 14, Noida","Bakery, Desserts",₹200,₹50,4.2,237,141
+ID_1067,"Mico Layout, Stage 2, BTM Layout,Bangalore","Chinese, Fast Food, Beverages",₹300,₹50,2.9,69,29
+ID_2268,"Delhi High Court, India Gate","North Indian, Chinese",₹200,₹50,3.7,83,41
+ID_6213,Delhi University-GTB Nagar,"Chinese, Fast Food, Rolls",₹100,₹50,3.6,45,9
+ID_7101,"Sector 3, Marathalli","Mithai, Street Food",₹150,₹50,3.7,29,11
+ID_6688,"Rmz Centennial, I Gate, Whitefield","North Indian, Chinese",₹600,₹50,3.8,469,291
+ID_5111,"Delhi High Court, India Gate","North Indian, Mughlai",₹300,₹50,3.8,131,68
+ID_7079,"Hyderabad Public School, Begumpet","Juices, Beverages",₹100,₹50,4.0,113,12
+ID_6044,"D-Block, Sector 63, Noida","Chinese, Momos",₹150,₹50,3.6,50,21
+ID_4692,"Delhi Administration Flats, Timarpur",Chinese,₹100,₹50,-,-,-
+ID_1847,"Rmz Centennial, I Gate, Whitefield","Ice Cream, Beverages, Desserts",₹150,₹50,3.0,18,5
+ID_849,"Delhi High Court, India Gate","Biryani, North Indian, Andhra",₹400,₹50,3.9,2036,1252
+ID_7212,Delhi Cantt.,"North Indian, Fast Food",₹150,₹50,3.6,51,14
+ID_3431,"Sector 1, Noida",Desserts,₹100,₹50,3.6,12,11
+ID_6012,"Sector 1, Noida","North Indian, Chinese, South Indian, Fast Food",₹200,₹50,3.4,132,33
+ID_2571,"D-Block, Sector 63, Noida","North Indian, Chinese, Mughlai",₹250,₹50,3.5,52,40
+ID_7176,"Sector 1, Noida","Burger, Fast Food, Desserts",₹150,₹50,3.6,112,44
+ID_7564,"Delhi High Court, India Gate","Biryani, North Indian",₹150,₹50,NEW,-,-
+ID_3935,"Tejas Nagar Colony, Wadala West, Mumbai",Rolls,₹150,₹99,4.3,1389,699
+ID_8399,Delhi University-GTB Nagar,Desserts,₹150,₹50,4.3,497,262
+ID_8036,"D-Block, Sector 63, Noida","Biryani, North Indian",₹300,₹50,4.0,47,43
+ID_1224,"Mico Layout, Stage 2, BTM Layout,Bangalore",Cafe,₹250,₹99,4.2,926,577
+ID_6134,"Dockyard Road, Mumbai CST Area","Chinese, North Indian, Thai, Fast Food, Seafood",₹400,₹50,3.8,149,74
+ID_891,"Delhi High Court, India Gate","Kebab, Biryani, North Indian",₹250,₹50,3.3,23,16
+ID_635,"Chandni Chowk, Kolkata",Mishti,₹50,₹99,4.4,1512,579
+ID_2318,Mumbai Central,"Finger Food, American, Italian",₹800,₹50,4.1,841,378
+ID_5848,"Delhi Administration Flats, Timarpur","North Indian, Fast Food",₹200,₹50,3.2,11,6
+ID_6750,"Nathan Road, Mangaldas Road, Pune","North Indian, South Indian, Chinese",₹250,₹50,-,-,-
+ID_6319,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",Street Food,₹50,₹50,3.7,42,12
+ID_2170,"D-Block, Sector 63, Noida","North Indian, Chinese",₹250,₹50,3.8,182,84
+ID_873,"FTI College, Law College Road, Pune","North Indian, Biryani, Hyderabadi, Mughlai",₹300,₹50,3.8,18,15
+ID_82,"Hyderabad Public School, Begumpet","South Indian, Hyderabadi",₹200,₹50,3.2,7,2
+ID_8529,"Delhi Administration Flats, Timarpur","Cafe, Fast Food",₹300,₹50,4.7,399,321
+ID_2105,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹250,₹50,3.4,45,19
+ID_6205,"Sector 1, Noida","Rolls, Biryani",₹150,₹50,3.8,455,182
+ID_1342,"Chandni Chowk, Kolkata",Bakery,₹150,₹99,2.8,177,81
+ID_7892,Pune University,"Desserts, Beverages",₹200,₹50,4.3,144,86
+ID_8403,"Rmz Centennial, I Gate, Whitefield",Desserts,₹150,₹50,3.5,12,9
+ID_1661,"Sector 1, Noida","North Indian, Mughlai, Chinese, Continental, Fast Food, Kebab",₹300,₹50,3.6,120,40
+ID_3374,"Panjetan Colony, Malakpet, Hyderabad",North Indian,₹200,₹50,3.2,11,3
+ID_4446,"Sector 1, Noida","Bakery, Desserts",₹200,₹50,4.2,237,141
+ID_3878,"Babarpur, New Delhi, Delhi",North Indian,₹200,₹50,3.4,22,11
+ID_7358,"Babarpur, New Delhi, Delhi","North Indian, Rolls",₹150,₹50,NEW,-,-
+ID_626,"MG Road, Pune",South Indian,₹150,₹99,3.1,5,1
+ID_4345,"Dockyard Road, Mumbai CST Area","North Indian, Chinese, Italian, Finger Food, American",₹800,₹99,4.4,1102,766
+ID_1338,"Sector 3, Marathalli","Bakery, Desserts",₹200,₹99,3.6,26,8
+ID_3029,Pune University,"North Indian, Chinese, Seafood",₹350,₹50,3.7,40,20
+ID_1027,"Sandhurst Road, Mumbai CST Area","North Indian, Chinese, Italian",₹450,₹99,4.2,1636,1357
+ID_1504,"Delhi Administration Flats, Timarpur","Fast Food, Chinese, Continental",₹150,₹50,3.9,1032,334
+ID_4672,"Chandni Chowk, Kolkata","Chinese, North Indian",₹150,₹50,2.5,17,5
+ID_2092,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","BBQ, Fast Food, Kebab, Mughlai, North Indian",₹200,₹50,3.7,141,21
+ID_1012,"Dockyard Road, Mumbai CST Area","Mughlai, Biryani, Chinese, Rolls, BBQ",₹200,₹50,3.3,131,42
+ID_7334,"Mico Layout, Stage 2, BTM Layout,Bangalore","Fast Food, Beverages",₹200,₹50,4.2,782,468
+ID_2127,"Sector 1, Noida","North Indian, Chinese",₹250,₹99,3.6,182,65
+ID_596,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Bakery, Desserts, Fast Food",₹250,₹99,3.8,27,23
+ID_4168,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Chinese",₹150,₹99,4.3,321,178
+ID_5726,"Babarpur, New Delhi, Delhi","Pizza, Fast Food",₹150,₹50,3.3,8,3
+ID_4023,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Healthy Food, Salad, Lebanese",₹200,₹50,3.7,49,23
+ID_3262,"Sector 14, Noida","Mithai, North Indian, South Indian",₹200,₹50,4.0,292,163
+ID_2134,"Mico Layout, Stage 2, BTM Layout,Bangalore","Chinese, Biryani, North Indian",₹300,₹50,3.6,13,10
+ID_1219,"Sector 1, Noida",North Indian,₹200,₹50,4.0,71,55
+ID_6434,"Nathan Road, Mangaldas Road, Pune",Fast Food,₹100,₹50,-,-,-
+ID_7235,"Musi Nagar, Malakpet, Hyderabad","South Indian, Chinese",₹150,₹50,3.1,5,-
+ID_4143,Delhi University-GTB Nagar,North Indian,₹100,₹50,3.0,4,-
+ID_2858,"Sector 1, Noida",North Indian,₹150,₹50,3.8,552,123
+ID_6255,"Sandhurst Road, Mumbai CST Area","Iranian, North Indian, Mughlai, Chinese, Bakery",₹400,₹50,3.8,197,90
+ID_792,"Delhi High Court, India Gate",North Indian,₹100,₹50,3.7,113,33
+ID_6659,"Musi Nagar, Malakpet, Hyderabad",Chinese,₹100,₹50,-,-,-
+ID_686,"D-Block, Sector 63, Noida","Coffee, Cafe, Fast Food, Desserts, Beverages",₹250,₹50,3.7,60,39
+ID_7858,"Yerawada, Pune, Maharashtra","Continental, North Indian, Thai",₹550,₹50,4.6,391,220
+ID_7283,"D-Block, Sector 63, Noida",Bakery,₹100,₹50,4.1,29,26
+ID_8150,"Babarpur, New Delhi, Delhi","Chinese, South Indian",₹150,₹99,3.1,34,3
+ID_8100,"Babarpur, New Delhi, Delhi","Cafe, Desserts",₹200,₹50,3.3,13,1
+ID_4216,"D-Block, Sector 63, Noida","Pizza, Italian",₹200,₹50,3.9,377,195
+ID_68,"Sector 1, Noida","Chinese, North Indian",₹200,₹50,3.2,9,1
+ID_4595,"Tejas Nagar Colony, Wadala West, Mumbai","North Indian, Chinese",₹150,₹50,NEW,-,-
+ID_7482,"Sector 1, Noida","Bakery, Fast Food",₹100,₹50,3.6,37,15
+ID_6133,"Hyderabad Public School, Begumpet","Bakery, Fast Food",₹100,₹50,3.9,148,30
+ID_3629,"Sector 14, Noida","North Indian, Italian, Continental, Lebanese, Desserts, Beverages",₹200,₹0,-,-,-
+ID_6522,"Yerawada, Pune, Maharashtra","Bakery, Desserts, Ice Cream",₹200,₹50,4.4,423,188
+ID_3371,"Chatta Bazaar, Malakpet, Hyderabad","North Indian, Chinese, Mughlai",₹200,₹50,3.2,10,1
+ID_5321,"MG Road, Pune","Biryani, Hyderabadi, North Indian, Mughlai",₹100,₹0,-,-,-
+ID_5409,"Sandhurst Road, Mumbai CST Area","Pizza, Fast Food",₹250,₹50,4.2,84,62
+ID_4352,Delhi University-GTB Nagar,"Fast Food, North Indian",₹600,₹50,3.5,157,77
+ID_1036,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, Thai, Goan, Mughlai, Seafood",₹200,₹99,4.1,133,81
+ID_7156,"Mico Layout, Stage 2, BTM Layout,Bangalore","Desserts, Ice Cream",₹200,₹50,4.0,277,195
+ID_444,"Sector 14, Noida",North Indian,₹100,₹50,3.5,22,13
+ID_7968,"Rmz Centennial, I Gate, Whitefield","Sandwich, Burger, Fast Food, Rolls, Beverages",₹100,₹50,3.8,30,19
+ID_6508,"Delhi High Court, India Gate","North Indian, BBQ",₹200,₹50,3.3,20,3
+ID_3803,"Sector 1, Noida","Chinese, Fast Food",₹200,₹50,2.8,267,46
+ID_5941,"Chandni Chowk, Kolkata","Cafe, Salad",₹350,₹50,3.9,659,407
+ID_7179,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, North Indian, Chinese",₹200,₹50,NEW,-,-
+ID_2628,"D-Block, Sector 63, Noida","North Indian, Chinese",₹200,₹50,3.7,40,35
+ID_6394,"Hyderabad Public School, Begumpet",South Indian,₹100,₹50,3.8,203,67
+ID_2602,"Delhi High Court, India Gate","Bakery, Desserts",₹300,₹50,3.6,50,34
+ID_7969,"Sector 14, Noida","North Indian, Chinese",₹150,₹50,3.3,16,10
+ID_5060,"Hyderabad Public School, Begumpet",South Indian,₹100,₹50,3.9,87,21
+ID_6175,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Chinese, North Indian, BBQ",₹500,₹99,3.4,43,6
+ID_4081,"Delhi High Court, India Gate",Fast Food,₹200,₹50,3.6,25,14
+ID_7790,"FTI College, Law College Road, Pune","North Indian, South Indian, Chinese",₹150,₹50,NEW,-,-
+ID_3012,"Sector 1, Noida","Chinese, Mughlai, North Indian",₹600,₹99,3.5,292,168
+ID_1058,"FTI College, Law College Road, Pune",Fast Food,₹150,₹50,3.3,21,10
+ID_2567,"Sector 1, Noida","North Indian, Kebab, Mughlai",₹200,₹50,-,-,-
+ID_1598,"Mico Layout, Stage 2, BTM Layout,Bangalore","Bakery, Continental, Pizza, Desserts",₹150,₹50,3.7,29,8
+ID_4347,"Delhi High Court, India Gate","Raw Meats, Fast Food",₹250,₹400,3.7,43,29
+ID_449,"Chandni Chowk, Kolkata",North Indian,₹200,₹50,3.9,709,133
+ID_4442,"Yerawada, Pune, Maharashtra","Continental, Steak, Salad",₹550,₹50,4.0,897,529
+ID_3459,"Rmz Centennial, I Gate, Whitefield","Chinese, Thai",₹250,₹50,3.7,80,60
+ID_1042,"FTI College, Law College Road, Pune","Salad, North Indian, Biryani, Desserts, Beverages, Wraps",₹200,₹50,4.2,343,97
+ID_6990,Delhi University-GTB Nagar,South Indian,₹150,₹50,2.3,61,28
+ID_4436,Delhi University-GTB Nagar,"North Indian, Street Food",₹150,₹50,3.7,81,40
+ID_210,"Noorkhan Bazaar, Malakpet, Hyderabad","Mithai, Bakery, Fast Food",₹150,₹50,3.6,56,9
+ID_391,"Rmz Centennial, I Gate, Whitefield",Andhra,₹200,₹50,3.1,13,1
+ID_1815,"Nathan Road, Mangaldas Road, Pune","Continental, North Indian, Asian, Pizza",₹800,₹50,4.3,2896,1967
+ID_3967,"Sector 14, Noida","Bakery, Desserts, Fast Food",₹150,₹50,3.5,47,16
+ID_1036,"Delhi High Court, India Gate","North Indian, Thai, Goan, Mughlai, Seafood",₹200,₹99,4.1,98,51
+ID_8415,"Sector 1, Noida","Desserts, Fast Food",₹200,₹50,3.3,17,9
+ID_5976,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Chinese, North Indian",₹100,₹50,3.2,8,-
+ID_1443,"Moulali, Kolkata",Fast Food,₹100,₹50,3.3,11,1
+ID_6979,"Mico Layout, Stage 2, BTM Layout,Bangalore","South Indian, Street Food",₹100,₹50,3.7,12,4
+ID_2542,"Sector 63A,Gurgaon","Mexican, Italian",₹200,₹50,2.9,4,2
